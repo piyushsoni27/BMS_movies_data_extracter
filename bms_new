@@ -1,0 +1,127 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Mar 25 19:32:35 2018
+
+@author: piyush
+"""
+
+import re
+from bs4 import BeautifulSoup
+import requests
+import pandas as pd
+import numpy as np
+
+region = "national-capital-region-ncr"
+
+def removekey(d, key):
+    r = dict(d)
+    del r[key]
+    return r
+
+def movie_name(movie_n):
+    movie = ""
+    movie_na = re.split("-", movie_n)
+    for i in range(1, len(movie_na)-1):
+        movie += movie_na[i] + " "
+        
+    movie += movie_na[len(movie_na)-1]
+    
+    return movie
+
+    
+languages = ""
+lang_ind = 1
+
+site = "https://in.bookmyshow.com/" + region + "/movies/"
+
+try:
+    page = requests.get(site)
+except:
+    raise ConnectionError("Check your Internet Connection")
+    
+soup = BeautifulSoup(page.content, "html.parser")
+
+body = soup.find("body")
+
+movie_col = body.find(class_ = "mv-row")
+
+movie_cards = movie_col.find_all(class_ = "wow fadeIn movie-card-container")
+
+col_names = list(removekey(movie_cards[0].attrs,"class").keys())
+
+col_names.extend(["event-code", "event-name"])
+
+movie_df = pd.DataFrame(columns=col_names)
+
+for card in movie_cards:
+    event = card.find('ul', {"class" : "rating-stars"})
+    
+    new = removekey(card.attrs, "class")
+    new["event-code"] = event["event-code"]
+    new["event-name"] = event["event-name"]
+    
+    card_values = list(new.values())
+    new_df = pd.DataFrame(card_values, index=col_names).T
+
+    movie_df = pd.concat([movie_df, new_df], axis=0)
+    
+movie_df.reset_index(inplace=True)
+movie_df.drop("index", inplace=True, axis=1)
+
+movie_df = movie_df.rename(index=str, columns={"data-selector": "type", "data-filter" : "data_filter", "data-language-filter" : "languages", "data-dimension-filter" : "dimension"
+                                               ,"data-search-filter" : "data_search_filter", "data-genre-filter" : "genre", "event-code" :  "event_code", "event-name" :  "event_name"})
+
+movie_df.drop(["data_filter", "data_search_filter"], inplace=True, axis=1)
+
+movie_df.replace("", np.nan, inplace=True)
+
+movie_df.dropna(inplace=True)
+
+
+format_filter_list = body.find(class_="format __filter-list")
+format_filters = format_filter_list.find_all('input', {"value" : True})
+
+formats = [format_["value"] for format_ in format_filters]
+
+for format_ in formats:
+    movie_df[format_] = np.nan
+
+genre_filter_list = body.find(class_="genre __filter-list")
+genre_filters = genre_filter_list.find_all('input', {"value" : True})
+
+genres = [genre["value"].lower() for genre in genre_filters]
+
+for genre in genres:
+    movie_df[genre] = np.nan
+
+language_filter_list = body.find(class_="language __filter-list")
+language_filters = language_filter_list.find_all('input', {"value" : True})
+
+languages = [language["value"] for language in language_filters]
+"""
+if(len(languages) != 0): languages.insert(0, 'all')
+else: raise SystemExit("No movies in selected region")    
+"""
+
+for lang in languages:
+    movie_df[lang] = np.nan
+    
+lan = movie_df.languages.apply(lambda s : str(s).split("|"))
+
+for index, row in movie_df.iterrows():
+    for i in range(1, len(row.languages.split("|"))):
+        movie_df.set_value(index, row.languages.split("|")[i], int(1))
+        
+    for i in range(1, len(row.genre.split("|"))):
+        movie_df.set_value(index, re.sub('[^A-Za-z0-9]+', '', row.genre.split("|")[i].lower()), int(1))
+      
+    for i in range(1, len(row.dimension.split("|"))):
+        movie_df.set_value(index, row.dimension.split("|")[i], int(1))
+      
+
+movie_df[languages] = movie_df[languages].fillna(0).astype(int)
+
+movie_df[genres] = movie_df[genres].fillna(0).astype(int)
+
+movie_df[formats] = movie_df[formats].fillna(0).astype(int)

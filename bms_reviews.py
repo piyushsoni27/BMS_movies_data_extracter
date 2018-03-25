@@ -2,7 +2,7 @@
 """
 Created on Mon Sep  4 20:30:43 2017
 
-@author: ANSHUL
+@author: Piyush
 """
 import time
 #from bms_now_showing import all_movies_name, event_codes, site, movies_names

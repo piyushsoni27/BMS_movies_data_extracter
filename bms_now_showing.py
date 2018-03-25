@@ -2,8 +2,9 @@
 import re
 from bs4 import BeautifulSoup
 import requests
+import pandas as pd
 
-region = "noida"
+region = "national-capital-region-ncr"
 
 
 def movie_name(movie_n):
@@ -75,7 +76,7 @@ all_movies_name = list(map(movie_name, movies))
 #print(all_movies_name)
 
 ## Actual movies names
-movies_names = [events[i]["event-name"] for i in range(len(events)) if mask[i]]
+movies_names = pd.Series([events[i]["event-name"] for i in range(len(events)) if mask[i]])
 
 event_codes = [events[i]["event-code"] for i in range(len(events)) if mask[i]]
 print(movies_names)
