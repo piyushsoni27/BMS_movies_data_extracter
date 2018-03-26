@@ -33,6 +33,8 @@ class BMSData():
         
         self.topten = self.topten_movies()
         
+        self.nearby_theatre = self. nearby_cinemas()
+        
     def removekey(self, d, key):
         r = dict(d)
         del r[key]
@@ -143,6 +145,15 @@ class BMSData():
         
         return filter_values
     
+    def nearby_cinemas(self):
+        nearby_sec = self.body.find("div", {"class" : "main-triales-sect" })
+        
+        nearby_list_text = nearby_sec.find(class_ = "top-cinema column").getText()
+        
+        nearby_list = list(filter(None, nearby_list_text.split("\n")))
+        
+        return [str(list(filter(None,nearby_list[i].split(" | ")))[0]) for i in range(1, len(nearby_list))]
+        
     @property
     def get_movies(self):
         return list(self.movie_df.event_name)
@@ -170,8 +181,12 @@ class BMSData():
     @property
     def get_topten_movies(self):
         return self.topten
+    
+    @property
+    def get_nearby_theatre(self):
+        return self.nearby_theatre
 
 
-bms = BMSData("ncr")
+bms = BMSData("pune")
 
-print(bms.movie_df)
+#print(bms.movie_df)
