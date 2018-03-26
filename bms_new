@@ -12,7 +12,7 @@ import requests
 import pandas as pd
 import numpy as np
 
-region = "national-capital-region-ncr"
+region = "karera"
 
 def removekey(d, key):
     r = dict(d)
@@ -46,6 +46,9 @@ body = soup.find("body")
 
 movie_col = body.find(class_ = "mv-row")
 
+if movie_col is None :
+    raise ValueError("No movies near you")
+
 movie_cards = movie_col.find_all(class_ = "wow fadeIn movie-card-container")
 
 col_names = list(removekey(movie_cards[0].attrs,"class").keys())
@@ -69,7 +72,7 @@ for card in movie_cards:
 movie_df.reset_index(inplace=True)
 movie_df.drop("index", inplace=True, axis=1)
 
-movie_df = movie_df.rename(index=str, columns={"data-selector": "type", "data-filter" : "data_filter", "data-language-filter" : "languages", "data-dimension-filter" : "dimension"
+movie_df = movie_df.rename(index=str, columns={"data-selector": "type", "data-filter" : "data_filter", "data-language-filter" : "languages", "data-dimension-filter" : "format"
                                                ,"data-search-filter" : "data_search_filter", "data-genre-filter" : "genre", "event-code" :  "event_code", "event-name" :  "event_name"})
 
 movie_df.drop(["data_filter", "data_search_filter"], inplace=True, axis=1)
@@ -116,8 +119,8 @@ for index, row in movie_df.iterrows():
     for i in range(1, len(row.genre.split("|"))):
         movie_df.set_value(index, re.sub('[^A-Za-z0-9]+', '', row.genre.split("|")[i].lower()), int(1))
       
-    for i in range(1, len(row.dimension.split("|"))):
-        movie_df.set_value(index, row.dimension.split("|")[i], int(1))
+    for i in range(1, len(row.format.split("|"))):
+        movie_df.set_value(index, row.format.split("|")[i], int(1))
       
 
 movie_df[languages] = movie_df[languages].fillna(0).astype(int)
@@ -125,3 +128,5 @@ movie_df[languages] = movie_df[languages].fillna(0).astype(int)
 movie_df[genres] = movie_df[genres].fillna(0).astype(int)
 
 movie_df[formats] = movie_df[formats].fillna(0).astype(int)
+
+movie_df.drop(["type", "format", "languages", "genre"], inplace=True, axis=1)

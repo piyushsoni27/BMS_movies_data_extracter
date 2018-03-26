@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
-region = "national-capital-region-ncr"
+region = "karera"
 
 
 def movie_name(movie_n):
