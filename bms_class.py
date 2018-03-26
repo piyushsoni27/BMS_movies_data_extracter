@@ -27,6 +27,18 @@ class BMSData():
         
         self.body = soup.find("body")
         
+        self.get_movie_data()
+        
+        self.fill_DataFrame()
+        
+        self.topten = self.topten_movies()
+        
+    def removekey(self, d, key):
+        r = dict(d)
+        del r[key]
+        return r
+    
+    def get_movie_data(self):
         movie_col = self.body.find(class_ = "mv-row")
         
         if movie_col is None :
@@ -40,12 +52,16 @@ class BMSData():
         
         self.movie_df = pd.DataFrame(columns=self.col_names)
         
-        self.fill_DataFrame()
+    def topten_movies(self):
+        top = self.body.find("div", {"class" : "__col-top-ten"})
+        top_list = top.find_all(class_ = "movies sa-data-plugin _top10")
         
-    def removekey(self, d, key):
-        r = dict(d)
-        del r[key]
-        return r
+        top_ten = []
+        
+        for movie in top_list:
+            top_ten.append(self.movie_df[self.movie_df.event_code == movie["data-event-code"]]["event_name"].to_string(index=False))
+            
+        return top_ten
 
     def fill_DataFrame(self):
         
@@ -128,8 +144,8 @@ class BMSData():
         return filter_values
     
     @property
-    def now_showing(self):
-        return self.movie_df.event_name
+    def get_movies(self):
+        return list(self.movie_df.event_name)
     
     @property
     def get_filter_list(self):
@@ -140,17 +156,22 @@ class BMSData():
         return self.movie_df
     
     @property
-    def get_format_list(self):\
+    def get_format_list(self):
         return self.format_filter_list
     
     @property
-    def get_language_list(self):\
+    def get_language_list(self):
         return self.language_filter_list
     
     @property
-    def get_genre_list(self):\
+    def get_genre_list(self):
         return self.genre_filter_list
+    
+    @property
+    def get_topten_movies(self):
+        return self.topten
 
-movie = BMSData("ncr")
 
-print(movie.movie_df)
+bms = BMSData("ncr")
+
+print(bms.movie_df)

@@ -12,7 +12,7 @@ import requests
 import pandas as pd
 import numpy as np
 
-region = "karera"
+region = "ncr"
 
 def removekey(d, key):
     r = dict(d)
