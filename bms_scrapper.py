@@ -25,10 +25,9 @@ class BMSData():
         soup = BeautifulSoup(page.content, "html.parser")
         
         
-        
         self.body = soup.find("body")
         
-        self.get_movie_data()
+        self.fetch_movie_data()
         
         self.fill_DataFrame()
         
@@ -36,14 +35,13 @@ class BMSData():
         
         self.nearby_theatre = self.fetch_nearby_cinemahalls()
         
-        
-        
+               
     def removekey(self, d, key):
         r = dict(d)
         del r[key]
         return r
     
-    def get_movie_data(self):
+    def fetch_movie_data(self):
         movie_col = self.body.find(class_ = "mv-row")
         
         if movie_col is None :
@@ -55,7 +53,7 @@ class BMSData():
         
         self.col_names.extend(["event-code", "event-name"])
         
-        self.movie_df = pd.DataFrame(columns=self.col_names)
+        self.master_df = pd.DataFrame(columns=self.col_names)
         
     def fetch_topten_movies(self):
         top = self.body.find("div", {"class" : "__col-top-ten"})
@@ -64,13 +62,15 @@ class BMSData():
         top_ten = []
         
         for movie in top_list:
-            top_ten.append(self.movie_df[self.movie_df.event_code == movie["data-event-code"]]["event_name"].to_string(index=False))
+            top_ten.append(self.master_df[self.master_df.event_code == movie["data-event-code"]]["event_name"].to_string(index=False))
             
         return top_ten
 
     def fill_DataFrame(self):
         
         for card in self.movie_cards:
+            
+            
             event = card.find('ul', {"class" : "rating-stars"})
             
             new = self.removekey(card.attrs, "class")
@@ -79,36 +79,40 @@ class BMSData():
             
             card_values = list(new.values())
             new_df = pd.DataFrame(card_values, index=self.col_names).T
-        
-            self.movie_df = pd.concat([self.movie_df, new_df], axis=0)
+            
+            book_link = self.fetch_book_link(card, event["event-name"])
+            new_df["booking_links"] = book_link 
+
+            self.master_df = pd.concat([self.master_df, new_df], axis=0)
+
     
-        self.movie_df.reset_index(inplace=True)
-        self.movie_df.drop("index", inplace=True, axis=1)
+        self.master_df.reset_index(inplace=True)
+        self.master_df.drop("index", inplace=True, axis=1)
         
-        self.movie_df = self.movie_df.rename(index=str, columns={"data-selector": "type", "data-filter" : "data_filter", "data-language-filter" : "languages", "data-dimension-filter" : "format"
+        self.master_df = self.master_df.rename(index=str, columns={"data-selector": "type", "data-filter" : "data_filter", "data-language-filter" : "languages", "data-dimension-filter" : "format"
                                                        ,"data-search-filter" : "data_search_filter", "data-genre-filter" : "genre", "event-code" :  "event_code", "event-name" :  "event_name"})
         
-        self.movie_df.drop(["data_filter", "data_search_filter"], inplace=True, axis=1)
+        self.master_df.drop(["data_filter", "data_search_filter"], inplace=True, axis=1)
         
-        self.movie_df.replace("", np.nan, inplace=True)
+        self.master_df.replace("", np.nan, inplace=True)
         
-        self.movie_df.dropna(inplace=True)
+        #self.master_df.dropna(inplace=True)
         
         self.filters_ = ["language", "genre", "format"]
         
-        self.movie_df.reset_index(drop=True, inplace=True)
+        self.master_df.reset_index(drop=True, inplace=True)
         
         for filter_ in self.filters_:
-            self.filters(filter_)
+            self.create_filters_df(filter_)
 
-        self.movie_df.drop(["languages", "genre", "format"], inplace=True, axis=1)
+        self.master_df.drop(["languages", "genre", "format"], inplace=True, axis=1)
         
     
-    def filters(self, filter_):
+    def create_filters_df(self, filter_):
         """
         Creates DataFarame for language, genre, format filters movie wise
         """
-        filter_values = self.get_filters(filter_)
+        filter_values = self.fetch_filters(filter_)
         
         if(filter_ == "language"):
             self.language_filter_list = filter_values
@@ -123,44 +127,47 @@ class BMSData():
             self.format_filter_df = pd.DataFrame(columns=filter_values)
             
 
-        for index, row in self.movie_df.iterrows():
+        for index, row in self.master_df.iterrows():
             
             filter_empty_series = pd.DataFrame(np.nan, index=[0], columns=filter_values)
             
             if(filter_ == "language"):
- 
-                for i in range(1, len(row.languages.split("|"))):                    
-                    filter_empty_series[row.languages.split("|")[i]] = 1 
-                
+
+                if(pd.notnull(row.languages)):
+                    for i in range(1, len(row.languages.split("|"))):                    
+                        filter_empty_series[row.languages.split("|")[i]] = 1 
+                    
                 self.language_filter_df = pd.concat([self.language_filter_df, filter_empty_series], ignore_index=True)
             
             elif(filter_ == "genre"):  
-                for i in range(1, len(row.genre.split("|"))):
-                    filter_empty_series[re.sub('[^A-Za-z0-9]+', '', row.genre.split("|")[i].lower())] = 1 
-                
+                if(pd.notnull(row.genre)):
+                    for i in range(1, len(row.genre.split("|"))):
+                        filter_empty_series[re.sub('[^A-Za-z0-9]+', '', row.genre.split("|")[i].lower())] = 1 
+                    
                 self.genre_filter_df = pd.concat([self.genre_filter_df, filter_empty_series], ignore_index=True)
             
             elif(filter_ == "format"):  
-                for i in range(1, len(row.format.split("|"))):
-                    filter_empty_series[row.format.split("|")[i]] = 1 
+                if(pd.notnull(row.format)):
+                    for i in range(1, len(row.format.split("|"))):
+                        filter_empty_series[row.format.split("|")[i]] = 1 
                 
                 self.format_filter_df = pd.concat([self.format_filter_df, filter_empty_series], ignore_index=True)
             
         
         if(filter_ == "language"):
             self.language_filter_df.fillna(0, inplace=True)
-            self.language_filter_df = pd.concat([self.movie_df[["event_code", "event_name"]], self.language_filter_df], axis=1)
+            self.language_filter_df = pd.concat([self.master_df[["event_code", "event_name"]], self.language_filter_df], axis=1)
             
         elif(filter_ == "genre"):  
             self.genre_filter_df.fillna(0, inplace=True)
-            self.genre_filter_df = pd.concat([self.movie_df[["event_code", "event_name"]], self.genre_filter_df], axis=1)
+            self.genre_filter_df = pd.concat([self.master_df[["event_code", "event_name"]], self.genre_filter_df], axis=1)
             
         elif(filter_ == "format"):  
             self.format_filter_df.fillna(0, inplace=True)
-            self.format_filter_df = pd.concat([self.movie_df[["event_code", "event_name"]], self.format_filter_df], axis=1)
+            self.format_filter_df = pd.concat([self.master_df[["event_code", "event_name"]], self.format_filter_df], axis=1)
         
         
-    def get_filters(self, filter_):
+    def fetch_filters(self, filter_):
         """
         Returns a list of available filters on BMS
         """
@@ -185,10 +192,19 @@ class BMSData():
         nearby_list = list(filter(None, nearby_list_text.split("\n")))
         
         return [str(list(filter(None,nearby_list[i].split(" | ")))[0]) for i in range(1, len(nearby_list))]
+    
+    def fetch_book_link(self, card, s):
+        book_button = card.find(class_ = "book-button")
         
+        if(book_button.find("a", href=True) is not None):
+            return "https://in.bookmyshow.com" + book_button.find("a", href=True)["href"]
+    
+        else:
+            return np.nan
+    
     @property
     def get_movies(self):
-        return list(self.movie_df.event_name)
+        return list(self.master_df.event_name)
     
     @property
     def get_filter_list(self):
@@ -196,7 +212,7 @@ class BMSData():
     
     @property
     def get_DataFrame(self):
-        return self.movie_df
+        return self.master_df
     
     @property
     def get_format_list(self):
@@ -215,10 +231,10 @@ class BMSData():
         return self.topten
     
     @property
-    def get_nearby_theatre(self):
+    def get_nearby_theatres(self):
         return self.nearby_theatre
 
 
 bms = BMSData("ncr")
 
-#print(bms.movie_df)
+#print(bms.master_df)
