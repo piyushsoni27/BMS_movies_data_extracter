@@ -9,11 +9,14 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import numpy as np
+import warnings
 
 
 class BMSData():
     
     def __init__(self, region):
+        
+        warnings.filterwarnings("ignore")
         
         site = "https://in.bookmyshow.com/" + region + "/movies/"
         
