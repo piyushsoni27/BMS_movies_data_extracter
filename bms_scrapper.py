@@ -18,6 +18,7 @@ class BMSData():
         site = "https://in.bookmyshow.com/" + region + "/movies/"
         
         try:
+            print("Extracting Data, please wait...\n")
             page = requests.get(site)
         except:
             raise ConnectionError("Check your Internet Connection")
@@ -31,10 +32,11 @@ class BMSData():
         
         self.fill_DataFrame()
         
-        self.topten = self.fetch_topten_movies()
+        self.topten = pd.Series(self.fetch_topten_movies())
         
-        self.nearby_theatre = self.fetch_nearby_cinemahalls()
+        self.nearby_theatre = pd.Series(self.fetch_nearby_cinemahalls())
         
+        return
                
     def removekey(self, d, key):
         r = dict(d)
@@ -54,6 +56,8 @@ class BMSData():
         self.col_names.extend(["event-code", "event-name"])
         
         self.master_df = pd.DataFrame(columns=self.col_names)
+        
+        return
         
     def fetch_topten_movies(self):
         top = self.body.find("div", {"class" : "__col-top-ten"})
@@ -100,13 +104,19 @@ class BMSData():
         
         self.filters_ = ["language", "genre", "format"]
         
-        self.master_df.reset_index(drop=True, inplace=True)
-        
         for filter_ in self.filters_:
             self.create_filters_df(filter_)
 
-        self.master_df.drop(["languages", "genre", "format"], inplace=True, axis=1)
+       # self.master_df.drop(["languages", "genre", "format"], inplace=True, axis=1)
+        self.master_df.dropna(subset=["genre"], inplace=True)
         
+        self.master_df.reset_index(drop=True, inplace=True)
+        
+        columns = ['event_name', 'event_code', 'format', 'genre', 'languages', 'type', 'booking_links']
+        
+        self.master_df = self.master_df[columns]
+        
+        return
     
     def create_filters_df(self, filter_):
         """
@@ -166,7 +176,8 @@ class BMSData():
             self.format_filter_df.fillna(0, inplace=True)
             self.format_filter_df = pd.concat([self.master_df[["event_code", "event_name"]], self.format_filter_df], axis=1)
         
-        
+        return
+    
     def fetch_filters(self, filter_):
         """
         Returns a list of available filters on BMS
@@ -204,7 +215,7 @@ class BMSData():
     
     @property
     def get_movies(self):
-        return list(self.master_df.event_name)
+        return pd.Series(self.master_df.event_name)
     
     @property
     def get_filter_list(self):
@@ -235,6 +246,6 @@ class BMSData():
         return self.nearby_theatre
 
 
-bms = BMSData("ncr")
+bms = BMSData("noida")
 
 #print(bms.master_df)
