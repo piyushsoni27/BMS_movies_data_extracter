@@ -225,7 +225,7 @@ class BMSData():
         return self.filters_
     
     @property
-    def get_DataFrame(self):
+    def get_movies_info(self):
         return self.master_df
     
     @property
@@ -249,6 +249,6 @@ class BMSData():
         return self.nearby_theatre
 
 
-bms = BMSData("noida")
-
-#print(bms.master_df)
+if __name__ == "__main__":
+    bms = BMSData("noida")
+    print(bms.get_movies_info)
