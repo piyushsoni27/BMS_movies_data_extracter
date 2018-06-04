@@ -32,10 +32,10 @@ class city():
         
         body = soup.find("body")
         
-        popular_cities = self.fetch_popular_cities(body)
-        other_cities = self.fetch_other_cities(body)
+        self.popular_cities = self.fetch_popular_cities(body)
+        self.other_cities = self.fetch_other_cities(body)
         
-        self.city_df = pd.concat([popular_cities, other_cities], join = "inner").reset_index(drop=True)
+        self.city_df = pd.concat([self.popular_cities, self.other_cities], join = "inner").reset_index(drop=True)
         
         return
         
@@ -65,7 +65,6 @@ class city():
         popular_city_df = pd.DataFrame({"city_name" : popular_cities, "city_id" : popular_cities_codes})
     
         return popular_city_df
-#print(popular_cities)
     
     def fetch_other_cities(self, body):
         other_cities_soup = body.find(class_ = "others-cities-list")
@@ -92,6 +91,16 @@ class city():
     def get_cities(self):
         return self.city_df
     
+    @property
+    def get_popular_cities(self):
+        return self.popular_cities
+    
+    @property
+    def get_other_cities(self):
+        return self.other_cities
+    
 if __name__ == "__main__" :
     cities = city()
     print(cities.get_cities)
+    print(cities.get_popular_cities)
+    print(cities.get_other_cities)
