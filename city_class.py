@@ -104,3 +104,5 @@ if __name__ == "__main__" :
     print(cities.get_cities)
     print(cities.get_popular_cities)
     print(cities.get_other_cities)
+    
+    cities.get_cities.to_csv("CITY_Table.csv", index=False,header=True)
