@@ -28,10 +28,16 @@ class BMSData():
             
         soup = BeautifulSoup(page.content, "html.parser")
         
+        self.isEmpty = False 
         
         self.body = soup.find("body")
         
         self.fetch_movie_data()
+        
+        if(self.isEmpty):
+            columns = ['event_name', 'event_code', 'format', 'genre', 'languages', 'type', 'booking_links']
+            self.master_df = pd.DataFrame(columns=columns)
+            return
         
         self.fill_DataFrame()
         
@@ -47,10 +53,15 @@ class BMSData():
         return r
     
     def fetch_movie_data(self):
+        
         movie_col = self.body.find(class_ = "mv-row")
         
         if movie_col is None :
-            raise ValueError("OOPS! No movies near you")
+            #raise ValueError("OOPS! No movies near you")
+            print("OOPS! No movies near you")
+            
+            self.isEmpty= True
+            return
         
         self.movie_cards = movie_col.find_all(class_ = "wow fadeIn movie-card-container")
 
