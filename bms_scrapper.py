@@ -88,7 +88,6 @@ class BMSData():
         
         for card in self.movie_cards:
             
-            
             event = card.find('ul', {"class" : "rating-stars"})
             
             new = self.removekey(card.attrs, "class")
@@ -98,8 +97,8 @@ class BMSData():
             card_values = list(new.values())
             new_df = pd.DataFrame(card_values, index=self.col_names).T
             
-            book_link = self.fetch_book_link(card, event["event-name"])
-            new_df["booking_links"] = book_link 
+            new_df = self.fetch_booking_links_with_language_and_format(card, event["event-name"], new_df)
+            #new_df["booking_links"] = book_link 
 
             self.master_df = pd.concat([self.master_df, new_df], axis=0)
 
@@ -218,14 +217,30 @@ class BMSData():
         
         return [str(list(filter(None,nearby_list[i].split(" | ")))[0]) for i in range(1, len(nearby_list))]
     
-    def fetch_book_link(self, card, s):
-        book_button = card.find(class_ = "book-button")
+    def fetch_booking_links_with_language_and_format(self, card, s, df):
+        experience_holder = card.find(class_ = "experience-holder")
         
-        if(book_button.find("a", href=True) is not None):
-            return "https://in.bookmyshow.com" + book_button.find("a", href=True)["href"]
+        language_based_formats = experience_holder.find_all(class_ = "language-based-formats")
+        
+        #print(language_based_formats)
+        print(s)
+        for language_based_format in language_based_formats:
+            
+            print(language_based_format.find(class_="header").text)
+            formats = language_based_format.find_all('span', {"class" : "__format"})
+            
+            for format_ in formats:
+                print(format_.text)
+
+        #if(len(language_based_formats) != 0): print(language_based_formats[0].find('span', {"class" : "__format"}).text)
+        
+        if(experience_holder.find("a", href=True) is not None):
+            df["booking_links"] = "https://in.bookmyshow.com" + experience_holder.find("a", href=True)["href"]
     
         else:
-            return np.nan
+            df["booking_links"] = np.nan
+            
+        return df
     
     @property
     def get_movies(self):
