@@ -93,23 +93,27 @@ class BMSData():
 
     def fill_DataFrame(self):
         
+        i=0
+        
         for card in self.movie_cards:
-            
-            event = card.find('ul', {"class" : "rating-stars"})
-            
-            new = self.removekey(card.attrs, "class")
-            new["event-code"] = event["event-code"]
-            new["event-name"] = event["event-name"]
-            
-            card_values = list(new.values())
-            new_df = pd.DataFrame(card_values, index=self.col_names).T
-            
-            new_df = self.fetch_booking_links_with_language_and_format(card, event["event-name"], new_df)
-            #new_df["booking_links"] = book_link 
-
-            self.master_df = pd.concat([self.master_df, new_df], axis=0)
-
+            if(i==2):
+                print(i)
+                event = card.find('ul', {"class" : "rating-stars"})
+                #print(card.prettify())
+                new = self.removekey(card.attrs, "class")
+                
+                new["event-code"] = event["event-code"]
+                new["event-name"] = event["event-name"]
+                
+                card_values = list(new.values())
+                new_df = pd.DataFrame(card_values, index=self.col_names).T
+                
+                new_df = self.fetch_booking_links_with_language_and_format(card, event["event-name"], new_df)
+                #new_df["booking_links"] = book_link 
     
+                self.master_df = pd.concat([self.master_df, new_df], axis=0)
+            else: i=i+1
+            
         self.master_df.reset_index(inplace=True)
         self.master_df.drop("index", inplace=True, axis=1)
         
@@ -132,7 +136,7 @@ class BMSData():
         
         self.master_df.reset_index(drop=True, inplace=True)
         
-        columns = ['event_name', 'event_code', 'format', 'genre', 'languages', 'type', 'booking_links']
+        columns = ['event_name', 'event_code', 'format', 'genre', 'languages', 'type', 'booking_links', "lang", "format_"]
         
         self.master_df = self.master_df[columns]
         
@@ -235,9 +239,10 @@ class BMSData():
             
             print(language_based_format.find(class_="header").text)
             formats = language_based_format.find_all('span', {"class" : "__format"})
-            
+            df["lang"] = language_based_format.find(class_="header").text
+            print(df.iloc[-1])
             for format_ in formats:
-                print(format_.text)
+                df["format_"] = format_.text
 
         #if(len(language_based_formats) != 0): print(language_based_formats[0].find('span', {"class" : "__format"}).text)
         
@@ -283,10 +288,5 @@ class BMSData():
 
 
 if __name__ == "__main__":
-<<<<<<< Updated upstream
-    bms = BMSData("noida")
+    bms = BMSData("ncr")
     print(bms.get_movies_info)
-=======
-    bms = BMSData("bagru")
-    print(bms.get_movies_info)
->>>>>>> Stashed changes
