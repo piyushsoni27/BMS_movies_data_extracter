@@ -64,6 +64,13 @@ class BMSData():
             return
         
         self.movie_cards = movie_col.find_all(class_ = "wow fadeIn movie-card-container")
+        
+        if len(self.movie_cards) == 0:
+            #raise ValueError("OOPS! No movies near you")
+            print("OOPS! No movies near you")
+            
+            self.isEmpty= True
+            return
 
         self.col_names = list(self.removekey(self.movie_cards[0].attrs,"class").keys())
         
@@ -276,5 +283,10 @@ class BMSData():
 
 
 if __name__ == "__main__":
+<<<<<<< Updated upstream
     bms = BMSData("noida")
     print(bms.get_movies_info)
+=======
+    bms = BMSData("bagru")
+    print(bms.get_movies_info)
+>>>>>>> Stashed changes

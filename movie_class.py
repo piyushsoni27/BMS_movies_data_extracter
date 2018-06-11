@@ -14,9 +14,13 @@ city_table = pd.read_csv("CITY_Table.csv")
 movie_table = pd.DataFrame(columns=["movie_name", "movie_id", "city_id"])
 
 for i in range(len(city_table)):
-    
+    print(i)
     region = city_table.city_name.iloc[i]
-    BMS_region = bms.BMSData(region)
+    
+    try:
+        BMS_region = bms.BMSData(region)
+    except:
+        continue
     
     movies_info = BMS_region.get_movies_info.rename(index=str, columns={"event_name" : "movie_name", "event_code" : "movie_id"})
    # movie_table_region = 
@@ -24,3 +28,6 @@ for i in range(len(city_table)):
     movie_table = pd.concat([movie_table, movies_info[["movie_name", "movie_id", "city_id"]]])
     #print(region)
     #print(BMS_region.get_movies_info)
+
+movie_table.reset_index(inplace=True)
+movie_table.to_csv("MOVIE_Table.csv", index = False, header = True)
