@@ -35,7 +35,7 @@ class BMSData():
         self.fetch_movie_data()
         
         if(self.isEmpty):
-            columns = ['event_name', 'event_code', 'format', 'genre', 'languages', 'type', 'booking_links']
+            columns = ['event_name', 'event_code', 'booking_links']
             self.master_df = pd.DataFrame(columns=columns)
             return
         
@@ -120,14 +120,6 @@ class BMSData():
         
         self.master_df.replace("", np.nan, inplace=True)
         
-        #self.master_df.dropna(inplace=True)
-        
-        self.filters_ = ["language", "genre", "format"]
-        
-        for filter_ in self.filters_:
-            self.create_filters_df(filter_)
-
-       # self.master_df.drop(["languages", "genre", "format"], inplace=True, axis=1)
         self.master_df.dropna(subset=["genre"], inplace=True)
         
         self.master_df.reset_index(drop=True, inplace=True)
@@ -135,6 +127,11 @@ class BMSData():
         columns = ['event_name', 'event_code', 'format', 'genre', 'languages', 'type', 'booking_links', "lang", "format_"]
         
         self.master_df = self.master_df[columns]
+        
+        self.filters_ = ["language", "genre", "format"]
+        
+        for filter_ in self.filters_:
+            self.create_filters_df(filter_)
         
         return
     
@@ -149,6 +146,7 @@ class BMSData():
             self.language_filter_df = pd.DataFrame(columns=filter_values)
                     
         elif(filter_ == "genre"):  
+            print(filter_values)
             self.genre_filter_list = filter_values
             self.genre_filter_df = pd.DataFrame(columns=filter_values)
             
@@ -156,7 +154,7 @@ class BMSData():
             self.format_filter_list = filter_values
             self.format_filter_df = pd.DataFrame(columns=filter_values)
             
-
+        
         for index, row in self.master_df.iterrows():
             
             filter_empty_series = pd.DataFrame(np.nan, index=[0], columns=filter_values)
@@ -173,7 +171,7 @@ class BMSData():
                 if(pd.notnull(row.genre)):
                     for i in range(1, len(row.genre.split("|"))):
                         filter_empty_series[re.sub('[^A-Za-z0-9]+', '', row.genre.split("|")[i].lower())] = 1 
-                    
+                #print(self.filter_empty_series)    
                 self.genre_filter_df = pd.concat([self.genre_filter_df, filter_empty_series], ignore_index=True)
             
             elif(filter_ == "format"):  
@@ -293,7 +291,7 @@ class BMSData():
     
     @property
     def get_movies_info(self):
-        return self.master_df
+        return self.master_df[['event_name', 'event_code', 'booking_links', "lang", "format_"]]
     
     @property
     def get_format_list(self):
@@ -304,8 +302,8 @@ class BMSData():
         return self.language_filter_list
     
     @property
-    def get_genre_list(self):
-        return self.genre_filter_list
+    def get_genre_df(self):
+        return self.genre_filter_df
     
     @property
     def get_topten_movies(self):
