@@ -93,26 +93,22 @@ class BMSData():
 
     def fill_DataFrame(self):
         
-        i=0
-        
         for card in self.movie_cards:
-            if(i==2):
-                print(i)
-                event = card.find('ul', {"class" : "rating-stars"})
-                #print(card.prettify())
-                new = self.removekey(card.attrs, "class")
-                
-                new["event-code"] = event["event-code"]
-                new["event-name"] = event["event-name"]
-                
-                card_values = list(new.values())
-                new_df = pd.DataFrame(card_values, index=self.col_names).T
-                
-                new_df = self.fetch_booking_links_with_language_and_format(card, event["event-name"], new_df)
-                #new_df["booking_links"] = book_link 
-    
-                self.master_df = pd.concat([self.master_df, new_df], axis=0)
-            else: i=i+1
+        
+            event = card.find('ul', {"class" : "rating-stars"})
+            #print(card.prettify())
+            new = self.removekey(card.attrs, "class")
+            
+            new["event-code"] = event["event-code"]
+            new["event-name"] = event["event-name"]
+            
+            card_values = list(new.values())
+            new_df = pd.DataFrame(card_values, index=self.col_names).T
+            
+            new_df = self.fetch_booking_links_with_language_and_format(card, event["event-name"], new_df)
+            #new_df["booking_links"] = book_link 
+
+            self.master_df = pd.concat([self.master_df, new_df], axis=0)
             
         self.master_df.reset_index(inplace=True)
         self.master_df.drop("index", inplace=True, axis=1)
@@ -235,14 +231,34 @@ class BMSData():
         
         #print(language_based_formats)
         print(s)
-        for language_based_format in language_based_formats:
+        for index, language_based_format in enumerate(language_based_formats):
             
-            print(language_based_format.find(class_="header").text)
-            formats = language_based_format.find_all('span', {"class" : "__format"})
-            df["lang"] = language_based_format.find(class_="header").text
-            print(df.iloc[-1])
-            for format_ in formats:
-                df["format_"] = format_.text
+            if(index == 0):
+                df["lang"] = language_based_format.find(class_="header").text
+                
+                formats = language_based_format.find_all('span', {"class" : "__format"})
+                
+                for index_for, format_ in enumerate(formats):
+                    if(index_for == 0):
+                        df["format_"] = format_.text
+                    else:
+                        print(format_.text)
+                        df.loc[len(df)] = df.loc[len(df)-1]
+                        df.loc[len(df)-1]["format_"] = format_.text
+            
+            else:
+                df.loc[len(df)] = df.loc[len(df)-1]
+                #print(language_based_format.find(class_="header").text)
+                formats = language_based_format.find_all('span', {"class" : "__format"})
+                
+                df.loc[len(df)-1]["lang"] = language_based_format.find(class_="header").text
+                
+                for index_for, format_ in enumerate(formats):
+                    if(index_for == 0):
+                        df["format_"] = format_.text
+                    else:
+                        df.loc[len(df)] = df.loc[len(df)-1]
+                        df.loc[len(df)-1]["format_"] = format_.text
 
         #if(len(language_based_formats) != 0): print(language_based_formats[0].find('span', {"class" : "__format"}).text)
         
