@@ -35,7 +35,7 @@ class BMSData():
         self.fetch_movie_data()
         
         if(self.isEmpty):
-            columns = ['event_name', 'event_code', 'booking_links']
+            columns = ['event_name', 'event_code', 'booking_links', 'lang', 'format_']
             self.master_df = pd.DataFrame(columns=columns)
             return
         
@@ -146,7 +146,7 @@ class BMSData():
             self.language_filter_df = pd.DataFrame(columns=filter_values)
                     
         elif(filter_ == "genre"):  
-            print(filter_values)
+           # print(filter_values)
             self.genre_filter_list = filter_values
             self.genre_filter_df = pd.DataFrame(columns=filter_values)
             
