@@ -93,8 +93,8 @@ class BMSData():
 
     def fill_DataFrame(self):
         
-        for card in self.movie_cards:
-        
+        for ind, card in enumerate(self.movie_cards):
+            
             event = card.find('ul', {"class" : "rating-stars"})
             #print(card.prettify())
             new = self.removekey(card.attrs, "class")
@@ -229,45 +229,58 @@ class BMSData():
         
         language_based_formats = experience_holder.find_all(class_ = "language-based-formats")
         
-        #print(language_based_formats)
-        print(s)
         for index, language_based_format in enumerate(language_based_formats):
             
-            if(index == 0):
-                df["lang"] = language_based_format.find(class_="header").text
+            language = language_based_format.find(class_="header").text
+            booklinks = language_based_format.find_all('a')
+
+            if "lang" not in df.columns:
+                df["lang"] = language
                 
-                formats = language_based_format.find_all('span', {"class" : "__format"})
-                
-                for index_for, format_ in enumerate(formats):
-                    if(index_for == 0):
+                for booklink in booklinks:
+                    
+                    format_ = booklink.find(class_ = "__format")
+
+                    if "format_" not in df.columns:
                         df["format_"] = format_.text
+                        if(booklink["href"] is not None):
+                            df["booking_links"] = "https://in.bookmyshow.com" + booklink["href"]
+                        else:
+                            df["booking_links"] = np.nan
+                    
                     else:
-                        print(format_.text)
                         df.loc[len(df)] = df.loc[len(df)-1]
-                        df.loc[len(df)-1]["format_"] = format_.text
-            
+                        df.iloc[-1, df.columns.get_loc('format_')] = format_.text
+                        
+                        if(booklink is not None):
+                            df.iloc[-1, df.columns.get_loc('booking_links')] = "https://in.bookmyshow.com" + booklink["href"]
+                        else:
+                            df.iloc[-1, df.columns.get_loc('booking_links')] = np.nan
+                    
+                        
             else:
                 df.loc[len(df)] = df.loc[len(df)-1]
-                #print(language_based_format.find(class_="header").text)
-                formats = language_based_format.find_all('span', {"class" : "__format"})
+                df.iloc[-1, df.columns.get_loc('lang')] = language
                 
-                df.loc[len(df)-1]["lang"] = language_based_format.find(class_="header").text
-                
-                for index_for, format_ in enumerate(formats):
-                    if(index_for == 0):
-                        df["format_"] = format_.text
+                for ind, booklink in enumerate(booklinks):
+                    
+                    format_ = booklink.find(class_ = "__format")
+
+                    if(ind == 0):
+                        df.iloc[-1, df.columns.get_loc('format_')] = format_.text
+                        if(booklink is not None):
+                            df.iloc[-1, df.columns.get_loc('booking_links')] = "https://in.bookmyshow.com" + booklink["href"]
+                        else:
+                            df.iloc[-1, df.columns.get_loc('booking_links')] = np.nan
+                    
                     else:
                         df.loc[len(df)] = df.loc[len(df)-1]
-                        df.loc[len(df)-1]["format_"] = format_.text
+                        df.iloc[-1, df.columns.get_loc('format_')] = format_.text
+                        if(booklink is not None):
+                            df.iloc[-1, df.columns.get_loc('booking_links')] =  "https://in.bookmyshow.com" + booklink["href"]
+                        else:
+                            df.iloc[-1, df.columns.get_loc('booking_links')] = np.nan
 
-        #if(len(language_based_formats) != 0): print(language_based_formats[0].find('span', {"class" : "__format"}).text)
-        
-        if(experience_holder.find("a", href=True) is not None):
-            df["booking_links"] = "https://in.bookmyshow.com" + experience_holder.find("a", href=True)["href"]
-    
-        else:
-            df["booking_links"] = np.nan
-            
         return df
     
     @property
