@@ -23,11 +23,9 @@ for i in range(len(city_table)):
         continue
     
     movies_info = BMS_region.get_movies_info.rename(index=str, columns={"event_name" : "movie_name", "event_code" : "movie_id"})
-   # movie_table_region = 
+
     movies_info["city_id"] = city_table.city_id.iloc[i]
     movie_table = pd.concat([movie_table, movies_info[["movie_name", "movie_id", "city_id", 'booking_links', "lang", "format_"]]])
-    #print(region)
-    #print(BMS_region.get_movies_info)
 
 movie_table.reset_index(drop=True, inplace=True)
 movie_table.to_csv("MOVIE_Table.csv", index = False, header = True)
