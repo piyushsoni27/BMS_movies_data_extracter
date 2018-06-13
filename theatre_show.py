@@ -74,3 +74,8 @@ show_table.show_timing = show_table.show_timing.apply(convert_time)
 
 print(theatre_table)
 print(show_table )
+
+theatre_table.drop_duplicates(inplace = True)
+
+theatre_table.to_csv("THEATRE_Table.csv", index = False, header = True)
+show_table.to_csv("SHOW_Table.csv", index = False, header = True)
