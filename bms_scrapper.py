@@ -10,6 +10,7 @@ import requests
 import pandas as pd
 import numpy as np
 import warnings
+import datetime
 
 
 class BMSData():
@@ -90,7 +91,7 @@ class BMSData():
             top_ten.append(self.master_df[self.master_df.event_code == movie["data-event-code"]]["event_name"].to_string(index=False))
             
         return top_ten
-
+    
     def fill_DataFrame(self):
         
         for ind, card in enumerate(self.movie_cards):
@@ -99,15 +100,15 @@ class BMSData():
             #print(card.prettify())
             new = self.removekey(card.attrs, "class")
             
-            new["event-code"] = event["event-code"]
+            # "event-code" --> now get from bookinglinks 
+            new["event-code"] = np.nan
             new["event-name"] = event["event-name"]
             
             card_values = list(new.values())
             new_df = pd.DataFrame(card_values, index=self.col_names).T
             
             new_df = self.fetch_booking_links_with_language_and_format(card, event["event-name"], new_df)
-            #new_df["booking_links"] = book_link 
-
+            
             self.master_df = pd.concat([self.master_df, new_df], axis=0)
             
         self.master_df.reset_index(inplace=True)
@@ -146,7 +147,6 @@ class BMSData():
             self.language_filter_df = pd.DataFrame(columns=filter_values)
                     
         elif(filter_ == "genre"):  
-           # print(filter_values)
             self.genre_filter_list = filter_values
             self.genre_filter_df = pd.DataFrame(columns=filter_values)
             
@@ -222,6 +222,34 @@ class BMSData():
         
         return [str(list(filter(None,nearby_list[i].split(" | ")))[0]) for i in range(1, len(nearby_list))]
     
+    def get_event_code_from_booking_links(self, booking_link):
+        event_code_ = booking_link.split("/")[-3]
+        event_code = event_code_.split("-")[-2]
+        
+        return event_code
+    
+    def get_tomorrow_date(self):
+        """
+        Return tomorrow's Date in string format.
+        e.g. 20180615 --> 15-Jun-2018
+        """
+        tomorrow_date = datetime.date.today() + datetime.timedelta(days=1)
+        return str(tomorrow_date).replace("-","")
+
+    def update_bookinglink(self, booklink):
+        """
+        Update booking link replace today's date with tomorrow's date.
+        OLD: https://in.bookmyshow.com/buytickets/race-3-national-capital-region-ncr/movie-ncr-ET00063107-MT/20180614/
+        NEW: https://in.bookmyshow.com/buytickets/race-3-national-capital-region-ncr/movie-ncr-ET00063107-MT/20180615/
+        """
+        old_booking_link = "https://in.bookmyshow.com" + booklink
+        
+        new_booking_link = old_booking_link[:old_booking_link.rfind("/",0, old_booking_link.rfind("/"))]
+        
+        new_booking_link += '/' + self.get_tomorrow_date() + '/'
+        
+        return new_booking_link
+        
     def fetch_booking_links_with_language_and_format(self, card, s, df):
         experience_holder = card.find(class_ = "experience-holder")
         
@@ -242,7 +270,8 @@ class BMSData():
                     if "format_" not in df.columns:
                         df["format_"] = format_.text
                         if(booklink["href"] is not None):
-                            df["booking_links"] = "https://in.bookmyshow.com" + booklink["href"]
+                            df["booking_links"] = self.update_bookinglink(booklink["href"])
+                            df.iloc[-1, df.columns.get_loc("event-code")] = self.get_event_code_from_booking_links(booklink["href"])
                         else:
                             df["booking_links"] = np.nan
                     
@@ -251,7 +280,8 @@ class BMSData():
                         df.iloc[-1, df.columns.get_loc('format_')] = format_.text
                         
                         if(booklink is not None):
-                            df.iloc[-1, df.columns.get_loc('booking_links')] = "https://in.bookmyshow.com" + booklink["href"]
+                            df.iloc[-1, df.columns.get_loc('booking_links')] = self.update_bookinglink(booklink["href"])
+                            df.iloc[-1, df.columns.get_loc("event-code")] = self.get_event_code_from_booking_links(booklink["href"])
                         else:
                             df.iloc[-1, df.columns.get_loc('booking_links')] = np.nan
                     
@@ -267,7 +297,8 @@ class BMSData():
                     if(ind == 0):
                         df.iloc[-1, df.columns.get_loc('format_')] = format_.text
                         if(booklink is not None):
-                            df.iloc[-1, df.columns.get_loc('booking_links')] = "https://in.bookmyshow.com" + booklink["href"]
+                            df.iloc[-1, df.columns.get_loc('booking_links')] = self.update_bookinglink(booklink["href"])
+                            df.iloc[-1, df.columns.get_loc("event-code")] = self.get_event_code_from_booking_links(booklink["href"])
                         else:
                             df.iloc[-1, df.columns.get_loc('booking_links')] = np.nan
                     
@@ -275,7 +306,8 @@ class BMSData():
                         df.loc[len(df)] = df.loc[len(df)-1]
                         df.iloc[-1, df.columns.get_loc('format_')] = format_.text
                         if(booklink is not None):
-                            df.iloc[-1, df.columns.get_loc('booking_links')] =  "https://in.bookmyshow.com" + booklink["href"]
+                            df.iloc[-1, df.columns.get_loc('booking_links')] = self.update_bookinglink(booklink["href"])
+                            df.iloc[-1, df.columns.get_loc("event-code")] = self.get_event_code_from_booking_links(booklink["href"])
                         else:
                             df.iloc[-1, df.columns.get_loc('booking_links')] = np.nan
 
