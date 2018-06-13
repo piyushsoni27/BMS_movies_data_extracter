@@ -1,0 +1,2391 @@
+theatre_ID,theatre_name,theatre_lat,theatre_long,city,city_ID
+AAMU,Ashok Anil Multiplex: Ulhasnagar,19.2251,73.1642,Ulhasnagar,ULHA
+ADWD,"Carnival: IMAX, Wadala",19.0316,72.8811,Mumbai: South & Central,MCENT
+BCSA,Star Big Cinemas: Ambarnath (W),19.2083,73.1966,Ulhasnagar,ULHA
+BIFU,"Carnival: Funcity, Ulhasnagar",19.2254,73.1659,Ulhasnagar,ULHA
+BISM,"Carnival: Sangam, Andheri",19.1123,72.8646,Mumbai: Western,MWEST
+BMKK,Balaji Movieplex: Kopar Khairane,19.101,73.0102,Navi Mumbai,THAN
+BRVP,Bahar Cinema: Vile Parle (E),19.109,72.8532,Mumbai: Western,MWEST
+CCBI,"Carnival: Annex Mall, Borivali",19.216,72.8677,Mumbai: Western,MWEST
+CCBU,"Carnival: Dreams Mall, Bhandup",19.1463,72.9367,Mumbai: South & Central,MCENT
+CCDM,Chitra Cinema: Dadar (E),19.0136,72.8441,Mumbai: South & Central,MCENT
+CCHA,"Carnival: Harmony Mall, Oshiwara",19.1575,72.8349,Mumbai: Western,MWEST
+CLMM,Citylight Cinema: Mahim,19.0305,72.8415,Mumbai: South & Central,MCENT
+CNJH,Chandan Cinema: Juhu,19.1148,72.8269,Mumbai: Western,MWEST
+CPNM,"Cinepolis: Magnet Mall, Bhandup (W)",19.142,72.9314,Mumbai: South & Central,MCENT
+CPVM,"Cinepolis: Viviana Mall, Thane",19.2085,72.9713,Mumbai: South & Central,MCENT
+CXAE,PVR: Andheri (E),19.1165,72.8565,Mumbai: Western,MWEST
+CXAG,PVR ICON: Versova (Gold),19.1416,72.8312,Mumbai: Western,MWEST
+CXAW,PVR ICON: Versova,19.1416,72.8312,Mumbai: Western,MWEST
+CXEM,"Cinemax: Eternity Mall, Thane",19.1871,72.9625,Mumbai: South & Central,MCENT
+CXGH,"Cinemax: R Odeon Mall, Ghatkopar (E)",19.0795,72.9108,Mumbai: South & Central,MCENT
+CXGW,Cinemax: Goregaon (W),19.1576,72.8452,Mumbai: Western,MWEST
+CXKE,"PVR: Growel, Kandivali (E)",19.2026,72.86,Mumbai: Western,MWEST
+CXKW,"PVR: Sona Shopping Centre, Kandivali (W)",19.2024,72.8508,Mumbai: Western,MWEST
+CXKY,Cinemax: Kalyan,19.2542,73.1423,Kalyan,KALYAN
+CXMI,"Cinemax: Infiniti Mall, Malad (W)",19.1865,72.8356,Mumbai: Western,MWEST
+CXMR,PVR: Mira Road,19.2928,72.8717,Mumbai: Western,MWEST
+CXSN,PVR: Sion,19.0417,72.8643,Mumbai: South & Central,MCENT
+CXWM,"Cinemax: Wonder Mall, Thane",19.2211,72.977,Mumbai: South & Central,MCENT
+DPLP,Matterden Carnival Cinemas (Deepak Talkies): Parel,19.0058,72.8306,Mumbai: South & Central,MCENT
+DPVR,"PVR: Lodha Xperia, Palava",19.1649,73.0748,Mumbai: South & Central,MCENT
+EXCE,New Excelsior Mukta A2 Cinemas: Fort,18.9375,72.8336,Mumbai: South & Central,MCENT
+FMDA,"INOX: Thakur Mall, Dahisar",19.2633,72.8746,Mumbai: Western,MWEST
+FNAN,"Cinepolis: Fun Republic Mall, Andheri (W)",19.1358,72.8332,Mumbai: Western,MWEST
+FNCM,"Fun Cinemas: K Star Mall, Chembur",19.0524,72.9017,Mumbai: South & Central,MCENT
+GATY,G7 Multiplex: Bandra (W),19.0615,72.8387,Mumbai: Western,MWEST
+GCMG,Gold Cinema: Malad,19.1917,72.8204,Mumbai: Western,MWEST
+GDCD,Gold Cinema: Dadar (E),19.0096,72.8423,Mumbai: South & Central,MCENT
+GDTH,"Gold  Cinema: Shivaji Road, Thane (W)",19.1905,72.9766,Mumbai: South & Central,MCENT
+GOCS,Gold Cinema: Santacruz (W),19.0895,72.8393,Mumbai: Western,MWEST
+IMCM,Metro INOX Cinemas: Marine Lines,18.943,72.8289,Mumbai: South & Central,MCENT
+KCMA,Kasturba Cinema: Malad,19.1879,72.8475,Mumbai: Western,MWEST
+KKMT,K.K. Cinema: Kamothe,19.0124,73.0897,Navi Mumbai,THAN
+KMMV,K Movie Star Multiplex: Vasai (W),19.3708,72.8137,Mumbai: Western,MWEST
+KTMM,24 Karat: Jogeshwari,19.1411,72.8437,Mumbai: Western,MWEST
+KURL,Bharat Cineplex: Kurla (W),19.0659,72.879,Mumbai: South & Central,MCENT
+LIBE,Liberty Carnival Cinemas: Marine Lines,18.941,72.8275,Mumbai: South & Central,MCENT
+MACE,Miraj Anupam Cinemas: Goregaon (E),19.1655,72.8512,Mumbai: Western,MWEST
+MAXM,Max Movies: Nerul,19.0246,73.0227,Navi Mumbai,THAN
+MCFF,Miraj Fun Fiesta Cinemas: Nallasopara,19.4246,72.8119,Mumbai: Western,MWEST
+MCTK,Miraj Thakur Cinemas: Kandivali (E),19.2089,72.8725,Mumbai: Western,MWEST
+MDVA,Miraj Dattani Cinemas: Vasai,19.3605,72.8123,Mumbai: Western,MWEST
+MMMC,Maratha Mandir: Mumbai Central,18.9712,72.8221,Mumbai: South & Central,MCENT
+MTCR,Movietime Cubic Mall: Chembur,19.0455,72.903,Mumbai: South & Central,MCENT
+MTHB,"Movietime: The Hub, Goregaon",19.1548,72.8563,Mumbai: Western,MWEST
+MTMA,Movietime: Malad,19.1893,72.8347,Mumbai: Western,MWEST
+NCKK,Nishant Cinema: Kopar Khairane,19.0965,73.0127,Navi Mumbai,THAN
+OSFK,Oracle Fun Square: Kharghar,19.0461,73.0727,Navi Mumbai,THAN
+PCDR,Premiere Cinema: Dadar (E),19.0068,72.8405,Mumbai: South & Central,MCENT
+PCMH,Paradise E-Square Cinema: Mahim,19.0372,72.8426,Mumbai: South & Central,MCENT
+PGCD,Premier Gold: Dongri,18.9608,72.8381,Mumbai: South & Central,MCENT
+PVAW,"PVR: Citi Mall, Andheri (W)",19.1387,72.8315,Mumbai: Western,MWEST
+PVGR,"PVR ICON: Oberoi Mall, Goregaon (E)",19.1738,72.8606,Mumbai: Western,MWEST
+PVJH,"PVR: Dynamix, Juhu",19.1149,72.8273,Mumbai: Western,MWEST
+PVKG,"PVR: Market City, Kurla (Gold)",19.087,72.8903,Mumbai: South & Central,MCENT
+PVKM,"PVR: Market City, Kurla (Premiere)",19.087,72.8903,Mumbai: South & Central,MCENT
+PVMK,"PVR: Milap, Kandivali (W)",19.1961,72.8471,Mumbai: Western,MWEST
+PVML,"PVR: Nirmal Lifestyle, Mulund (W)",19.1673,72.9371,Mumbai: South & Central,MCENT
+PVPH,"PVR: Phoenix, Lower Parel",18.9952,72.8241,Mumbai: South & Central,MCENT
+PZCD,Plaza Cinema: Dadar,19.0219,72.8429,Mumbai: South & Central,MCENT
+RGCM,Regal Cinema: Colaba,18.9246,72.8325,Mumbai: South & Central,MCENT
+RNAB,"RNA Play Cinema: Kalanagar, Bandra (E)",19.0613,72.851,Mumbai: Western,MWEST
+ROXY,Roxy Cinema: Charni Road,18.9551,72.8166,Mumbai: South & Central,MCENT
+RSMI,Rassaz Multiplex: Mira Road,19.2844,72.8633,Mumbai: Western,MWEST
+SACM,Sangeeta Cineplex: Malad,19.1897,72.8515,Mumbai: Western,MWEST
+SMPE,"Carnival: SM5, Kalyan (Recliner)",19.2347,73.1222,Kalyan,KALYAN
+SNGL,Gold Cinema: Sona Borivali (E),19.2346,72.865,Mumbai: Western,MWEST
+STER,Sterling Cineplex: Fort,18.9384,72.8331,Mumbai: South & Central,MCENT
+TCDM,Tilak Cineplex: Dombivali,19.2179,73.0875,Mumbai: South & Central,MCENT
+TCPZ,FUN Cinemas Central Plaza: Girgaon,18.9546,72.8187,Mumbai: South & Central,MCENT
+THAB,"CinemaStar: High Street Mall, Thane",19.2172,72.9812,Mumbai: South & Central,MCENT
+WCVR,Woodland Cinemas: Virar (W),19.4531,72.808,Mumbai: Western,MWEST
+ADKH,"Carnival: Little World Mall, Kharghar",19.0517,73.0701,Navi Mumbai,THAN
+ANDE,Anand Cinema: Thane,19.1849,72.975,Mumbai: South & Central,MCENT
+BIMG,"Carnival: Moviestar, Goregaon",19.1515,72.8463,Mumbai: Western,MWEST
+CCMP,Miraj Cineraj Cinemas: Panvel,18.9999,73.124,Navi Mumbai,THAN
+CCVA,"Carnival: Dreams Mall, Vasai",19.406,72.8376,Mumbai: Western,MWEST
+CPVV,"Cinepolis: VIP Viviana Mall, Thane",19.2085,72.9713,Mumbai: South & Central,MCENT
+FMGH,"INOX: Neelyog, Ghatkopar (E)",19.0852,72.909,Mumbai: South & Central,MCENT
+FMKY,"INOX: Metro Mall Junction, Kalyan (E)",19.2299,73.1232,Kalyan,KALYAN
+FMMA,"INOX: Inorbit Mall, Malad (W)",19.1725,72.8355,Mumbai: Western,MWEST
+FMRL,"INOX: Raghuleela Mall, Kandivali (W)",19.2132,72.8492,Mumbai: Western,MWEST
+FMTK,"INOX: Thakur Movie, Kandivali (E)",19.2123,72.8716,Mumbai: Western,MWEST
+FMVS,"INOX: Raghuleela Mall, Vashi",19.0641,72.997,Navi Mumbai,THAN
+GLBS,"SPI: Le Reve-Globus Mall, Bandra West, Mumbai",19.0562,72.8339,Mumbai: Western,MWEST
+INKH,"INOX: Glomax Mall, Kharghar",19.0305,73.0655,Navi Mumbai,THAN
+INKO,"INOX: Korum Mall, Eastern Express Highway, Thane",19.2042,72.9652,Mumbai: South & Central,MCENT
+INNP,"INOX Laserplex: CR2, Nariman Point",18.9266,72.8229,Mumbai: South & Central,MCENT
+INRC,"INOX: R-City, Ghatkopar",19.0994,72.9161,Mumbai: South & Central,MCENT
+IPBG,"INOX: Palm Beach Galleria Mall, Navi Mumbai",19.0853,73.0076,Navi Mumbai,THAN
+KTVM,"Carnival: KT, Vasai",19.3785,72.8287,Mumbai: Western,MWEST
+MAJB,"Mukta A2 Cinemas: Jai Hind, Lalbaugh",18.986,72.8359,Mumbai: South & Central,MCENT
+MCKM,"Mukta A2 Cinemas: K Mall, New Panvel(W)",18.9873,73.1198,Navi Mumbai,THAN
+MCTG,"Mukta A2 Cinemas: Topiwala, Goregaon",19.1639,72.8477,Mumbai: Western,MWEST
+MTGD,Movietime: Dahisar (E),19.2519,72.8629,Mumbai: Western,MWEST
+MTSC,Movietime Star City: Matunga (W),19.0283,72.8442,Mumbai: Western,MWEST
+MTSU,Movietime Suburbia: Bandra (W),19.061,72.837,Mumbai: Western,MWEST
+MXBO,Maxus Cinemas: Borivali (W),19.232,72.8287,Mumbai: Western,MWEST
+MXBY,Maxus Cinemas: Bhayander,19.2967,72.8479,Mumbai: Western,MWEST
+PVGX,"PVR ICON: Oberoi Mall, Goregaon (E) (PXL)",19.1738,72.8606,Mumbai: Western,MWEST
+PVOP,"PVR: Orion Mall, Panvel",18.9936,73.1155,Navi Mumbai,THAN
+PVPE,"PVR: Market City, Kurla P(XL)",19.087,72.8903,Mumbai: South & Central,MCENT
+SMPK,"Carnival: SM5, Kalyan",19.2347,73.1222,Kalyan,KALYAN
+WAML,"INOX: Worli, Atria Mall",18.991,72.8143,Mumbai: South & Central,MCENT
+GOPL,"PVR ICON: Oberoi Mall, Goregaon (E) (Play House)",19.1738,72.8606,Mumbai: Western,MWEST
+PVKX,"PVR: Market City, Kurla (4DX)",19.087,72.8903,Mumbai: South & Central,MCENT
+ADWI,"Carnival: IMAX Screen, Wadala",19.0316,72.8811,Mumbai: South & Central,MCENT
+BHRA,Bharatmata Cinema: Parel,18.9956,72.8362,Mumbai: South & Central,MCENT
+ADHU,"Carnival: Huma, Kanjurmarg",19.1302,72.9266,Mumbai: South & Central,MCENT
+FMDR,"INOX: Nakshatra Mall, Dadar (W)",19.0199,72.8413,Mumbai: South & Central,MCENT
+MXSN,Maxus Cinemas: Saki Naka,19.0934,72.8838,Mumbai: Western,MWEST
+SCGR,Super Cinema: Grant Road,18.9628,72.8213,Mumbai: South & Central,MCENT
+ADAN,"Carnival: Ansal Plaza, Vaishali",28.6454,77.3331,Ghaziabad,GHAZ
+ADGN,"Carnival: Ansal Plaza, Palam Vihar",28.5117,77.0418,Gurugram (Gurgaon),GURG
+ADRP,"Carnival: Pacific Mall, Sahibabad",28.6464,77.3199,Ghaziabad,GHAZ
+AMCD,Amba Cinema: Delhi,28.6773,77.2009,Delhi,DELHI
+BIKU,"Carnival: Ansal, Kundli",28.9127,77.1077,Kundli,KUND
+CGCG,"Carnival: Raheja Mall, Gurgaon",28.4236,77.0395,Gurugram (Gurgaon),GURG
+CIJA,"Cinepolis: Janak Cinema, New Delhi",28.611,77.0931,Delhi,DELHI
+CMWG,"Carnival: MovieWorld, Ghaziabad",28.6828,77.4285,Ghaziabad,GHAZ
+CPGV,"Cinepolis: Grand Venice Mall, Greater Noida",28.4529,77.526,Greater Noida,GRET
+CPUM,"Cinepolis: Unity One Mall Rohini, Delhi",28.7149,77.1164,Delhi,DELHI
+CXRG,"PVR: Pacific, Delhi",28.6425,77.1063,Delhi,DELHI
+DTCC,"PVR: City Centre, Gurgaon",28.479,77.0801,Gurugram (Gurgaon),GURG
+DTMM,"PVR: Mega Mall, Gurgaon",28.4755,77.0931,Gurugram (Gurgaon),GURG
+DTON,PVR ECX Mall Of India: Noida,28.5673,77.3207,Noida,NOIDA
+DTSB,PVR: Shalimar Bagh,28.7028,77.1585,Delhi,DELHI
+DTSG,"PVR: Star Mall, Gurgaon",28.4613,77.0528,Gurugram (Gurgaon),GURG
+DTVK,PVR Promenade: Vasant Kunj,28.5423,77.1558,Delhi,DELHI
+DVDC,Delite Cinema: Asaf Ali Road,28.6418,77.2335,Delhi,DELHI
+FNLN,"Cinepolis: V3S Mall, Laxmi Nagar",28.6373,77.2858,Delhi,DELHI
+FNPP,"Fun Cinemas: North Square Mall, Pitampura",28.6923,77.1507,Delhi,DELHI
+FNSD,"Cinepolis: Cross River Mall, Shahdara",28.6574,77.3023,Delhi,DELHI
+G3SR,G3S Cinema: Rohini,28.7351,77.1135,Delhi,DELHI
+GAGC,Gagan Cinema: Delhi,28.6964,77.3149,Delhi,DELHI
+GMGX,Galaxie Multiplex: Ghaziabad,28.6549,77.3452,Ghaziabad,GHAZ
+IEFM,"INOX: EF3 Mall, Faridabad",28.4075,77.3103,Faridabad,FARI
+INDG,INOX: Gurgaon Dreamz,28.4728,77.0177,Gurugram (Gurgaon),GURG
+INFR,"INOX: Crown Interiorz Mall, Delhi Mathura Road",28.4608,77.3068,Faridabad,FARI
+INGN,"INOX: MSX Mall, Greater Noida",28.458,77.5281,Greater Noida,GRET
+IOMG,"INOX: Omaxe Connaught Place Mall, Greater Noida",28.4888,77.5145,Greater Noida,GRET
+ISMG,"INOX: Shipra Mall, Ghaziabad",28.6342,77.3695,Ghaziabad,GHAZ
+LBDL,Liberty Cinema: Karol Bagh,28.6592,77.1897,Delhi,DELHI
+M2PP,M2K: Pitampura,28.6895,77.1334,Delhi,DELHI
+M2RH,M2K: Rohini,28.7012,77.1168,Delhi,DELHI
+MAKS,"Mukta A2 Cinemas: Parker Mall, Kundli",28.9068,77.1077,Kundli,KUND
+MCGZ,Miraj Chaudhary Cinemas: Ghaziabad,28.6551,77.4356,Ghaziabad,GHAZ
+MIMU,"Miraj Cinemas: M4U, Sahibabad",28.6791,77.3589,Ghaziabad,GHAZ
+MMOC,Movie Magic Cinema: Ghaziabad,28.7354,77.285,Ghaziabad,GHAZ
+MOPL,Movie Palace: Ghaziabad,28.6854,77.3322,Ghaziabad,GHAZ
+MTCN,Movietime: Omaxe NRI Mall Greater Noida,28.4591,77.5085,Greater Noida,GRET
+MTND,Movietime: Dharam Palace Mall,28.5717,77.3225,Noida,NOIDA
+MTRG,Movietime: Raja Garden,28.6522,77.1233,Delhi,DELHI
+NYCN,"NY Cinemas: Sonic World Mall, Greater Noida",28.5093,77.4757,Greater Noida,GRET
+PLXG,"PVR: Logix (Gold), Noida",28.5743,77.3534,Noida,NOIDA
+PMPM,"PM Cinemas: Parsvnath Mall, Manhattan",28.4065,77.3106,Faridabad,FARI
+PVAB,"PVR: Ambience (Gold), Gurgaon",28.5041,77.0969,Gurugram (Gurgaon),GURG
+PVAP,"PVR: Ambience, Gurgaon",28.5041,77.0969,Gurugram (Gurgaon),GURG
+PVCD,"PVR: ECX Chanakyapuri, Delhi",28.585,77.1923,Delhi,DELHI
+PVCG,"PVR: Select City Walk (Gold), Delhi",28.5286,77.2197,Delhi,DELHI
+PVCW,"PVR: Select City Walk, Delhi",28.5286,77.2197,Delhi,DELHI
+PVDC,"PVR: Director`s Cut, Ambience Delhi",28.5412,77.1545,Delhi,DELHI
+PVED,"PVR: EDM, Ghaziabad",28.6414,77.3165,Ghaziabad,GHAZ
+PVFR,"PVR: Crown Plaza, Faridabad",28.3979,77.3131,Faridabad,FARI
+PVGM,"PVR: Mahagun, Ghaziabad",28.6448,77.3355,Ghaziabad,GHAZ
+PVGN,"PVR: MGF, Gurgaon",28.4809,77.0802,Gurugram (Gurgaon),GURG
+PVGO,"PVR: Opulent, Ghaziabad",28.6542,77.4367,Ghaziabad,GHAZ
+PVIP,"PVR: VVIP, Ghaziabad",28.6971,77.4287,Ghaziabad,GHAZ
+PVNC,"PVR: Ambience, Paytm IMAX, Gurgaon",28.5041,77.0969,Gurugram (Gurgaon),GURG
+PVNR,"PVR: Naraina, Delhi",28.6331,77.1387,Delhi,DELHI
+PVPV,"PVR: Prashant Vihar, Delhi",28.7125,77.1359,Delhi,DELHI
+PVSH,"PVR: Sahara, Gurgaon",28.4798,77.0868,Gurugram (Gurgaon),GURG
+PVSK,"PVR: Anupam, Delhi",28.5238,77.2068,Delhi,DELHI
+PVVK,"PVR: Vikaspuri, Delhi",28.6392,77.0745,Delhi,DELHI
+PVWM,"PVR: Select City Walk IMAX, Delhi",28.5286,77.2197,Delhi,DELHI
+QCKU,"Q Cinemas: TDI Mall, Kundli",28.8864,77.118,Kundli,KUND
+QCSD,Q Cinemas: Shahdara,28.675,77.2883,Delhi,DELHI
+RNMT,MSX Silvercity Parsvnath City Mall: Sector 12,28.3835,77.3143,Faridabad,FARI
+RTCM,"Ritz Cinema: Kashmere Gate, Delhi",28.6667,77.2298,Delhi,DELHI
+SCGZ,Silvercity Multiplex: Ghaziabad,28.6389,77.4557,Ghaziabad,GHAZ
+SCJN,Satyam Cineplexes: Janak Place (Now INOX),28.6298,77.0808,Delhi,DELHI
+SCND,Satyam Cineplexes: Nehru Place (Now INOX),28.5505,77.2511,Delhi,DELHI
+SCPT,Satyam Cineplexes: Patel Nagar (Now INOX),28.6508,77.1578,Delhi,DELHI
+SRAM,SRS Aditya Mall: Indirapuram Ghaziabad,28.6381,77.3603,Ghaziabad,GHAZ
+SRJM,"SRS Jaipuria Mall: Indirapuram, Ghaziabad",28.6397,77.3782,Ghaziabad,GHAZ
+SRST,"SRS Shubham Tower: NIT, Faridabad",28.3904,77.3067,Faridabad,FARI
+STAX,Star X Cinema: Vaishali,28.6428,77.3408,Ghaziabad,GHAZ
+TAAP,Shiela Cinema: Delhi,28.6447,77.2169,Delhi,DELHI
+USCG,U S Cinemas: Eros Mall Indirapuram,28.6468,77.3753,Ghaziabad,GHAZ
+VSCA,Satyam VS Cinema: Pilkhuwa,28.707,77.6481,Ghaziabad,GHAZ
+WVKS,"Wave: The Wave Mall, Kaushambi",28.645,77.3261,Ghaziabad,GHAZ
+ABDL,Abhishek Cineplex: Chandni Chowk,28.6509,77.2361,Delhi,DELHI
+ADTE,Carnival: TGIP Red Carpet,28.5674,77.3256,Noida,NOIDA
+BTFD,Batra Reels Cinemas: New Friends Colony,28.5619,77.2682,Delhi,DELHI
+CIGK,DT Cinemas: Savitri Complex GK2,28.5416,77.2402,Delhi,DELHI
+CIPS,"DT Cinemas: DLF Place, Saket",28.5283,77.2176,Delhi,DELHI
+DRKC,M Cinemas: East of Kailash (Gold Class),28.5591,77.2461,Delhi,DELHI
+EROS,INOX Eros One: Jangpura Extn,28.5814,77.2423,Delhi,DELHI
+FCWS,"Carnival: World Square Mall, Ghaziabad",28.6787,77.3819,Ghaziabad,GHAZ
+FNMT,"Fun Cinemas: TDI Mall, Moti Nagar",28.6576,77.1389,Delhi,DELHI
+MCDE,Miraj Cinemas: Subhash Nagar,28.6385,77.107,Delhi,DELHI
+MTPP,Movietime: Pitampura,28.7133,77.1466,Delhi,DELHI
+PV3C,"PVR: 3CS, Delhi",28.5679,77.2411,Delhi,DELHI
+PVRV,"PVR: Rivoli, Delhi",28.6311,77.2162,Delhi,DELHI
+PVSD,"PVR: Sangam, Delhi",28.573,77.1735,Delhi,DELHI
+SPIA,Spice Cinemas: Noida,28.5867,77.3411,Noida,NOIDA
+SREF,"SRS Eldeco Mall: Sector 12, Faridabad",28.3867,77.3141,Faridabad,FARI
+SRFD,"SRS Mall: Sector 12, Faridabad",28.3863,77.317,Faridabad,FARI
+SRPR,"SRS: Pristine Mall, Sector 31",28.4454,77.3157,Faridabad,FARI
+WVND,Wave: Noida,28.5679,77.323,Noida,NOIDA
+WVRG,Wave: Raja Garden,28.6519,77.1208,Delhi,DELHI
+WVRN,"Wave: RDC, Ghaziabad",28.675,77.4411,Ghaziabad,GHAZ
+PLDN,"PVR: Logix 4DX, Noida",28.5743,77.3534,Noida,NOIDA
+PVFC,"PVR: Pacific, Delhi (4DX)",28.6425,77.1063,Delhi,DELHI
+PVGA,"PVR: MGF 4DX, Gurgaon",28.4809,77.0802,Gurugram (Gurgaon),GURG
+SECA,Seble Cinema: Delhi,28.4958,77.3032,Delhi,DELHI
+PVRL,"PVR: Logix, Noida",28.5743,77.3534,Noida,NOIDA
+PLPH,"PVR: Logix Play House, Noida",28.5743,77.3534,Noida,NOIDA
+BALT,Balaji Digital 2K Cinema: Tavarekere,12.9256,77.6077,Bengaluru,BANG
+CNRM,Cinepolis: Royal Meenakshi Mall,12.8759,77.5956,Bengaluru,BANG
+CXBL,"PVR: Central Spirit Mall, Bellandur",12.9258,77.6752,Bengaluru,BANG
+CXSS,"PVR: Arena Mall, Doddanakundi, Marthalli Ring Road",12.9799,77.6932,Bengaluru,BANG
+EDCB,Eshwari Digital 2K Cinema: Banashankari,12.9241,77.5534,Bengaluru,BANG
+FMFB,"INOX: Forum Neighbourhood Mall, Whitefield",12.9608,77.7481,Bengaluru,BANG
+FMLB,"INOX Lido: Off MG Road, Ulsoor",12.9732,77.6212,Bengaluru,BANG
+GPAM,"Gopalan Cinemas: Arcade Mall, Mysore Road",12.9359,77.5176,Bengaluru,BANG
+GPBR,Gopalan Cinemas: Bannerghatta Road,12.9144,77.5995,Bengaluru,BANG
+GPGM,Gopalan Grand Mall: Old Madras Road,12.9935,77.664,Bengaluru,BANG
+GPSM,"Gopalan Miniplex: Signature Mall, Old Madras Road",12.9933,77.6621,Bengaluru,BANG
+INBC,"INOX: Central, JP Nagar, Mantri Junction",12.9166,77.5923,Bengaluru,BANG
+INBM,INOX: Brookefield Mall,12.9696,77.7241,Bengaluru,BANG
+PVBM,"PVR: Phoenix Marketcity Mall, Whitefield Road",12.9973,77.6957,Bengaluru,BANG
+PVVR,"PVR: VR GOLD, VR Bengaluru, Whitefield Road",12.9965,77.6953,Bengaluru,BANG
+PVVS,"PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",13.0247,77.5486,Bengaluru,BANG
+PVXL,"PVR: PXL Orion Mall, Dr Rajkumar Road",13.011,77.5551,Bengaluru,BANG
+REXC,Rex Theatre: Brigade Road,12.9731,77.6066,Bengaluru,BANG
+TCGW,"SPI: The Cinema-GT World Mall, Magadi Road",12.9742,77.552,Bengaluru,BANG
+PVIV,"PVR: Kotak IMAX, VR Bengaluru, Whitefield Road",12.9965,77.6953,Bengaluru,BANG
+PMDX,"PVR: 4DX, Phoenix Marketcity Mall, Whitefield Road",12.9973,77.6957,Bengaluru,BANG
+SVTB,Venkateshwara A/c Digital 4K Cinema: K.R.Puram,13.0052,77.6967,Bengaluru,BANG
+SVYK,Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur,12.9356,77.7446,Bengaluru,BANG
+TULS,Tulsi Digital 4K A/C Dolby 7.1: Marathalli,12.9563,77.6982,Bengaluru,BANG
+RTEA,Ravi Digital 2K Cinema: Ejipura,12.9512,77.6221,Bengaluru,BANG
+VTBY,Vijay Theatre: Byatarayanapura,12.9484,77.5397,Bengaluru,BANG
+SDCB,Sri Vinayaka 2K Harkness Projection: D.J.Halli,13.0144,77.6056,Bengaluru,BANG
+ANBL,Anjan Digital 4K A/C Cinema: Magadi Road,12.9754,77.5589,Bengaluru,BANG
+BALJ,Sri Balaji 2K Dolby Atmos 7.1: Viveknagar,12.9569,77.6194,Bengaluru,BANG
+PVOG,"PVR: Gold, Orion Mall, Dr Rajkumar Road",13.011,77.5551,Bengaluru,BANG
+PVOR,"PVR: Orion Mall, Dr Rajkumar Road",13.011,77.5551,Bengaluru,BANG
+PVPB,"PVR: VR Bengaluru, Whitefield Road",12.9965,77.6953,Bengaluru,BANG
+SKMM,Sri  Krishna Digital  A/C  2K DOLBY 7.1: Bommanaha,12.9055,77.6294,Bengaluru,BANG
+JTRV,Srinivasa Chithramandira: kadugodi,12.9885,77.7661,Bengaluru,BANG
+SVMI,Sri Vinayaka Digital 4k Cinema: Marathalli,12.9557,77.6995,Bengaluru,BANG
+ATGN,Abhinay Theatre: Gandhi Nagar,12.9737,77.5776,Bengaluru,BANG
+CPEB,Cinepolis: Binnypet Mall,12.9676,77.5584,Bengaluru,BANG
+CPOE,"Cinepolis: Orion East Mall, Banaswadi",13.0018,77.6329,Bengaluru,BANG
+CCRM,Carnival: Rockline Mall,13.0408,77.5182,Bengaluru,BANG
+CTCP,Cauvery Digital 4k Cinema: Sankey Road,13.0027,77.5837,Bengaluru,BANG
+HMCB,HMT Digital 4K Cinema: Jalahalli,13.0495,77.5439,Bengaluru,BANG
+LKTH,Lakshmi 4K Dolby Atmos: Tavarekere,12.9252,77.6076,Bengaluru,BANG
+MDCK,Manasa Digital 4K Dolby Atmos: Konanakunte,12.8908,77.5622,Bengaluru,BANG
+PVBG,"PVR: Gold, Forum Mall, Koramangala",12.9346,77.6111,Bengaluru,BANG
+PVBN,"PVR: Forum Mall, Koramangala",12.9346,77.6111,Bengaluru,BANG
+PVEG,"PVR: Vega City,  Bannerghatta Road",12.9077,77.6012,Bengaluru,BANG
+PVGD,"PVR: Gold, Vega City, Bannerghatta Road",12.9077,77.6012,Bengaluru,BANG
+PVRB,"PVR: MSR Elements Mall, Tanisandhra Main Road",13.0452,77.6266,Bengaluru,BANG
+RADI,Ravi Digital 4K A/C Cinema: Sarjapura,12.8588,77.7836,Bengaluru,BANG
+RKTB,Radhakrishna Digital 4k A/C Cinema: R.T. Nagar,13.0133,77.5937,Bengaluru,BANG
+SATB,Sandhya Digital 4K Projection Dolby Atmos: Madiwal,12.9208,77.6179,Bengaluru,BANG
+SDCS,Srinivasa 4K Dolby Atmos: S.G. Palya,12.9319,77.6075,Bengaluru,BANG
+SIDA,Siddalingeshwara 4K Dolby Atmos Cinema: J.P.Nagar,12.9037,77.5808,Bengaluru,BANG
+TDCA,Thirumala Digital 4K Cinema: Agara,12.9199,77.6497,Bengaluru,BANG
+ADCR,Akash Cinemas: Laggere,13.0145,77.516,Bengaluru,BANG
+ASTB,Ashoka Theatre: Chikkabanavara,13.0807,77.5011,Bengaluru,BANG
+BHAC,Bharathi Theatre (Peenya) A/C 4K Digital Cinema,13.0415,77.5175,Bengaluru,BANG
+CHTH,Chandrodaya Digital 2K Cinema: Vidyapeeta Circle,12.9356,77.5616,Bengaluru,BANG
+EDCF,Everest Digital 2K Cinema: Frazer Town,13.0004,77.6184,Bengaluru,BANG
+FNBG,"Fun Cinemas: Sigma Mall, Bengaluru",12.9885,77.5948,Bengaluru,BANG
+INMB,"INOX: Mantri Square, Malleshwaram",12.9922,77.5703,Bengaluru,BANG
+MLDT,Mohan Digital 2K A/C Cinema: Sunkadakatte,12.9987,77.5035,Bengaluru,BANG
+MUTB,Murali Gokula Digital 4K Cinema: Mathikere,13.0385,77.5529,Bengaluru,BANG
+NARC,Narasimha Digital 4K Dolby Atmos Cinema: Hosur Rd,12.8907,77.6394,Bengaluru,BANG
+NLTE,Nalanda Theatre: Chamarajpet,12.9606,77.5578,Bengaluru,BANG
+PTNG,Pruthvi 2k A/c Harkness Projection: Nagavara,13.0417,77.6228,Bengaluru,BANG
+SAMP,Sampige Digital 2k Cinema: Malleshwaram,12.9933,77.5708,Bengaluru,BANG
+SRIV,Sri Venkateshwara Theatre: Kengeri,12.9088,77.4826,Bengaluru,BANG
+SSPA,Sri Srinivasa Theatre: Padmanabanagara,12.909,77.5581,Bengaluru,BANG
+URBL,Urvashi Digital 4K Cinema: Lalbagh Road,12.956,77.5854,Bengaluru,BANG
+VBWT,Veerabhadreshwara Theatre: Kamala Nagar,12.9932,77.5292,Bengaluru,BANG
+VDCS,Vainidhi Digital 2K Dolby 7.1 (A/C): Singapura,13.0744,77.5405,Bengaluru,BANG
+VIKA,Vishal A/C Theatre: Kamakshipalya,12.9832,77.5299,Bengaluru,BANG
+VNKA,Venkateshwara Theatre - Konappana Agrahara (E.City,12.8561,77.6647,Bengaluru,BANG
+VRBL,Veeresh Cinemas Screen 1: Magadi Rd,12.977,77.5458,Bengaluru,BANG
+VTBE,Sri Vajreshwari Theatre: Ullal,12.9563,77.4799,Bengaluru,BANG
+VTBR,Sri Venkateshwara Digital 2K Cinema: Girinagar,12.9439,77.548,Bengaluru,BANG
+VTSK,Vaibhav Digital 4k Dolby 7.1: Sanjaynagar,13.0356,77.5747,Bengaluru,BANG
+VULL,Vullas Theatre: Yeshwantpur,13.0199,77.5515,Bengaluru,BANG
+NART,Narthaki 2K Dolby 7.1 Digital S R: Gandhi Nagar,12.9744,77.5762,Bengaluru,BANG
+SDSD,Siddeshwara Digital 2K 7.1 Cinema: J.P.Nagar,12.9037,77.5805,Bengaluru,BANG
+VECI,Venkateshwara Cinemas Screen 2: Gollarahatti,12.9885,77.474,Bengaluru,BANG
+KTBD,Keshava Theatre: Yeshwantpur,13.0282,77.5538,Bengaluru,BANG
+PTBC,Poornima Theatre: J.C. Road,12.9611,77.5874,Bengaluru,BANG
+MIGB,Movieland Theatre: Gandhinagar,12.9788,77.5756,Bengaluru,BANG
+SLTB,Sri Lakshmi Theatre: Gottigere,12.8602,77.5895,Bengaluru,BANG
+STGR,Santosh Theatre: Gandhinagar,12.9747,77.5762,Bengaluru,BANG
+ANTE,Anupama Theatre: Gandhinagar,12.9763,77.5755,Bengaluru,BANG
+GPTB,"Galaxy Paradise: Begur Road, Bommanahalli",12.8912,77.6265,Bengaluru,BANG
+SBCA,Sri Balaji Chitra Mandira: Dommasandra,12.8792,77.7559,Bengaluru,BANG
+PVLY,"PVR: Play House, Vega City, Bannerghatta Road",12.9077,77.6012,Bengaluru,BANG
+MTGN,Menaka Talkies: Gandhi Nagar,12.9733,77.5793,Bengaluru,BANG
+SPNA,Sapna Theatre: Gandhi Nagar,12.9744,77.5762,Bengaluru,BANG
+CQST,Cinesquare Savitha Theatre: Malleshwaram,12.9931,77.571,Bengaluru,BANG
+TRIG,Triveni Theatre: Gandhinagar,12.9763,77.5754,Bengaluru,BANG
+SNNN,Sri Nandeeshwara Theatre: Jigani,12.788,77.6319,Bengaluru,BANG
+STSN,Sangeet Theatre: Shivaji Nagar,12.9816,77.6028,Bengaluru,BANG
+STSB,Sandeep Theatre: Shivaji Nagar,12.9816,77.6028,Bengaluru,BANG
+GDTY,Goverdhan Theatre: Yeshwantpur,13.0216,77.5513,Bengaluru,BANG
+KCBI,Kamakya Cinema: Banashankari,12.9237,77.5533,Bengaluru,BANG
+PDRD,Prasanna Digital 4K Cinema: Magadi Road,12.9741,77.5521,Bengaluru,BANG
+RATK,Robin A/C Theatre: Kengeri Upanagara,12.916,77.479,Bengaluru,BANG
+SKTR,Sri Krishna A/C Theatre: KR Puram,13.009,77.699,Bengaluru,BANG
+VECG,Venkateshwara Cinemas Screen 1: Gollarahatti,12.9885,77.474,Bengaluru,BANG
+VITH,Vinayaka Theatre: Harinagar,12.8749,77.5702,Bengaluru,BANG
+VTGB,Vijayalakshmi Digital 2K Cinema: Garudacharpalya,12.9945,77.7013,Bengaluru,BANG
+VRMR,Veeresh Cinemas Screen 2: Magadi Rd,12.977,77.5458,Bengaluru,BANG
+ACPM,Asian Lakshmikala Cinepride: Moosapet,17.4674,78.4283,Hyderabad,HYD
+ADHY,Carnival: Ameerpet,17.4303,78.4485,Hyderabad,HYD
+AGHM,Asian GPR Multiplex: Kukatpally,17.4991,78.3906,Hyderabad,HYD
+AHMH,Asian CineSquare Multiplex: Uppal,17.4023,78.572,Hyderabad,HYD
+AMCA,Asian M Cube Mall: Attapur,17.3717,78.4298,Hyderabad,HYD
+ARMH,Asian Radhika Multiplex: ECIL,17.4767,78.5632,Hyderabad,HYD
+ASSH,Asian Shiva: Dilsukhnagar,17.3614,78.5232,Hyderabad,HYD
+CMMA,"Cinepolis: Mantra Mall, Attapur",17.3537,78.4206,Hyderabad,HYD
+CPCL,"Cinepolis: CCPL Mall, Hyderabad",17.4572,78.5368,Hyderabad,HYD
+CPHY,Asian Cineplanet Multiplex: Kompally,17.5295,78.4858,Hyderabad,HYD
+CPMH,"Cinepolis: Manjeera Mall, Kukatpally",17.4898,78.3932,Hyderabad,HYD
+INHY,"INOX: GVK One, Banjara Hills",17.4194,78.4486,Hyderabad,HYD
+INMH,INOX: Maheshwari,17.3905,78.4886,Hyderabad,HYD
+MCSS,"Miraj Cinemas: Shalini Shivani, Hyderabad",17.3678,78.5363,Hyderabad,HYD
+PIHM,"PVR ICON: Hitech, Madhapur, Hyderabad",17.4479,78.3845,Hyderabad,HYD
+PNGG,"PVR:  Play House Next Galleria Mall, Panjagutta",17.4294,78.4501,Hyderabad,HYD
+PNGM,"PVR: Next Galleria Mall, Panjagutta",17.4294,78.4501,Hyderabad,HYD
+PRHN,Prasads: Hyderabad,17.4129,78.4659,Hyderabad,HYD
+PVHY,"PVR: Panjagutta, Hyderabad",17.4268,78.4532,Hyderabad,HYD
+SMSE,"SPI: S2 Mallapur Noma Talkies, Secunderabad",17.4475,78.5718,Hyderabad,HYD
+TVHY,Tivoli Cinemas: Secunderabad,17.4481,78.4928,Hyderabad,HYD
+ASJY,Asian Jyothi: RC Puram,17.5028,78.3122,Hyderabad,HYD
+SMYU,Sri Mayuri Theatre: RTC X Roads,17.4074,78.4962,Hyderabad,HYD
+STHD,"Cinepolis: Sudha Cinemas, Hyderabad",17.351,78.4749,Hyderabad,HYD
+ASRK,Asian Swapna 35mm: Katedan,17.3119,78.4388,Hyderabad,HYD
+MUAA,Mukta A2 Cinemas: Abids,17.3857,78.4771,Hyderabad,HYD
+SREE,Sree Rama Theatre: Bahadurpura,17.3545,78.4573,Hyderabad,HYD
+VRKC,Venkataramana Cinema: Kachiguda,17.3907,78.4915,Hyderabad,HYD
+ACHI,Asian Sha: Chintal,17.4923,78.4518,Hyderabad,HYD
+BKMV,BVK Multiplex Vijayalakshmi: LB Nagar,17.3436,78.5542,Hyderabad,HYD
+CNTW,Cine Town: Miyapur,17.4953,78.3533,Hyderabad,HYD
+CXCB,"PVR: Inorbit, Cyberabad",17.4351,78.3867,Hyderabad,HYD
+PVSF,"PVR Forum Sujana Mall: Kukatpally, Hyderabad",17.4845,78.3888,Hyderabad,HYD
+TRHY,Asian Tarakarama Cineplex: Kachiguda,17.3906,78.488,Hyderabad,HYD
+SVPK,Shiva Parvathi Cinema: Kukatpally,17.4966,78.3971,Hyderabad,HYD
+YAKT,Yakut Mahal Theater: Yakutpura,17.3609,78.4854,Hyderabad,HYD
+KDNH,Konark: Dilsukhnagar,17.3679,78.5244,Hyderabad,HYD
+RMTH,Raghavendra Mini: Malkajgiri,17.4513,78.5362,Hyderabad,HYD
+SART,Sapthagiri Theatre: RTC X Roads,17.4081,78.4966,Hyderabad,HYD
+VSWA,Viswanath 70MM Theater: Kukatpally,17.4969,78.3965,Hyderabad,HYD
+ARJU,Arjun 70MM: Kukatpally,17.4968,78.397,Hyderabad,HYD
+SHHY,Shanti Theatre: Narayanaguda,17.396,78.4898,Hyderabad,HYD
+VENH,Venkatadri Cinema 70MM: Dilsukhnagar,17.368,78.5234,Hyderabad,HYD
+ASGN,Asian Ganga: Dilsukhnagar,17.3614,78.5232,Hyderabad,HYD
+ASHT,Asian Shahensha: Chintal,17.4923,78.4518,Hyderabad,HYD
+ATMD,Amba Theatre: Mehdipatnam,17.3916,78.4414,Hyderabad,HYD
+BRKH,Bhramaramba 70MM A/C Dts: Kukatpally,17.5002,78.3866,Hyderabad,HYD
+DVRR,Devi 70mm 4K & Dolby Atmos: RTC X Roads,17.4063,78.495,Hyderabad,HYD
+IKGH,Indra: Karmanghat,17.3453,78.5315,Hyderabad,HYD
+KMMH,Kalyani Movie Max: Bowenpally,17.4737,78.4797,Hyderabad,HYD
+PRCS,Prashant Cinema: Secunderabad,17.4396,78.4986,Hyderabad,HYD
+RDTM,Raghavendra 35mm: Malkajgiri,17.4513,78.5362,Hyderabad,HYD
+RJDN,Rajdhani 70mm: Dilsukhnagar,17.3691,78.5274,Hyderabad,HYD
+RTHY,Ranga Theatre 70MM: Jeedimetla,17.5121,78.4482,Hyderabad,HYD
+SCHC,Sridevi Cinema: Chilakalguda,17.4314,78.513,Hyderabad,HYD
+SCLT,Select Talkies: Bolaram,17.5115,78.5107,Hyderabad,HYD
+SHRD,Sharada 70mm: Kapra,17.4833,78.5553,Hyderabad,HYD
+SLSD,Srilatha Cinema: Chanda Nagar,17.4981,78.3171,Hyderabad,HYD
+SRKR,Sri Krishna 70MM: Uppal,17.4008,78.5679,Hyderabad,HYD
+VTRB,Vijetha 70MM: Borabanda,17.4542,78.4191,Hyderabad,HYD
+VTVM,Vishnu Cinemas A/C DTS: Vanasthalipuram,17.339,78.5658,Hyderabad,HYD
+RJDD,Rajdhani Deluxe Theatre: Dilsukhnagar,17.3688,78.5274,Hyderabad,HYD
+AMCM,Asian Mukund Cinema: Medchal,17.6388,78.4846,Hyderabad,HYD
+BJNG,Bhujanga 70MM: Jeedimetla,17.5122,78.4486,Hyderabad,HYD
+GNHB,Ganesh 70mm: Shamshabad,17.266,78.3906,Hyderabad,HYD
+GOKU,Gokul 70MM: Erragadda,17.4536,78.4344,Hyderabad,HYD
+HMHD,BR Hitech 70mm: Madhapur,17.4403,78.3942,Hyderabad,HYD
+JDMB,Jagadamba Cinema: Ghatkesar,17.4568,78.6873,Hyderabad,HYD
+MAHM,Mallikarjuna 70mm A/C DTS: Kukatpally,17.4999,78.3866,Hyderabad,HYD
+MNJU,Manju Cinema: Kalasiguda,17.4405,78.4935,Hyderabad,HYD
+NTAH,Nartaki Theatre: Alwal,17.4941,78.5136,Hyderabad,HYD
+SCVM,Sushma Cinema: Vanasthalipuram,17.3244,78.6093,Hyderabad,HYD
+SENS,Sensation Sunshine: Khairatabad,17.4072,78.4636,Hyderabad,HYD
+SLDH,Sri Lakshmi Deluxe: Karmanghat,17.3418,78.5306,Hyderabad,HYD
+SNDY,Sandhya 35mm: RTC X Road,17.407,78.4974,Hyderabad,HYD
+SRCA,Sree Ramana 70MM 4K & Dolby 7.1: Amberpet,17.3925,78.5154,Hyderabad,HYD
+SRCM,Sai Ranga: Miyapur,17.4955,78.3597,Hyderabad,HYD
+SRNU,Srinivasa Talkies: Uppal,17.4011,78.5686,Hyderabad,HYD
+SSRM,Sri Sai Ram Theatre: Malkajgiri,17.4463,78.5354,Hyderabad,HYD
+STIT,Santosh Theatre: Ibrahimpatnam,17.1946,78.6469,Hyderabad,HYD
+SVST,SVR`s Siva Sakthi Theatre: Kapra,17.4765,78.5627,Hyderabad,HYD
+TGMG,Megha Theatre: Dilsukhnagar,17.368,78.5267,Hyderabad,HYD
+VAJA,Vyjayanthi Cinema: Nacharam,17.4289,78.5523,Hyderabad,HYD
+VKCN,SV Cinesquare: Patancheru,17.5321,78.2708,Hyderabad,HYD
+SKTA,Sri Krishna Theatre: Aliabad (Shameerpet),17.625,78.5924,Hyderabad,HYD
+SUDA,Sudarshan 35mm 4k & Dolby Atmos: RTC X Roads,17.4065,78.495,Hyderabad,HYD
+SVLT,Vijayalakshmi Talkies: Maheshwaram,17.1344,78.4323,Hyderabad,HYD
+ANTT,Anjali Movie Max: Secunderabad,17.4376,78.4931,Hyderabad,HYD
+MCBH,Metro Cinema: Bahadurpura,17.3559,78.4537,Hyderabad,HYD
+YDGR,Yadagiri Theatre: Santosh Nagar,17.3466,78.5089,Hyderabad,HYD
+ABMP,"AB Miniplex: Shivranjini Cross Road, Satellite",23.0253,72.5297,Ahmedabad,AHD
+ACAA,Amber Cinema: Ahmedabad,23.0343,72.62,Ahmedabad,AHD
+ACAD,Anupam Cinema: Ahmedabad,23.0066,72.6133,Ahmedabad,AHD
+ADAH,Carnival: Himalaya Mall,23.0472,72.531,Ahmedabad,AHD
+CGAR,City Gold: Ashram Road,23.0319,72.5699,Ahmedabad,AHD
+CGBO,City Gold: Bopal,23.0288,72.4785,Ahmedabad,AHD
+CGBP,City Gold: Bapunagar,23.0373,72.6152,Ahmedabad,AHD
+CGMO,City Gold: Motera,23.0926,72.5929,Ahmedabad,AHD
+CGOS,City Gold Satellite: Ahmedabad,23.0157,72.5294,Ahmedabad,AHD
+CPAO,Cinepolis: Ahmedabad One,23.0378,72.5283,Ahmedabad,AHD
+CXAD,"Cinemax: Dev Arc, Ahmedabad",23.0256,72.5078,Ahmedabad,AHD
+CXRA,"Cinemax: Red Carpet, Ahmedabad",23.0797,72.5277,Ahmedabad,AHD
+CXSA,"Cinemax: Shiv, Ahmedabad",23.0318,72.5708,Ahmedabad,AHD
+DEVI,Devi Multiplex: Naroda,23.073,72.65,Ahmedabad,AHD
+KSSG,K Sera Sera: SG Highway,23.0289,72.5089,Ahmedabad,AHD
+MAAH,"Mukta A2 Cinemas: Gulmohar Park Mall, Satellite Rd",23.0266,72.51,Ahmedabad,AHD
+MCCP,Miraj Cinemas Cine Pride: Krishna Nagar,23.0535,72.6421,Ahmedabad,AHD
+MCNA,"Miraj Cinemas: Vitthal Plaza, New Naroda",23.082,72.6727,Ahmedabad,AHD
+PVAH,"PVR: Acropolis, Ahmedabad",23.0489,72.5162,Ahmedabad,AHD
+PVMT,"PVR: Motera, Ahmedabad",23.1027,72.5952,Ahmedabad,AHD
+PVTA,"PVR: Arved Transcube, Ahmedabad",23.0685,72.576,Ahmedabad,AHD
+RCNK,Rajhans Cinemas: Nikol,23.0513,72.6674,Ahmedabad,AHD
+RCWA,Rajhans Cinemas: Satadhar,23.0662,72.5325,Ahmedabad,AHD
+REMA,Revolution Multiplex: Ahmedabad,22.9986,72.6356,Ahmedabad,AHD
+SBMT,SB Multiplex: Agora Mall,23.1189,72.6247,Ahmedabad,AHD
+TMCG,"Time Cinema: CG Road, Ahmedabad",23.0251,72.5565,Ahmedabad,AHD
+WAGA,Wide Angle: Ahmedabad,23.0246,72.5074,Ahmedabad,AHD
+MCMA,Miraj City Pulse: Ahmedabad,23.0146,72.5971,Ahmedabad,AHD
+CBSM,"Cinepolis: Bestech Square, Mohali",30.6734,76.7398,Chandigarh,CHD
+DTCH,"PVR: City Centre IT Park, Chandigarh",30.7292,76.846,Chandigarh,CHD
+FNCH,"Fun Cinemas: Republic Mall, Chandigarh",30.715,76.8344,Chandigarh,CHD
+INPC,"INOX: NH22 Mall, Amravati Enclave, Panchkula",30.7527,76.9086,Chandigarh,CHD
+PCCH,Piccadily Square: Chandigarh,30.7241,76.7675,Chandigarh,CHD
+PVCC,"PVR: Centra, Chandigarh",30.7068,76.7962,Chandigarh,CHD
+PVEC,"PVR: Elante, Chandigarh",30.7049,76.8021,Chandigarh,CHD
+RCPS,Rajhans Cinemas: Panchkula,30.6999,76.8531,Chandigarh,CHD
+BIZK,Carnival: Paras Mall,30.6603,76.8217,Chandigarh,CHD
+CTMJ,"Cinepolis: Jagat Mall, Chandigarh",30.7429,76.7851,Chandigarh,CHD
+WVCH,Wave: City Emporium Mall,30.7098,76.8009,Chandigarh,CHD
+PVEE,PVR: 4DX Elante Chandigarh,30.7049,76.8021,Chandigarh,CHD
+ABMM,Abirami Cinemas: Chennai,13.0864,80.2482,Chennai,CHEN
+ACON,AGS Cinemas OMR: Navlur,12.8505,80.2257,Chennai,CHEN
+ACTN,AGS Cinemas: T. Nagar,13.0474,80.2449,Chennai,CHEN
+ACVM,AGS Cinemas: Villivakkam,13.1047,80.209,Chennai,CHEN
+ESMR,"SPI: Escape-Express Avenue Mall, Royapettah",13.0589,80.2642,Chennai,CHEN
+GCKC,"Sri Ganga Cinemas Dolby Atmos: Kolathur,Chennai",13.1252,80.2182,Chennai,CHEN
+GKCP,GK Cinemas 2K Dolby Atmos: Porur,13.0337,80.1611,Chennai,CHEN
+INCH,"INOX: Chennai Citi Centre, Dr. RK Salai",13.0432,80.2738,Chennai,CHEN
+JACM,Luxe Cinemas: Chennai,12.9914,80.2168,Chennai,CHEN
+MAYJ,Mayajaal Multiplex: Chennai,12.848,80.2401,Chennai,CHEN
+PVCH,"PVR: Ampa Mall, Nelson Manickam Road",13.0736,80.2215,Chennai,CHEN
+PVRR,"PVR: Grand Galada, Pallavaram",12.9786,80.1617,Chennai,CHEN
+PVVL,"PVR: Grand Mall, Velachery",12.972,80.2204,Chennai,CHEN
+RACS,Parimalam Cinemas (Silver Screen): Kundrathur,13.0044,80.1023,Chennai,CHEN
+RSSC,Rohini Silver Screens: Koyambedu,13.0758,80.1958,Chennai,CHEN
+SPPZ,"SPI: Palazzo-The Forum Vijaya Mall, Vadapalani",13.0503,80.2095,Chennai,CHEN
+SPSR,"SPI: S2 Perambur - Spectrum Mall, Perambur",13.1123,80.2363,Chennai,CHEN
+SSCC,Sivasakthi Cinemas 4K Dolby Atmos: Padi,13.095,80.1855,Chennai,CHEN
+STHM,"SPI: Sathyam Cinemas - Royapettah, Chennai",13.0554,80.258,Chennai,CHEN
+SVWT,Vigneshwara Theatre DOLBY ATMOS: Poonamallee,13.0504,80.0938,Chennai,CHEN
+TCHT,"SPI: S2 Theyagaraja - Thiruvanmiyur, Chennai",12.9895,80.2564,Chennai,CHEN
+TGWO,Woodlands Complex: Chennai,13.0566,80.265,Chennai,CHEN
+LCIC,"Luxe Cinemas: IMAX, Chennai",12.9914,80.2168,Chennai,CHEN
+ANAC,Anna Theatre: Mount Road,13.0672,80.2713,Chennai,CHEN
+MTDC,MM Theatre A/C DTS: Chennai,13.1261,80.2898,Chennai,CHEN
+SRRR,SR Theatre: Madhurandagam,12.5051,79.88,Chennai,CHEN
+GRTC,GanapathyRam Theatre 4K Dolby 7.1: Chennai,13.0039,80.2563,Chennai,CHEN
+MTCH,Malliga Theatre: Mangadu,13.0336,80.1112,Chennai,CHEN
+RJTC,Raj Theatre - A/C DTS: Chennai,13.0196,80.2232,Chennai,CHEN
+CNCC,"SPI: Casino Cinemas, Chennai",13.0687,80.2702,Chennai,CHEN
+ADCW,"Carnival: Premier Plaza, Chinchwad",18.6298,73.7997,Pune,PUNE
+CPAR,Abhiruchi City Pride: Sinhagad Road,18.4631,73.8168,Pune,PUNE
+CPFT,Fun Time Multiplex: Sinhagad Road,18.4686,73.8198,Pune,PUNE
+CPKT,City Pride: Kothrud,18.4997,73.821,Pune,PUNE
+CPRP,City Pride Royal Cinemas: Rahatani,18.5933,73.7864,Pune,PUNE
+CTMP,City Pride: Mangala Cinema,18.5247,73.8546,Pune,PUNE
+CTRD,City Pride: R Deccan,18.5165,73.8423,Pune,PUNE
+CTSR,City Pride: Satara Road,18.4887,73.8579,Pune,PUNE
+CXPN,"PVR: Inorbit Mall, Pune",18.5613,73.9203,Pune,PUNE
+ESCH,E-SQUARE Xion: Hinjawadi,18.5925,73.745,Pune,PUNE
+ESPM,E-SQUARE Vishal: Pimpri,18.626,73.8041,Pune,PUNE
+ESPN,E-SQUARE: University Road,18.538,73.8356,Pune,PUNE
+FMJP,"INOX: Jai Ganesh, Akurdi",18.6481,73.7846,Pune,PUNE
+GUNJ,Gunjan Cinema: Nhavare,18.6596,74.3711,Pune,PUNE
+INGB,INOX: Bund Garden Road (Insignia),18.5268,73.8779,Pune,PUNE
+LCPC,Laxmi Cineplex: Narayangaon,19.1187,73.9729,Pune,PUNE
+PCOP,"PVR: City One Mall, Pimpri",18.6328,73.8008,Pune,PUNE
+PPKP,"PVR: Kumar Pacific, Pune",18.5013,73.873,Pune,PUNE
+PUNB,"Cinepolis: Seasons Mall, Pune",18.5192,73.9297,Pune,PUNE
+PVKP,"PVR: Nitesh Hub Premier, Koregaon",18.5388,73.9075,Pune,PUNE
+PVPN,"PVR: Phoenix Market City, Pune",18.5613,73.917,Pune,PUNE
+PVRM,PVR ICON: The Pavillion Pune,18.5339,73.83,Pune,PUNE
+STTG,Shri Shivaji Talkies: Talegaon,18.721,73.6873,Pune,PUNE
+VCMP,"Vikas Cinema: Manchar, Pune",19.003,73.9435,Pune,PUNE
+ADGL,Carnival : Kalyaninagar (Gold),18.5456,73.9064,Pune,PUNE
+AICE,Abhiruchi City Pride: Sinhagad Road (Eleganza),18.4631,73.8168,Pune,PUNE
+ESBW,Bollywood Multiplex: Kharadi,18.5471,73.9294,Pune,PUNE
+ESVP,"Victory Theatre: Camp, Pune",18.511,73.8801,Pune,PUNE
+INPN,INOX: Bund Garden Road,18.5268,73.8779,Pune,PUNE
+PNHP,"PVR: Nitesh Hub Gold Class, Koregaon",18.5388,73.9075,Pune,PUNE
+PUVB,"Cinepolis: VIP Seasons Mall, Pune",18.5192,73.9297,Pune,PUNE
+PVGP,"PVR: Phoenix Market City, Pune (Gold)",18.5628,73.9163,Pune,PUNE
+VDYA,Vidya Cinema: Bhosari,18.6203,73.851,Pune,PUNE
+VSCN,Vasant Cinema: Budhwar Peth,18.5178,73.8558,Pune,PUNE
+PPRR,"PVR: Phoenix Market City, Pune (4DX)",18.5613,73.9163,Pune,PUNE
+CNWE,"Cinepolis: WESTEND Mall Aundh, Pune",18.5625,73.8072,Pune,PUNE
+FMFP,"INOX: Fun N Shop, Fatima Nagar",18.5057,73.9013,Pune,PUNE
+INPA,INOX: Amanora Town Centre,18.5188,73.9365,Pune,PUNE
+ASHC,Ashok Theatre: Pimpri,18.6244,73.8119,Pune,PUNE
+KIBE,Kibe Laxmi Cinema: Pune,18.5169,73.8542,Pune,PUNE
+RAHU,"Rahul 70 MM: Shivajinagar, Pune",18.5313,73.8464,Pune,PUNE
+VBCT,Vaibhav Chitramandir: Hadapsar,18.5014,73.93,Pune,PUNE
+VJNP,Vijay Cinema: Narayan Peth,18.5142,73.8476,Pune,PUNE
+VLCX,Vilux Talkies: Khadki,18.5651,73.8504,Pune,PUNE
+ATSS,Apollo Theatre: Rasta Peth,18.5197,73.8644,Pune,PUNE
+ACBK,"Carnival: Arti Suncity Mall, Barasat",22.72,88.4873,Kolkata,KOLK
+CAML,"Cinepolis: Acropolis Mall, Kolkata",22.5147,88.3932,Kolkata,KOLK
+CCSL,Carnival: Salt Lake,22.5734,88.4137,Kolkata,KOLK
+CLMK,"Cinepolis: Lake Mall, Kolkata",22.5167,88.3489,Kolkata,KOLK
+CXXL,"PVR: P[XL] Manisquare Mall, Kolkata",22.5777,88.4008,Kolkata,KOLK
+FCHP,INOX: Hiland Park,22.4832,88.3909,Kolkata,KOLK
+FSCK,"INOX: South City, Kolkata",22.5014,88.3616,Kolkata,KOLK
+INER,"INOX: Forum Mall, Elgin Road",22.5386,88.3515,Kolkata,KOLK
+INHD,Hind INOX: Kolkata,22.5649,88.3592,Kolkata,KOLK
+INKS,"INOX: Swabhumi, Maulana Azad Sarani",22.5712,88.4011,Kolkata,KOLK
+INQM,INOX: Quest Mall,22.5393,88.3657,Kolkata,KOLK
+INQT,INOX: Quest Mall (Insignia),22.5393,88.3657,Kolkata,KOLK
+INRK,"INOX: City Centre II, Rajarhat",22.623,88.4505,Kolkata,KOLK
+INSL,"INOX: City Center, Salt Lake",22.589,88.4082,Kolkata,KOLK
+JMJR,"Jaya Multiplex: City Mall, Barasat",22.7127,88.4753,Kolkata,KOLK
+PVJK,"PVR: Diamond Plaza, Jessore Kolkata",22.6153,88.4126,Kolkata,KOLK
+PVKK,"PVR: Avani, Kolkata",22.5637,88.3241,Kolkata,KOLK
+RDBK,"RDB Cinemas: Salt Lake, Kolkata",22.569,88.433,Kolkata,KOLK
+SVNR,"SVF Cinemas: Wood Square Mall, Narendrapur",22.4397,88.3971,Kolkata,KOLK
+CXKK,"PVR: Mani Square Mall, Kolkata",22.5777,88.4008,Kolkata,KOLK
+ICKO,Indira Cinema: Kolkata,22.5271,88.3466,Kolkata,KOLK
+JCKK,Jaya Cinema: Lake Town,22.6061,88.4031,Kolkata,KOLK
+LCBK,Lali Cinema: Barasat,22.7273,88.48,Kolkata,KOLK
+LPKK,London Paris: Mukti World Ballygunge,22.5261,88.3663,Kolkata,KOLK
+MCHK,Mitra Cinema Hall: Kolkata,22.5973,88.3721,Kolkata,KOLK
+NACK,Navina Cinema: Tollygunge,22.5009,88.3486,Kolkata,KOLK
+NCKA,Nazrultirtha Cinema: Kolkata,22.5821,88.4484,Kolkata,KOLK
+PACK,Paradise Cinema: Kolkata,22.5671,88.3518,Kolkata,KOLK
+PSHK,Park Show House: Kolkata,22.5461,88.3627,Kolkata,KOLK
+RACK,Rathindra Cine I: Kolkata,22.7018,88.3828,Kolkata,KOLK
+ROTK,Roxy Talkies: Kolkata,22.5622,88.3519,Kolkata,KOLK
+SONP,Sonali Cinema: Dunlop,22.6531,88.3782,Kolkata,KOLK
+STKT,Star Theater: Kolkata,22.5943,88.371,Kolkata,KOLK
+NNKA,Nandan: Kolkata,22.5423,88.3456,Kolkata,KOLK
+RAIE,Rathindra Cine II: Kolkata,22.7017,88.3828,Kolkata,KOLK
+PCRA,Priya Cinema: Rashbehari Avenue,22.5186,88.3546,Kolkata,KOLK
+ASKO,Asoka Cinema: Behala,22.4937,88.3166,Kolkata,KOLK
+ATJA,Ajanta Cinema: Behala,22.5081,88.3203,Kolkata,KOLK
+BARA,"Bioscope: Axis Mall, Rajarhat",22.5796,88.4599,Kolkata,KOLK
+BASU,Basusree Cinema: Kolkata,22.5226,88.346,Kolkata,KOLK
+JYKL,Jayanti Cinema: Barrackpore,22.7495,88.3729,Kolkata,KOLK
+MACI,Malancha Cinema: Tollygunge,22.487,88.3506,Kolkata,KOLK
+MENO,Menoka Cinema: Kolkata,22.5112,88.3507,Kolkata,KOLK
+PMAC,Padma Cinema: Kolkata,22.6953,88.3976,Kolkata,KOLK
+PRCN,Prachi Cinema: Kolkata,22.5649,88.3683,Kolkata,KOLK
+BJLC,Bijoli Cinema: Kolkata,22.5269,88.3459,Kolkata,KOLK
+CHCK,Chhabighar Cinema: Kolkata,22.5697,88.3694,Kolkata,KOLK
+MCKO,Minar Cinema: Kolkata,22.5973,88.3719,Kolkata,KOLK
+MTKO,Regal Cinema: Kolkata,22.5628,88.3527,Kolkata,KOLK
+NCAZ,Narayani Cinema: Alambazar,22.6491,88.3635,Kolkata,KOLK
+CAIS,Casino Talkies A/C 2K 3D: Aluva,10.1068,76.3631,Kochi,KOCH
+CXKO,"Cinemax: Oberon, Kochi",10.0143,76.3123,Kochi,KOCH
+MAJT,Majestic Theatre: Narakkal,10.0448,76.2176,Kochi,KOCH
+PVGC,"PVR: Lulu (Gold), Kochi",10.0281,76.3081,Kochi,KOCH
+PVKC,"PVR: Lulu, Kochi",10.0281,76.3081,Kochi,KOCH
+SCKI,Savita Cinema: Kochi,9.98489,76.2775,Kochi,KOCH
+PACE,Padma Cinema Screen 2: Ernakulam,9.98176,76.2827,Kochi,KOCH
+PCNM,Pan Cinemas: Nucleus Mall,9.9396,76.3311,Kochi,KOCH
+SCKO,Sarita Cinema: Kochi,9.98489,76.2775,Kochi,KOCH
+CETA,Central Talkies: Thrippunithura,9.94854,76.3478,Kochi,KOCH
+SDCE,Sridar Cinemas: Ernakulam,9.97953,76.2768,Kochi,KOCH
+PMCE,Padma Cinema Screen 1: Ernakulam,9.98176,76.2827,Kochi,KOCH
+VMHE,Vanitha Movie House: Edapally,10.0308,76.3095,Kochi,KOCH
+SETK,Sangeeta Cinema: Kochi,9.98489,76.2775,Kochi,KOCH
+MCKP,Miraj Cinemas Kundan Palace: Abohar,30.1284,74.2053,Abohar,ABOR
+KSSA,Samar Cinemas: Abohar,30.1496,74.2029,Abohar,ABOR
+SRTA,Sai Ram Theater: Achampeta,16.4008,78.6456,Achampet,ACHM
+STAY,Sri Satyalaxmi Theatre: Achampet,16.3996,78.6346,Achampet,ACHM
+ASNT,Asian Nataraj 70MM: Adilabad,19.6749,78.5315,Adilabad,ADIL
+JTMT,Maheshwari Theatre: Adilabad,19.6716,78.5344,Adilabad,ADIL
+ANDA,Asian Nataraj Deluxe: Adilabad,19.6749,78.5315,Adilabad,ADIL
+BLKA,Balaka Cinema: Agartala,23.8292,91.2747,Agartala,AGAR
+SRRC,SSR Rupasi Cinema: Agartala,23.8285,91.279,Agartala,AGAR
+CCIA,Chitra Cinema: Agra,27.1911,78.0085,Agra,AGRA
+PPCA,Panna Palace: Agra,27.1417,78.0454,Agra,AGRA
+SARV,SARV Cinemas: Agra,27.2112,77.9993,Agra,AGRA
+SJTA,Sanjay Talkies: Agra,27.2013,78.007,Agra,AGRA
+ADTA,Carnival: TDI Mall,27.1588,78.0579,Agra,AGRA
+APAS,Meher Theatre: Agra,27.1652,78.0142,Agra,AGRA
+SHTA,Shree Talkies: Agra,27.2095,78.0072,Agra,AGRA
+BGTA,Bhagwan Talkies: Agra,27.2104,78.0051,Agra,AGRA
+AMNK,Anamika Cinema: Tundla,27.2176,78.2326,Agra,AGRA
+RVCA,Rajeev Cinema: Agra,27.1741,77.9823,Agra,AGRA
+SNTI,Shanti Cinema: Agra,27.1915,77.9725,Agra,AGRA
+SOND,Sond Cinema: Ahmedgarh,30.6721,75.8267,Ahmedgarh,AHMG
+INAC,"INOX: City Square Mall, Ajmer",26.5147,74.6339,Ajmer,AJMER
+MCAR,Miraj Cinemas: Ajmer,26.4716,74.6336,Ajmer,AJMER
+MMMX,MayaMandir Multiplex (Dolby Atmos): Ajmer,26.4832,74.665,Ajmer,AJMER
+PALC,Plaza Cinema: Ajmer,26.4539,74.6342,Ajmer,AJMER
+GSVA,G6 Sri Venkata Gangaratnam Theatre: Akividu,16.5838,81.3862,Akividu,AKVD
+SHRM,Shriram Cinema: Akluj,17.8852,75.0224,Akluj,AKLJ
+RKAA,Radha Krishna: Akola,20.6984,77.0168,Akola,AKOL
+UTDA,Uday Theatre: Akola,20.7119,76.9964,Akola,AKOL
+VATA,FUN Cinemas Vasant Talkies: Akola,20.7075,76.9969,Akola,AKOL
+NRCA,New Regal Cinema: Akola,20.7087,76.9946,Akola,AKOL
+MNKC,Manek Cinema: Akola,20.7143,76.9974,Akola,AKOL
+SVTS,Shrinivas Talkies: Akot,21.0937,77.0592,Akot,TKOT
+VRKE,VRK Theatre: Alangudi,10.2902,79.099,Alangudi,ALNI
+JTVM,Venkateswara Movie Mart: Anakapalle,17.6903,83.0088,Anakapalle,ANKP
+SEIA,Shirdi Sai Theatre Complex: Anakapalle,17.6861,83.0063,Anakapalle,ANKP
+JTPP,Sri Satyanarayana Picture Palace AC DTS: Anakapall,17.6877,83.0143,Anakapalle,ANKP
+JTAN,Raja Picture Palace: Anakapalle,17.6892,83.0033,Anakapalle,ANKP
+JTPE,Sathya Theater: Anakapalle,17.6889,83.005,Anakapalle,ANKP
+JTRA,Ramachandra Theatre: Anakapalle,17.6927,83.0018,Anakapalle,ANKP
+FCPA,INOX Anand: City Pulse Mall,22.5527,72.9444,Anand,AND
+GDAN,Gold Cinema: Anand,22.5523,72.9399,Anand,AND
+BIGA,Big Lion Multiplex: Anand,22.5549,72.9641,Anand,AND
+DMAN,Diya Cinema: Anand,22.5566,72.9676,Anand,AND
+RJSH,R and S Cinemas: Anand,22.5477,72.9556,Anand,AND
+TCAD,Time Cinema: Anand,22.5499,72.9324,Anand,AND
+KALP,Kalpana Cinema: Anand,22.5571,72.9602,Anand,AND
+ANPP,Annapurna Picture Palace: Anantapalli,16.9718,81.44,Anantapalli,ANTT
+SVCI,SV Cinemax: Anantapur,14.682,77.6048,Anantapur,ANAN
+TGAL,Archana Cinemas AC Dolby Atmos,8.92539,76.916,Anchal,ANHL
+VRSA,Varsha Theatre: Anchal,8.9242,76.9153,Anchal,ANHL
+ANEL,Lakshmi Narasimha Chitramandira: Anekal,12.7112,77.6885,Anekal,ANEK
+PCTT,Preeti Chitralaya Theatre: Angadipuram,10.9764,76.2004,Angadipuram,ANDM
+CCKA,Carnival: KSRT Complex,10.1953,76.3864,Angamaly,ANGA
+SBAA,Sri Bhimeswara A/C DTS: Angara,16.7756,81.9351,Angara,ANGR
+VENN,Sri Venkata Manikyamba Theatre: Angara,16.7725,81.9342,Angara,ANGR
+CNPA,Cineplexx: Angul,20.8417,85.1553,Angul,ANGL
+DIMP,Divyajyoti Movie Plex: Angul,20.8325,85.0889,Angul,ANGL
+VIRA,Virendra Talkies: Anjad,22.0403,75.0519,Anjad,ANJA
+MCAJ,FUN Cinemas Modern Cineplex: Anjar,23.092,70.0409,Anjar,ANJR
+VCCA,Vasant Cinema: Anklav,22.4258,72.9887,Anklav,ANKV
+JTSI,Janata Talkies: Annigeri,15.4221,75.4307,Annigeri,ANGI
+KACR,Karuna Cinema: Arambagh,22.8852,87.7866,Arambagh,AMBH
+SDCA,Sudhanil Cinema: Arambagh,22.8741,87.7957,Arambagh,AMBH
+VSTI,VS Theatre: Aranthangi,10.1693,78.9932,Aranthangi,ARNT
+MSTG,Mahasakthi Talkies 2K A/C Dolby Atmos: Ariyalur,11.1479,79.0695,Ariyalur,ARIY
+MCMM,Mahadeswara Chitra Mandira: Arkalgud,12.6176,76.1229,Arkalgud,ARGU
+SMAL,Sri Manjunatha Chitramandira: Arkalgud,12.5824,76.1785,Arkalgud,ARGU
+RRTA,Raja Ramesh Theatre: Armoor,18.7818,78.2999,Armoor,ARMO
+RCAN,Rajeswari Cinema: Arni,12.6678,79.2885,Arni,ARNI
+KART,Karthikeyan Theatre: Arani,12.6669,79.274,Arni,ARNI
+MTTM,Mahavir Talkies: Muddebihal,16.4775,76.3103,Arsikere,ARSI
+SVAJ,Sri Venkateshwara Theatre: Arsikere,13.4057,76.1625,Arsikere,ARSI
+CRAL,Carnival: Sentrum Mall,23.7034,86.9482,Asansol,ASANSOL
+MANT,Manoj Talkies: Asansol,23.6981,86.9409,Asansol,ASANSOL
+ECGM,Eylex Cinemas: Galaxy Mall Asansol,23.6853,86.9417,Asansol,ASANSOL
+MANM,Manoj Mini: Asansol,23.6981,86.9409,Asansol,ASANSOL
+VTAG,Vivek Talkies: Ashoknagar,24.5769,77.7288,Ashoknagar,AKMP
+SRET,Sri Venkata Durga Theatre: Aswaraopet,17.25,81.1322,Aswaraopeta,ASWA
+JTUR,Kanakadurga Theatre: Attili,16.6872,81.6027,Attili,ATLI
+SEHP,Sri Venkatrama Hanuman Picture Palace: Attili,16.687,81.6016,Attili,ATLI
+BIAA,Carnival: Anjali,19.885,75.3229,Aurangabad,AURA
+SCAU,"INOX: Prozone Mall, Aurangabad",19.8769,75.3721,Aurangabad,AURA
+FMAU,INOX Tapadia: Aurangabad,19.8982,75.363,Aurangabad,AURA
+RMIA,"INOX: Reliance Mall, Aurangabad",19.8658,75.3498,Aurangabad,AURA
+PVAG,PVR: Aurangabad,19.8734,75.3774,Aurangabad,AURA
+MANU,"Mukta A2 Cinemas: Nupur, Aurangabad",19.8757,75.3542,Aurangabad,AURA
+ANES,E-SQUARE Abhinay: Aurangabad,19.879,75.3355,Aurangabad,AURA
+ACAU,Apsara Cinema: Aurangabad,19.8849,75.3253,Aurangabad,AURA
+CTAV,Chinthamani Theatre: Avinashi,11.1987,77.2662,Avinashi,AVII
+SRKI,Sri Karunambika Theatre: Avinashi,11.1877,77.2735,Avinashi,AVII
+MURI,Murli Theatre: Azamgarh,26.0748,83.1859,Azamgarh,AZMG
+JTBD,Parvathi Theatre: Badami,16.0127,75.5458,Badami,BAMA
+JCPC,J C Picture Palace: Badaun,28.0354,79.1234,Badaun,BADN
+SNCC,Suncity Cinema: Baddi,30.9367,76.7988,Baddi,BADD
+ATBR,Anil Talkies: Badnagar,23.0425,75.3797,Badnagar,BADA
+GURK,Gurukripa Talkies: Badnawar,23.0193,75.2305,Badnawar,BADR
+SHTB,Shakthi Theatre: Bagalkot,16.1859,75.699,Bagalkot,BAGA
+CCBA,City Cinema: Bagbahara,21.0506,82.3793,Bagbahara,BBHA
+CITM,Cine Time: Bahadurgarh,28.6904,76.9417,Bahadurgarh,BAHD
+NSSB,Netaji Subhas Sadan: Baidyabati,22.7917,88.3159,Baidyabati,BAID
+TRBA,Treasure Cinema: Baihar,22.1039,80.5595,Baihar,BIAH
+GSEE,Ganga Shree Cineplex: Baikunthpur,23.2683,82.5542,Baikunthpur,BKTH
+SHCB,Shankar Cinema: Baindur,13.8666,74.6276,Baindur,BAND
+UHAT,Uma Talkies: Bakhrahat,22.3931,88.2061,Bakhrahat,BART
+MCBG,Miraj Cinemas: Balaghat,21.8173,80.1916,Balaghat,BLGT
+MYBG,Mayur Talkies: Balaghat,21.8109,80.1954,Balaghat,BLGT
+ROYN,Royal Cinemas: Balangir,20.7034,83.4876,Balangir,BALG
+MVEX,MovieEX Cinema: Balasore,21.56,86.9836,Balasore,BLSR
+ODOD,Odean Cinema: Balasore,21.5062,86.9226,Balasore,BLSR
+VINY,Vinay Talkies: Balod,20.7373,81.2119,Balod,BALD
+NEEB,Neelam Cinema: Balotra,25.8336,72.249,Balotra,BALO
+TPAR,Titu Cinema: Balrampur,27.4332,82.1767,Balrampur,BLUR
+KACI,Kalyani Cinema: Balurghat,25.2256,88.7754,Balurghat,BALU
+SIMA,Satyajit Mancha: Balurghat,25.2473,88.7791,Balurghat,BALU
+SCBB,Surya Cinema: Banga,31.1791,75.9936,Banga,BNGA
+VTBH,Vijay Theatre: Bangarpet,12.99,78.1809,bangarpet,BAGT
+DURG,Durga Talkies: Banki,20.3791,85.531,Banki,BANK
+MACB,"Mukta A2 Cinemas: Nakshatra Mall, Banswara",23.5537,74.4264,Banswara,BANS
+ANBA,Anapurna Theatre: Bapatla,15.9027,80.465,Bapatla,BAPA
+ATBA,Alankar Theatre: Bapatla,15.9031,80.4644,Bapatla,BAPA
+DRPN,Darpan Theatre: Barabanki,26.9329,81.201,Barabanki,BARK
+CCTB,Carnival Cinemas: Baramati,18.1779,74.606,Baramati,BARA
+DCPB,Durga City Pride: Baramati,18.1525,74.5717,Baramati,BARA
+TCBP,Tara Cinema: Baramati,18.1531,74.5736,Baramati,BARA
+MAUD,Madhuvan Cinema: Baran,25.0939,76.5141,Baran,BARN
+KCBA,Kamal Cineplex: Bareily,28.3573,79.4179,Bareilly,BARE
+NTCB,Natraj Cinema: Bareilly,28.3348,79.4293,Bareilly,BARE
+PCBL,Prasad Cinema: Bareilly,28.3565,79.4168,Bareilly,BARE
+PRAA,Prabha Theatre: Bareilly,28.3475,79.4246,Bareilly,BARE
+SCBL,Starworld Cinemas: Bareilly,28.3965,79.3756,Bareilly,BARE
+SRBL,SRS Phoenix Mall: Bareilly,28.3947,79.4568,Bareilly,BARE
+WEJA,Wow Cinepulse: Bareja,22.8544,72.5916,Bareja,BEJA
+RCNS,Rukmini Cineplex New Screen 1: Bargarh,21.3476,83.6364,Bargarh,BARG
+RMCP,Rukmini Cineplex Screen 2: Bargarh,21.3476,83.6364,Bargarh,BARG
+UMAT,Uma Galaxy (Digital Silver Screen): Bargarh,21.3333,83.6181,Bargarh,BARG
+RXBD,"Roxy Cinema: Baripada ( 2K, Dolby Digital )",21.9372,86.7261,Baripada,BARI
+ANCB,Aanchal Cinema: Barmer,25.7618,71.4177,Barmer,BARM
+LXCB,Laxmi Cinema: Barmer,25.7439,71.3965,Barmer,BARM
+GCBA,GE Cinemas: Barnala,30.2621,75.2356,Barnala,BAR
+VRCN,VRC Cinema: Barnala,30.3733,75.5236,Barnala,BAR
+MTBN,Mahendra Talkies: Barwani,22.0256,74.9048,Barwani,BRWN
+CTYB,City Cinema: Basna,21.2787,82.8222,Basna,BASN
+BIBH,Carnival: City Center Mall,30.2049,74.95,Bathinda,BHAT
+FNBH,"Fun Cinemas: Mittal City Mall, Bathinda",30.2311,74.9356,Bathinda,BHAT
+QCBT,Q Cinemas: Peninsula Mall,30.2372,74.9352,Bathinda,BHAT
+SMNK,SM Theatre: Nilakottai,10.1737,77.8497,Batlagundu,BTGD
+VCBT,Parimalam Cinemas A/C Dts,10.1625,77.7662,Batlagundu,BTGD
+GDBR,Gold Cinema: Beawar,26.1053,74.3131,Beawar,BEAW
+JMCB,Jai Mandir Cinema: Beawar,26.0999,74.3125,Beawar,BEAW
+BEHB,Beereshwara 7.1 Dolby Cinema: Belakavadi,12.2571,77.1188,Belakavadi,BLVD
+BTBE,Balaji Theatre: Bellampalli,18.7913,78.9164,Bellampalli,BELL
+RMKS,Rama Krishna Theatre: Bellampalli,19.062,79.4836,Bellampalli,BELL
+SRRB,SRR Theatre: Bellary,15.1425,76.9229,Bellary,BLRY
+RRMB,RR Multiplex: Bellary,15.1431,76.942,Bellary,BLRY
+RATB,Raghavendra Theatre: Bellary,15.142,76.9314,Bellary,BLRY
+SRTB,Sri Renuka Talkies: Belur,13.1693,75.8677,Belur,BELU
+BCBA,Banirupa Cinema: Berachampa,22.695,88.6892,Berachampa,BRAC
+SSHB,Silver Screen: Berhampore,24.0921,88.263,Berhampore,BEHA
+GAUT,Gautam Cinema A/c: Berhampur,19.3128,84.7861,Berhampur,BERP
+SHKB,Shakti Cinema: Berhampur,19.3107,84.7831,Berhampur,BERP
+PAYB,"Payal Cinema (2k,Central Ac,7.1 Sound): Berhampur",19.315,84.7986,Berhampur,BERP
+RTBR,Rukmini Talkies: Berhampur,19.3119,84.7852,Berhampur,BERP
+SVMR,Sivamax Cinema: Berhampur,19.3107,84.7831,Berhampur,BERP
+AUBB,Asian Uday Bhaskar: Bhadrachalam,17.6735,80.8891,Bhadrachalam,BHDR
+SHDC,Shankar Digital 2K Cinema: Bhadravati,13.8436,75.6998,Bhadravati,BDVT
+VEBI,Sathya A/C Theatre: Bhadravathi,13.8526,75.7071,Bhadravati,BDVT
+NTHV,Nethravathi A/c Theatre: Bhadravati,13.8526,75.7071,Bhadravati,BDVT
+KMBH,Kamala Theater: Bhainsa,19.1047,77.9609,Bhainsa,BHAN
+AASH,Adarsh Chitra Mandir: Bhandara,21.1707,79.6564,Bhandara,BHAA
+SVBC,Shree Vinayaka Chitramandira: Bharamasagara,14.3726,76.1889,Bharamasagara,BASA
+FSHA,INOX Shaalimar: Bharuch,21.7022,72.9889,Bharuch,BHAR
+IBCM,"INOX: Blue Chip Mall, Bharuch",21.7041,72.987,Bharuch,BHAR
+INBH,"INOX: Shree Rang Palace, Zadeshwar Road",21.716,73.0182,Bharuch,BHAR
+RCBC,Relief Cinema: Bharuch,21.7004,72.9888,Bharuch,BHAR
+LATK,Laxmi Theatre: Bhatkal,13.9861,74.5546,Bhatkal,BAKL
+PITL,Pushpanjali Theatre: Bhatkal,13.9933,74.5621,Bhatkal,BAKL
+PRVT,Parvathi Talkies A/C: Bhattiprolu,16.1016,80.7836,Bhattiprolu,BATT
+ETPB,The Entertainment Park: Bhavnagar,21.7716,72.1462,Bhavnagar,BHNG
+MXBN,Maxus Cinemas: Bhavnagar,21.7509,72.1364,Bhavnagar,BHNG
+TOPE,Top3 Multiplex: Bhavnagar,21.7302,72.1536,Bhavnagar,BHNG
+VSTB,Vaishali Cinema: Bhavnagar,21.7847,72.1465,Bhavnagar,BHNG
+SDBG,Sudarshan Deluxe: Bheemgal,18.7007,78.4539,Bheemgal,BHMG
+MCBC,Miraj Cinemas: Bhilai,21.1823,81.3392,Bhilai,BHILAI
+NVTB,FUN Cinemas New Vasant Talkies: Bhilai,21.2093,81.369,Bhilai,BHILAI
+PVBH,"PVR: Treasure Island, Bhilai",21.2195,81.3227,Bhilai,BHILAI
+CETH,Chandra Theatre: Bhilai,21.2082,81.3585,Bhilai,BHILAI
+SVHB,Sri Venkateshwara Talkies: Bhilai,21.2073,81.3481,Bhilai,BHILAI
+SSMB,Sri Srinivas Mahal: Bhimadole,16.8107,81.2642,Bhimadole,BMDE
+KCHB,Kishore Cine Hub: Bhimavaram,16.5453,81.5177,Bhimavaram,BHIM
+SNBW,Suncity Cinema: Bhiwani,28.8052,76.1355,Bhiwani,BHWN
+ALPC,Alpana Cineplex: Bhopal,23.2648,77.4101,Bhopal,BHOP
+BCBP,Bharat Cineplex: Bhopal,23.2601,77.4104,Bhopal,BHOP
+CPAS,"Cinepolis: Aashima Mall, Bhopal",23.1826,77.4562,Bhopal,BHOP
+DDXB,DDX Multiplex: Bhopal,23.1876,77.4174,Bhopal,BHOP
+FNBP,"Cinepolis: DB Mall, Bhopal",23.2329,77.4303,Bhopal,BHOP
+JCMN,Jyoti Cineplex: MP Nagar,23.2335,77.434,Bhopal,BHOP
+MAPM,"Mukta A2 Cinemas: Peoples Mall, Bhopal",23.3045,77.4219,Bhopal,BHOP
+MUSC,Muskaan Cinema: Bhopal,23.2651,77.4141,Bhopal,BHOP
+PAMB,"PVR: Aura Mall, Bhopal",23.1889,77.434,Bhopal,BHOP
+RAJL,Raj Cinema: Bhopal,23.2497,77.4205,Bhopal,BHOP
+RAMC,Rangmahal Cineplex: Bhopal,23.235,77.3987,Bhopal,BHOP
+RBAC,Raj Big 2 Cinema: Bhopal,23.2497,77.4205,Bhopal,BHOP
+RMBH,Rambha Multiplex: Bhopal,23.2503,77.4238,Bhopal,BHOP
+SACG,Sangam Cineplex: Bhopal,23.2629,77.4103,Bhopal,BHOP
+SANC,Sangeet Cineplex: Bhopal,23.2341,77.4018,Bhopal,BHOP
+INBO,"INOX: Capital Mall, Bhopal",23.1642,77.4682,Bhopal,BHOP
+EKTB,Ekamra Talkies (Digital Sound 5.1): Bhubaneshwar,20.2832,85.857,Bhubaneswar,BHUB
+INBB,INOX: BMC Bhawani Mall,20.2868,85.8474,Bhubaneswar,BHUB
+RVTR,Ravi Theatre: Bhubaneswar (A/C Dolby Digital),20.245,85.8403,Bhubaneswar,BHUB
+SRBH,Sriya 2K (A/C Dolby Digital 5.1): Bhubaneshwar,20.2739,85.8445,Bhubaneswar,BHUB
+KTBH,Keshari Theatre Barco 4k Dolby Atmos: Bhubaneshwar,20.2751,85.8351,Bhubaneswar,BHUB
+MPPB,"Maharaja (Christie 4K, DOLBY ATMOS 64 Channel)",20.2962,85.835,Bhubaneswar,BHUB
+STBH,Stutee (A/C 2K Dolby Digital 7.1): Bhubaneshwar,20.2739,85.8445,Bhubaneswar,BHUB
+SWBH,Swati (A/C 2K Dolby Atmos): Bhubaneshwar,20.2739,85.8445,Bhubaneswar,BHUB
+MTBG,Modern Cinema: Bhuj,23.2501,69.6702,Bhuj,BHUJ
+ROMX,Roshan Multiplex: Bhuntar,31.8833,77.1481,Bhuntar,BHUN
+ANDN,Anand 70MM: Bhupalpalle,18.4389,79.869,Bhupalpalle,BHUP
+JTOT,Omkar Theatre: Bhuvanagiri,17.5193,78.8871,Bhuvanagiri,BHUV
+INGO,"INOX: Old GMC, DB Road, Panaji",15.4991,73.8212,Panaji,PANA
+INMG,"INOX: Osia G Wing Margao, Goa",15.2848,73.9576,Margao,MARG
+INOA,"INOX: Osia A Wing Margao, Goa",15.2859,73.9572,Margao,MARG
+INPO,"INOX: Porvorim, Goa",15.5259,73.8269,Goa,GOA
+CCUM,"Carnival Cinemas: Atrium Mall, Ponda",15.4014,74.0051,Goa,GOA
+CIWG,Cine World: Marcela,15.5159,73.9612,Marcela,MARC
+HFLG,Z Square Cine Lata: Margao,15.2707,73.9579,Margao,MARG
+HFLM,Z Square Cine Vishant: Margao,15.2715,73.9686,Margao,MARG
+HFNA,"Z Square Cine Niagara: Curchorem,Goa",15.2615,74.1075,Goa,GOA
+HFSA,Z Square Cine Samrat Ashok: Panaji,15.497,73.8239,Panaji,PANA
+HFSQ,Z Square Hira Talkies: Bicholim,15.5998,73.9481,Bicholim ,BICG
+HFSV,Z Square Cine Shivam: Vasco Da Gama,15.4,73.8143,Vasco Da Gama,VAGG
+KSES,1930 Vasco,15.3971,73.813,Vasco Da Gama,VAGG
+ELMV,"El Monte Cinema: Vasco Da Gama, Goa",15.4001,73.8042,Vasco Da Gama,VAGG
+DKTI,Deepak Talkies: Bidadi,12.7978,77.3838,Bidadi,BIDI
+SRBI,SRS Shoppers Pride Mall: Bijnor,29.3803,78.1389,Bijnor,BIJ
+ADBK,Carnival: Cinemagic,27.9934,73.3207,Bikaner,BIK
+SUTB,Suraj Talkies: Bikaner,28.0083,73.3209,Bikaner,BIK
+STBJ,Shyam Talkies: Bikramganj,25.2216,84.2652,Bikramganj,BANJ
+LABI,Laxmi Cinema: Bilara,26.1824,73.707,Bilara,BILR
+GLBP,Carnival: City Mall 36,22.0929,82.1253,Bilaspur,BILA
+PVBP,"PVR: Rama Magneto Mall, Bilaspur",22.0716,82.1488,Bilaspur,BILA
+ZRMD,Sri Shrinivasa Chitramandira: Bilgi,16.3496,75.6211,Bilgi,BILG
+ACMM,Anand Cine Magic Multiplex: Bilimora,20.7681,72.9731,Bilimora,BILI
+PCBA,Prasad Chitralaya: Biraul,25.9434,86.2458,Biraul,BIRL
+LJWB,Lajwanti Cinema: Bishrampur,23.1843,82.9734,Bishrampur,BSRM
+ABCT,Arra Cinemas: Bodi,10.0116,77.3455,Bodinayakanur,BODI
+RSBD,RS Theatre: Bodinayakkanur,9.97355,77.354,Bodinayakanur,BODI
+PVBJ,PVR: Bokaro,23.6642,86.1475,Bokaro,BOKA
+CTBJ,Chandra Talkies: Bokaro,23.6342,86.1783,Bokaro,BOKA
+MCPJ,Meghdoot Cinema: Phusro,23.7645,85.9981,Bokaro,BOKA
+VBOL,"SVF Cinemas: Gitanjali, Bolpur",23.6664,87.6826,Bolpur,BLPR
+JHOL,Jolly Max Cinema: Bongaigaon,26.4884,90.5517,Bongaigaon,BONG
+CPBN,Cineplexx: Brajrajnagar,21.8225,83.9239,Brajrajnagar,BJNG
+SBUL,Suncity Cinema: Bulandshahr,28.4048,77.8288,Bulandshahr,BULA
+INBW,"INOX: Burdwan Arcade, B B Ghosh Road",23.2467,87.8653,Burdwan,BURD
+STCB,Star Cinemas: Burhanpur,21.3307,76.2061,Burhanpur,BRHP
+SHTS,Shoba Talkies: Byadagi,14.7938,75.4037,Byadagi,BYAD
+SPTB,Sri Panduranga Talkies: Byadgi,14.6748,75.4912,Byadagi,BYAD
+VKTC,Venkata Krishna Theatre: Chagallu,16.9948,81.6728,Chagallu,CHAG
+RAJC,Raj Cinema: Chalisgaon,20.4616,74.9972,Chalisgaon,CHLS
+HANS,Hans Cinema: Chalisgaon,20.4616,74.9972,Chalisgaon,CHLS
+JRCA,Sri RamKrishna Chitramandira: Challakere,14.3159,76.653,Challakere,CHLA
+JRCC,Sri Ranganatha Chitramandira: Challakere,14.3062,76.6524,Challakere,CHLA
+KOCA,Komala Theater 2K A/C DTS: Challapalli,16.1189,80.9259,Challapalli,CHAP
+BATE,Basaveshwara Theatre 2K A/C: Chamarajnagar,11.9275,76.9464,Chamarajnagar,CHAJ
+SBCC,Shree Bhramaramba Cineplex: Chamarajnagar,11.928,76.9431,Chamarajnagar,CHAJ
+MUCH,Mukund`s Multiplex: Champa,22.0317,82.6428,Champa,CHAM
+GVCH,GV Cinemas: Chandragiri,13.586,79.3135,Chandragiri,CHAD
+RKON,Royal Cinema Hall: Chandrakona,22.7306,87.5127,Chandrakona,CKNA
+BIRC,Carnival: Radha Krishna,19.9681,79.2939,Chandrapur,CHAN
+ABCC,Abhay Cinema: Chandrapur,19.9469,79.2949,Chandrapur,CHAN
+ABCN,Abhinaya Theatre: Changanassery,9.44274,76.5426,Changanassery,CNSY
+ATCN,Anu Theatre: Changanassery,9.44274,76.5426,Changanassery,CNSY
+APSC,Apsara Theatre: Changanassery,9.44914,76.5433,Changanassery,CNSY
+DNCY,Dhanya Remya: Changanassery,9.44182,76.5444,Changanassery,CNSY
+SLTL,Sri Lakshmi Talkies: Channagiri,14.0258,75.9274,Channagiri ,CHGI
+SIVP,Shivananda Theatre: Channapatna,12.654,77.2014,Channapatna,CPTN
+VTCP,Vishnu Theater: Cheepurupalli,18.3083,83.5671,Cheepurupalli,CHEE
+ANAT,Anurag Amogh Theatres: Cheepurupalli,18.3106,83.5662,Cheepurupalli,CHEE
+VMVT,Vamsi Theater: Cheepurupalli,18.3083,83.5671,Cheepurupalli,CHEE
+VBKM,VBK Max: Cherial,17.9199,78.9742,Cherial,CHRY
+RGPP,Raghu Picture Palace: Cherla,18.0732,80.8278,Cherla,CHRL
+SIMT,Sri Manikanta 70MM A/C: Chevella,17.3119,78.1378,Chevella,CHEV
+JPCC,JP Cinemas: Chhatarpur,24.9439,79.564,Chhatarpur,CHHT
+AXCP,Opera Ashoka Cineplex: Chhatarpur,24.8847,79.5971,Chhatarpur,CHHT
+MAHJ,Maharaj Cinema: Chhatarpur,24.9208,79.5829,Chhatarpur,CHHT
+SHMI,Nagalakshmi Theatre: Chickmagaluru,13.3232,75.7717,Chickmagaluru,CHKA
+SKHA,Sreelekha Theater: Chickmagaluru,13.3292,75.7765,Chickmagaluru,CHKA
+CRRT,Sri Ranga Raja Theatre: Chidambaram,11.396,79.6995,Chidambaram,CHID
+MTCM,Mariyappa Theatre: Chidambaram,11.3949,79.7012,Chidambaram,CHID
+CCHI,Cinemagic Cinema: Chikhli,20.3179,76.2556,Chikhli,CHIH
+VTTC,Vani Talkies: Chickballapur,13.4339,77.7312,Chikkaballapur,CHIK
+YTCJ,Yashwant Theatre: Chikodi,16.4283,74.5823,Chikodi,CHOK
+MNDC,Manga Deluxe: Chilakaluripet,16.0936,80.1682,Chilakaluripet,CHIL
+OTNC,Om Navayuga Talkies: Chinturu,17.7448,81.3929,Chinturu,CHTN
+STCH,Sangam Theatre: Chirala,15.827,80.3555,Chirala,CHIR
+MTCL,Mohan Theater: Chirala,15.8276,80.3571,Chirala,CHIR
+UNUT,Union Theatre: Chitradurga,14.2262,76.3964,Chitradurga,CHIT
+VTCH,Venkateshwara Theatre: Chitradurga,14.23,76.3983,Chitradurga,CHIT
+JTLC,Lakshmi Theatre: Chodavaram,17.8299,82.9374,Chodavaram,CDVM
+APAC,APA Cinemas: Kinathukadavu,10.8182,77.0194,Coimbatore,COIM
+KARP,Karpagam Theatres 4K Dolby Atmos: Coimbatore,11.0194,76.9638,Coimbatore,COIM
+KOVI,Kovai Shanti Complex 4K: Coimbatore,10.9989,76.9686,Coimbatore,COIM
+STCC,"SPI: The Cinema, Brookefields Mall",11.0096,76.959,Coimbatore,COIM
+TCKC,The Central and Kanakadhara Theatres: Coimbatore,11.0161,76.9554,Coimbatore,COIM
+MATC,Maruthi Movie: Coimbatore,11.0144,76.9538,Coimbatore,COIM
+FNCO,"Fun Cinemas: Fun Republic Mall, Coimbatore",11.0247,77.0104,Coimbatore,COIM
+KGCM,KG Cinemas: Coimbatore,11.0001,76.9721,Coimbatore,COIM
+VLTC,Velmurugan Theatre: Coimbatore,11.0137,77.0027,Coimbatore,COIM
+PTTC,Palaniappa Theatre: Coimbatore,10.9547,76.9709,Coimbatore,COIM
+JTKT,Krishnalaya Theatre AC: Cuddalore,11.7467,79.7575,Cuddalore,CUDD
+STCU,Shanmuga Theatre: Cuddalore,11.8682,79.6819,Cuddalore,CUDD
+JTVC,Velmurugan Theatre: Cuddalore,11.7461,79.7588,Cuddalore,CUDD
+SMCK,Sangam Cineplex: Cuttack,20.4604,85.8866,Cuttack,CUTT
+GACC,Grand Cinema Hall: Cuttack,20.4621,85.8852,Cuttack,CUTT
+BRUN,Brundaban Talkies: Cuttack,20.465,85.8852,Cuttack,CUTT
+PPDT,Purendra Puran Talkies: Dabra,25.8909,78.3401,Dabra,DABR
+RMCD,FUN Cinemas Rushil Cinema: Dahegam,23.1657,72.8169,Dahegam,DHGM
+BODA,Bollywood Cinema: Damoh,23.8026,79.4537,Damoh,DAMO
+SCDA,Sahil Cineplex: Darbhanga,26.1276,85.8954,Darbhanga,DARB
+VTDI,Varaha Theatre: Darlapudi,17.4841,82.7402,Darlapudi,DRLA
+BPPD,Bhaskar Picture Palace: Darsi,15.7739,79.6762,Darsi,DARS
+VPPD,Venkateswara Picture Palace: Darsi,15.7729,79.6859,Darsi,DARS
+PRDC,President Cinema: Dasuya,31.8225,75.6601,Dasuya,DASU
+GDDR,Gold Cinema: Dausa,26.9013,76.34,Dausa,DAUS
+PUSA,Poonam Talkies: Dausa,26.8981,76.3336,Dausa,DAUS
+MTDK,Movietime: Davanagere,14.4551,75.9056,Davanagere,DAVA
+PTDB,Pushpanjali Theatre: Davanagere,14.4661,75.9269,Davanagere,DAVA
+GTDN,Geetanjali Theatre: Davangere,14.4664,75.9254,Davanagere,DAVA
+PATD,Padmanjali Theatre: Davanagere,14.4657,75.9272,Davanagere,DAVA
+TDAC,Trinethra Digital 4K Atmos Cinema: Davanagere,14.462,75.9281,Davanagere,DAVA
+STDV,Shivaram A/C Theatre: Davuluru,16.421,80.7938,Davuluru,DVLR
+RMMD,Rajmandir Multiplex: Deesa,24.2502,72.1996,Deesa,DEES
+PVDD,"PVR: Pacific, Dehradun",30.3661,78.0706,Dehradun,DEH
+GLDD,Carnival: City Junction Mall,30.2887,77.9993,Dehradun,DEH
+BIDD,Carnival: Vikas Mall,30.323,78.0028,Dehradun,DEH
+MACD,"Mukta A2 Cinemas: Times Square Mall, Dehradun",30.3277,78.066,Dehradun,DEH
+SVDD,Silver City Multiplex: Rajpur Road,30.3433,78.0601,Dehradun,DEH
+BNBA,"Movie Lounge: Crossroads Mall, Dehradun",30.3329,78.054,Dehradun,DEH
+OCDE,Orient Cinema: Dehradun,30.3276,78.0463,Dehradun,DEH
+PTDH,Prabhat Talkies: Dehradun,30.3253,78.0388,Dehradun,DEH
+BCBD,Bharath Chitramandira: Devadurga,16.4211,76.9262,Devadurga,DEVD
+JRTD,Rameshwara Talkies: Devadurga,16.3662,76.7834,Devadurga,DEVD
+RTRT,Raghavendra Theater: Devarakadra,16.6209,77.8362,Devarakadra,DEVR
+MAHL,Sri Maheswari Theater: Devarapalle,17.9866,82.9785,Devarapalle,DVRL
+SCDG,Starlight Cinema: Devgad,16.3885,73.3885,Devgad,DEEV
+ACDE,Abhinav And Sanghvi Cineplex: Dewas,22.97,76.0517,Dewas,DEWAS
+ACDD,Ajanta Talkies: Dhamnod,22.218,75.473,Dhamnod,DMND
+BSPC,Bansal Cineplex: Dhampur,29.3028,78.5065,Dhampur,DHPR
+VCDT,Vimal Cineplex: Dhamtari,20.7086,81.5462,Dhamtari,DHMT
+ATDI,Amar Talkies: Dhamtari,20.7097,81.5483,Dhamtari,DHMT
+EOSD,EOS Cinemas: Dhamtari,20.7154,81.5493,Dhamtari,DHMT
+DVCA,Devshri Cinema: Dhamtari,20.7086,81.5462,Dhamtari,DHMT
+FCDH,INOX Cinemas: Dhanbad,23.8206,86.4703,Dhanbad,DHAN
+SHES,Sheshnag Cinema: Dhar,22.5963,75.2962,Dhar,DARH
+SMCR,Sheshnag Manmandir Cinema: Dhar,22.5963,75.2962,Dhar,DARH
+GODH,Gold Cinema: Dharamsala,32.2143,76.3171,Dharamsala,DMSL
+CSVR,"Carnival: SVR, Dharapuram",10.735,77.5273,Dharapuram,DHAR
+SHTD,Sri Hari Theatre: Dharmapuri,12.1297,78.1591,Dharmapuri,DMPI
+TGSH,Santhosh Theatre: Dharmapuri,12.1384,78.1604,Dharmapuri,DMPI
+RCCD,Ranga Cine Central: Dharmavaram,14.409,77.7161,Dharmavaram,DDMA
+SVLD,Sri Vijayalakshmi A/C Theatre: Dharmavaram,14.4171,77.7246,Dharmavaram,DDMA
+SVTD,Sri Varalakshmi Theatre: Dharmavaram,14.4171,77.7246,Dharmavaram,DDMA
+VKTS,Venkateswara Theatre: Dharpally,18.5795,78.371,Dharpally,DPLL
+OHMD,OHM Cinemas: Dharuhera,28.2186,76.7969,Dharuhera,DHRA
+SMTD,Sangam Theatre: Dharwad,15.4541,75.0098,Dharwad,DHAW
+ADMB,"BIG Cinemas: Manohar, Dhule",21.0025,74.7949,Dhule,DHLE
+JITE,Jyoti Talkies: Dhule,20.906,74.776,Dhule,DHLE
+PBKC,Prabhakar Cinema: Dhule,20.897,74.7758,Dhule,DHLE
+MACN,Maya Cinema: Dhulian,24.6877,87.9546,Dhulian,DHAA
+MGMD,"Miraj Cinemas: MGM, Dhuri",30.3649,75.8592,Dhuri,DHRI
+SAKA,Shankar Talkies: Digras,20.1035,77.7136,Digras,DIGR
+HDCN,Hillstar Digital Cinema: Dimapur,25.91,93.7266,Dimapur,DMPR
+PBOX,FUN Cinemas Playbox Cinema: Dimapur,25.9112,93.7308,Dimapur,DMPR
+CCAG,Carnival: Aarthi Grand,10.3654,77.9815,Dindigul,DIND
+JCNM,Om Sri Lakshmi Theatre (J-Cinemas): Chinnalapatti,10.2879,77.9191,Dindigul,DIND
+BILD,Carnival: Lakshmi & Naga,10.3609,77.9888,Dindigul,DIND
+ZMTK,Zaman Talkies: Domkal,24.1213,88.5471,Domkal,DMKL
+SCDN,Shree Cinema: Dongargarh,21.186,80.756,Dongargarh,DONG
+LTDA,Laxmi Talkies: Dornakal,17.4457,80.1507,Dornakal,DORN
+STDM,Sivaranjani Theatre Dts: Draksharamam,16.7942,82.0583,Draksharamam,DAKR
+BINT,Binapani Talkies: Dubrajpur,23.797,87.3776,Dubrajpur,DUBR
+APTD,FUN Cinemas Apsara Talkies: Durg,21.1963,81.2845,Durg,DURG
+BITD,Carnival: Tarun,21.1924,81.2824,Durg,DURG
+KSSB,K Sera Sera Miniplex: Durg,21.1646,81.2613,Durg,DURG
+SWTD,Swaroop Theatre: Durg,21.1973,81.288,Durg,DURG
+CCCC,Carnival: City Center,23.5378,87.298,Durgapur,DURGA
+ACWB,"Carnival: Arti, Benachity",23.5563,87.2747,Durgapur,DURGA
+BSJM,Bioscope: Junction Mall,23.5394,87.2906,Durgapur,DURGA
+DRCA,Durgapur Cinema: Durgapur,23.5376,87.3015,Durgapur,DURGA
+AADT,Ambica Deluxe: Eluru,16.7079,81.1027,Eluru,ELRU
+SSCE,Sri Satyanarayana Cinemas Screen 1: Eluru,16.7084,81.1135,Eluru,ELRU
+ABMN,Ambica Mini: Eluru,16.7079,81.1027,Eluru,ELRU
+ABML,Ambica Little: Eluru,16.7079,81.1027,Eluru,ELRU
+SBRU,Sai Balaji Complex: Eluru,16.7088,81.1081,Eluru,ELRU
+ABHI,Abhirami Multiplex: Erode,11.3456,77.7177,Erode,EROD
+STEE,Sangeetha Theatre: Erode,11.3288,77.7098,Erode,EROD
+TGTA,Thangam Theatre: Avalpoondurai,11.2312,77.72,Erode,EROD
+VREO,Valarmathi Theatre: Erode,11.4285,77.5556,Erode,EROD
+MMMD,Mad Moviez: Etawah,26.7847,79.0212,Etawah,ETWH
+FCPT,Fun Cine Plaza: Etawah,26.771,79.0257,Etawah,ETWH
+ATEK,Alankar Theatre: Ettumanoor,9.66905,76.5541,Ettumanoor,ETTU
+JTVE,Sri Venkateswara Talkies: Eturunagaram,18.3358,80.4262,Eturnagaram,ETNR
+SATC,Satyam Cineplex: Fatehpur,25.766,81.1018,Fatehpur,FATE
+CLFA,Carnival: Fazilka,30.4147,74.0194,Fazilka,FAKA
+SBCF,Silverbird Cinema: Firozpur,30.9108,74.6656,Firozpur,FRZR
+JYFG,Jyoti Cinema: Forbesganj,26.3014,87.2607,Forbesganj ,FORB
+SKGD,Shri Krishna Theatre: Gadag,15.4307,75.6342,Gadag,GADG
+SMRA,Sri Mahalaxmi Theatre: Gadag,15.4299,75.6352,Gadag,GADG
+SCGD,Shyam Cineplex: Gadarwara,22.9225,78.7837,Gadarwara,GDWR
+AKTG,Alka Talkies: Gadarwara,22.9202,78.7821,Gadarwara,GDWR
+ANLT,Alankar Talkies: Gadchiroli,20.1871,80.0012,Gadchiroli,GDRO
+SMGV,Surya Mahal Gajapathinagaram:  Vizianagaram,18.2759,83.3379,Gajapathinagaram,GJPT
+ALAN,Alankar Theatre: Gajendragarh,15.7356,75.9657,Gajendragarh,GJGH
+STGJ,Santosh Theatre: Gajwel,17.8396,78.693,Gajwel,GAJW
+TADG,Tirumala 70MM A/C Dts: Gajwel,17.8442,78.6778,Gajwel,GAJW
+MAHH,Mahalakshmi Mini Theatre: Ganapavaram,16.703,81.4576,Ganapavaram,GANP
+MCGM,"Miraj Cinemas: Gandhidham, Gujarat",23.0618,70.1339,Gandhidham,GDHAM
+OMCM,Om Cineplex: Gandhidham,23.076,70.1075,Gandhidham,GDHAM
+RHGH,Rajhans Cinemas: Gandhidham,23.0752,70.1164,Gandhidham,GDHAM
+VINA,Vinay Cinemas: Adipur,23.0684,70.0778,Gandhidham,GDHAM
+IGNR,"INOX: R16, Gandhinagar",23.231,72.6487,Gandhinagar,GNAGAR
+INGA,"INOX: Gandhinagar, Adalaj",23.1803,72.5653,Gandhinagar,GNAGAR
+CXGD,"Cinemax: Suman, Gandhinagar",23.216,72.6493,Gandhinagar,GNAGAR
+INRW,"INOX: Gandhinagar, R21",23.2315,72.6681,Gandhinagar,GNAGAR
+CPGR,City Pulse: Gandhinagar,23.1751,72.6393,Gandhinagar,GNAGAR
+ASTG,Asian Sandeep Theatre: Gangavati,15.4339,76.5291,Gangavati,GAVT
+KATE,Kanakadurga Theatre: Gangavati,15.438,76.5258,Gangavati,GAVT
+CHAG,Chandrahas Talkies: Gangavati,15.4336,76.5251,Gangavati,GAVT
+HMSG,HMS Theatre: Gangavati,15.4317,76.529,Gangavati,GAVT
+MTGG,Mohiuddin Talkies: Gangavati,15.4327,76.528,Gangavati,GAVT
+MUSH,Muskaan Cinema: Ganjbasoda,23.8495,77.9392,Ganjbasoda,GANJ
+JTCM,Sri Bala Balaji Chithra Mandir: D.Gannavaram,16.5907,81.8918,Gannavaram,GANN
+SHTH,Shankar Theatre: Gauribidanur,13.6118,77.514,Gauribidanur,GAUR
+APRC,APR Cinemas: Gaya,24.7915,84.9997,GAYA,GAYA
+SAGA,Sawan Cinema: Gaya,24.562,84.799,GAYA,GAYA
+SRVA,Sri Valli Theatre: Gobichettipalayam,11.453,77.4307,Gobichettipalayam,GOBI
+JYMT,JayaMaruthi A/C 2K DOLBY 7.1: Gobichettipalayam,11.4574,77.4039,Gobichettipalayam,GOBI
+BTGK,Basaveshwara Theatre: Gokak,16.239,75.1796,Gokak,GKGK
+PRAB,Prabhat Cinema: Gondia,21.4556,80.1953,Gondia,GNDA
+ECGN,EOS Cinemas: Gondia,21.4655,80.1894,Gondia,GNDA
+SAJG,Sarswati Talkies: Gopalganj,26.474,84.4433,Gopalganj,GOPG
+RPTG,Ramprathap 70 MM Theatre: Gopalpet,18.1097,78.1232,Gopalpet,GOPA
+CICG,City Mall Cinemas: Gorakhpur,26.7536,83.3752,Gorakhpur,GRKP
+JUBI,Jubilee Talkies: Gorakhpur,26.7527,83.3624,Gorakhpur,GRKP
+MYCP,Maya Cineplex: Gorakhpur,26.747,83.3562,Gorakhpur,GRKP
+UTGR,United Talkies: Gorakhpur,26.755,83.3695,Gorakhpur,GRKP
+CTCT,CTC Theatre: Gorantla,13.9844,77.7676,Gorantla,GORA
+AKGG,Alka Talkies: Gotegaon,23.0383,79.4833,Gotegaon,GTGN
+BMMB,Bommarillu A/C DTS: Gudivada,16.4387,80.9925,Gudivada,GUDI
+GTSG,G3 Theatres Sindhura: Gudivada,16.4376,80.992,Gudivada,GUDI
+MNBM,Mini Bommarillu A/C DTS: Gudivada,16.4386,80.9931,Gudivada,GUDI
+GDTM,Ganga Complex: Gudiyatham,12.941,78.8669,Gudiyattam,GDTM
+CVCG,V Cinemas: Gudur,14.1492,79.8469,Gudur,GUDR
+MICG,Milan Chitralok Cinema: Gulaothi,28.5865,77.7888,Gulaothi,GULL
+JAGG,Jagat Talkies: Guna,24.6499,77.3141,Guna,GUNA
+SCGA,Somya Cineplex: Guna,24.6382,77.2986,Guna,GUNA
+CAGN,Chaithanya A/C Dts 2K: Guntakal,15.1664,77.383,Guntakal,GUNL
+VASI,Vasavi Picture Palace: Guntakal,15.1669,77.3788,Guntakal,GUNL
+KPSM,K.P.S Talkies: Guntakal,15.1665,77.3779,Guntakal,GUNL
+JLEG,JLE Cinemas: Guntur,16.3293,80.385,Guntur,GUNT
+SPCG,"SPI: The Cinema, Guntur",16.2968,80.4475,Guntur,GUNT
+NATH,Naaz Cinemas (Screen 2): Guntur,16.2975,80.4463,Guntur,GUNT
+HHCG,Harihar Cinemas: Guntur,16.3097,80.4342,Guntur,GUNT
+METL,Metro & Tollywood Complex: Kothapet,16.298,80.4494,Guntur,GUNT
+CSER,Cine Square Dolby Atmos A/C: Guntur,16.3333,80.438,Guntur,GUNT
+KKRN,KKR Sai Nivya Theatre: Guntur,16.2888,80.4202,Guntur,GUNT
+PALV,Pallavi Cinema: Guntur,16.2981,80.4451,Guntur,GUNT
+SCAG,Siva Cinemas Dolby Atmos: Guntur,16.3079,80.4379,Guntur,GUNT
+VGTA,Sri Vijaya Talkies: Guntur,16.2958,80.4488,Guntur,GUNT
+KERT,Keerthana Cinema: Guntur,16.2979,80.4453,Guntur,GUNT
+CNPR,Cine Prime Screen 1: Guntur,16.2916,80.4375,Guntur,GUNT
+BOLY,Bollywood Theatre: Guntur,16.3083,80.4344,Guntur,GUNT
+CPRG,Cine Prime Screen 2: Guntur,16.2916,80.4375,Guntur,GUNT
+NAGT,Naaz Cinemas (Screen 1): Guntur,16.2978,80.4464,Guntur,GUNT
+SWTG,Swamy Theatre: Guntur,16.3072,80.4196,Guntur,GUNT
+KRML,Krishna Mahal: Guntur,16.2956,80.4466,Guntur,GUNT
+SSGP,Sushila Cinema: Gurap,23.0278,88.1065,Gurap,GRAP
+ACGA,Anuradha Cineplex: Guwahati,26.1838,91.7827,Guwahati,GUW
+CCMG,"Cinepolis: Central Mall, Guwahati",26.1571,91.7778,Guwahati,GUW
+FUCG,Galleria Cinema: Guwahati,26.167,91.7669,Guwahati,GUW
+GRCG,Grande Cines: Guwahati,26.1799,91.7513,Guwahati,GUW
+PVDG,"PVR: Dona Planet, Guwahati",26.1611,91.7722,Guwahati,GUW
+APSG,Apsara Cinema: Guwahati,26.1782,91.7549,Guwahati,GUW
+GDCL,Gold Cinema: Lakhtokia,26.1817,91.7426,Guwahati,GUW
+GDCN,Gold Cinema: Narengi,26.1793,91.8295,Guwahati,GUW
+GDPB,"Gold Cinema: Paltan Bazar, Guwahati",26.181,91.7501,Guwahati,GUW
+PICI,Pragjyoti Cinema: Guwahati,26.1598,91.703,Guwahati,GUW
+MGPG,Meghdoot Picture Palace: Guwahati,26.1784,91.7495,Guwahati,GUW
+SVPH,Sri Vishnu Picture Palace: Hagaribommanahalli,15.0477,76.2113,Hagaribommanahalli,HHGG
+CAHZ,Carnival Cinemas: Hajipur,25.694,85.2149,Hajipur,HAJI
+SRSC,SRS Cine: Krishna Mall,25.6943,85.2116,Hajipur,HAJI
+BOIK,Bioscope City Center : Haldia,22.0595,88.0756,Haldia,HLDI
+CWMH,"Carnival: Walkway Mall, Haldwani",29.2451,79.5357,Haldwani,HALD
+AMHL,Achireddy 70 MM: Haliya,16.7799,79.3224,Haliya,HALI
+WLOL,Wow Cinepulse: Halol,22.5414,73.4558,Halol,HALO
+CMHR,Cinepic Movieplex: Harda,22.3407,77.0897,Harda,HRDA
+MCMH,Meera Chitra Mandir: Hardoi,27.4032,80.1376,Hardoi,HRDI
+IPCH,Indrapuri Cinema: Haria,21.9684,87.8066,Haria,HARI
+WVHD,"Wave: Pentagon Mall, Haridwar (Sidcul)",29.9481,78.0754,Haridwar,HRDR
+SHCA,Suncity Cinema: Haridwar,29.9191,78.058,Haridwar,HRDR
+CHRI,Chitra Talkies: Haridwar,29.9477,78.1576,Haridwar,HRDR
+SHTE,Srikanth Theatre: Harihar,14.5074,75.8061,Harihar,HRRR
+JTHK,Jayashree Theatre: Harihara,14.5123,75.8099,Harihar,HRRR
+SNTP,SN Theatre: Haripad,9.28301,76.4446,Haripad,HRPD
+JPCR,Padmashri Chitramandira: Harugeri,16.514,74.9472,Harugeri,HARU
+STAH,Satish Talkies: Hasanpur,28.7268,78.2843,Hasanpur,HANS
+LKCS,Lakshmi Cineplex: Hazaribagh,23.9884,85.3538,Hazaribagh,HAZA
+NWCS,New Star City Multiplex: Himmatnagar,23.5734,72.9576,Himmatnagar,HIMM
+BJTH,Balaji Theater: Hindupur,13.8274,77.4969,Hindupur,HNDP
+GNTH,Gurunath Theatre: Hindupur,13.835,77.4958,Hindupur,HNDP
+SRVT,Sri Varalaxmi Theatre: Hiramandalam,18.6764,83.9494,Hiramandalam,HIRA
+SMHI,Sri Manjunatha Talkies: Hirekerur,14.4569,75.3857,Hirekerur,HIRE
+PCHK,Pushpanjali Chitramandira: Hiriyur,13.9402,76.613,Hiriyur,HIRI
+ESSH,Elite Cinema: Hisar,29.1543,75.7222,Hisar,HISR
+MGCH,MG Cinemas: Hisar,29.1703,75.7676,Hisar,HISR
+SCTY,Suncity Cinema: Hisar,29.1336,75.7515,Hisar,HISR
+CTHO,Channambika Theatre: Holenarasipura,12.7938,76.2447,Holenarasipura,HOLE
+PTHA,Padmanjali Theatre: Honnavara,14.279,74.4456,Honnavara,HNVR
+MISC,Mini Sushama Cinema: Sheoraphuli,22.7766,88.3252,Hooghly,HOOG
+UCPL,Udayan Cinema: Sheoraphuli,22.7748,88.3267,Hooghly,HOOG
+VCMG,SVF Cinemas: Mogra,22.9975,88.3664,Hooghly,HOOG
+SUSC,Sushama Cinema: Sheoraphuli,22.7766,88.3252,Hooghly,HOOG
+MCHP,Miraj Cinema: Hoshiarpur,31.5289,75.9076,Hoshiarpur,HOSH
+KSSH,K Sera Sera Miniplex: Hoshiarpur,31.5378,75.905,Hoshiarpur,HOSH
+BRTE,Basaveshwara Theatre: Hosapete,15.3035,76.4801,Hospet,HOSP
+LTHD,Laxmi Talkies: Hungund,16.0566,75.9417,Hunagunda	,HNGN
+LCHK,Leela Chitramandira: Hunsur,12.3001,76.294,Hunsur,HUSR
+GITE,Gayathri Theatre: Huvinahadagali,15.0193,75.9358,Huvinahadagali,HULI
+POOR,Poorna Theatre: Ichchapuram,19.1181,84.6795,Ichchapuram,ICPR
+LMCI,L Max Cinemas AC (2k JBL Dolby Digital 7.1): Ichc,19.1294,84.6921,Ichchapuram,ICPR
+KTIP,Kalaiarangam Theatre: Idappadi,11.5833,77.8354,Idappadi,IDPI
+GRLC,Greenland Cinema: Idukki,9.85355,76.9614,Idukki,IDKI
+SRMI,Sri Madhav Theatre: Ieeja,16.0138,77.6668,Ieeja,IEEJ
+KESR,Keshar Cinema: Indapur,18.1114,75.0296,Indapur,INDA
+RCIP,Rahul Cinema: Indapur,18.1201,75.03,Indapur,INDA
+SMID,Sri Sangameshwar Theater: Indi,13.2969,77.7998,Indi,IIND
+CMMI,Carnival: Malhar Mega Mall,22.7448,75.8945,Indore,IND
+PVIN,"PVR: Treasure Island Mall, Indore",22.7211,75.8786,Indore,IND
+INIC,"INOX: Treasure Island Next Mall, Regal Square",22.7181,75.8713,Indore,IND
+SCIN,INOX: C-21 Mall,22.7445,75.894,Indore,IND
+ININ,"INOX: Sapna Sangeeta Mall, Sneha Nagar",22.6994,75.8672,Indore,IND
+KDIT,Kastur Deluxe Theatre: Indore,22.7127,75.8382,Indore,IND
+MADU,Madhumilan Talkies: Indore,22.7137,75.8734,Indore,IND
+MHOW,"Mohan Talkies: Mhow, Indore",22.5602,75.7641,Indore,IND
+PVTR,"PVR: Treasure Island Mall, Indore (Gold)",22.7211,75.8786,Indore,IND
+RTIM,Regal Theatre: Indore,22.7204,75.8702,Indore,IND
+SCID,Smriti Talkies: Indore,22.7196,75.8577,Indore,IND
+VERE,Velocity III: Indore,22.745,75.9035,Indore,IND
+ADMG,Carnival: Mangal City,22.7525,75.8969,Indore,IND
+DTHI,Dreamland Theatre: Indore,22.555,75.7611,Indore,IND
+CRML,Carnival: Malhar Mega Mall (Lounge Class),22.7448,75.8945,Indore,IND
+KUSU,Kusum Talkies: Indore,22.7196,75.8577,Indore,IND
+SCCD,DSR Cinemas: Indukurpeta,14.4723,80.103,Indukurpeta,IDPA
+JKCM,JK Cinemas: Irinjalakuda,10.3651,76.1944,Irinjalakuda,IRNK
+MRTT,Mrityunjaya Talkies: Itarsi,22.6145,77.7658,Itarsi,ITAR
+DTJD,Devi Theatre: Jadcherla,16.7596,78.1464,Jadcherla,JADC
+SRJD,Srinivasa Theatre: Jadcherla,16.7706,78.1396,Jadcherla,JADC
+RBDP,Raghavendra Theatre: Jadcherla,16.7596,78.1443,Jadcherla,JADC
+VEJA,Venkatramana Theatre: Jadcherla,16.7573,78.1456,Jadcherla,JADC
+SNJN,Sri Nataraja Talkies: Jagalur,14.5229,76.3421,Jagalur ,JAGA
+SKCG,Sri Krishna Cinema: Ghoshpara,22.8149,88.3745,Jagatdal,JGDL
+JHCJ,Jhankar Cinema: Jagdalpur,19.0847,82.0287,Jagdalpur,JAGD
+ATJL,Anupama Theatre: Jagdalpur,19.0867,82.0165,Jagdalpur,JAGD
+CPMJ,Cine Plus Multiplex: Jagdalpur,19.0887,82.0118,Jagdalpur,JAGD
+SRTJ,Sri Rajaveni Theatre: Jaggampeta,17.1763,82.0621,Jaggampeta,JAGG
+TNJP,Theatre Natraj: Jaggayyapeta,16.8929,80.0991,Jaggayyapeta,JGGY
+STJG,Saikrupa Theatre: Jaggayyapeta,16.8947,80.0943,Jaggayyapeta,JGGY
+DUKL,Durga Raja Kalamandir: Jagtial,18.7909,78.9118,Jagtial,JGTL
+BDJL,Balaji A/C Deluxe: Jagtial,18.7913,78.9164,Jagtial,JGTL
+VLSS,VLS Sri Rama Theatre: Jagtial,18.7998,78.9213,Jagtial,JGTL
+ADGJ,"Carnival: Galaxy Riico Mansarovar, Jaipur",26.8335,75.7784,Jaipur,JAIP
+BICJ,Cinestar Multiplex: Vidhyadhar Nagar,26.965,75.7812,Jaipur,JAIP
+CNWJ,"Cinepolis: World Trade Park Mall, Jaipur",26.8532,75.8048,Jaipur,JAIP
+EPJA,Entertainment Paradise: Jawahar Circle,26.838,75.7971,Jaipur,JAIP
+FCTS,"Carnival: Funstar Times Square Mall VD Nagar, Jaip",26.9606,75.7784,Jaipur,JAIP
+FNJJ,"Cinepolis: Triton Mega Mall, Jaipur",26.9422,75.771,Jaipur,JAIP
+FRCJ,First Cinema: Jaipur,26.8403,75.7942,Jaipur,JAIP
+GOLC,Golcha Cinema: Jaipur,26.917,75.8213,Jaipur,JAIP
+INEM,"INOX: Elements Mall, Ajmer Road",26.8954,75.7486,Jaipur,JAIP
+INJC,"INOX: Crystal Palm, C Scheme",26.9033,75.7926,Jaipur,JAIP
+INJS,"INOX: City Plaza Mall, Bani Park",26.9356,75.7919,Jaipur,JAIP
+INJV,"INOX: Vaibhav, Amarapali Circle",26.9128,75.7435,Jaipur,JAIP
+INPS,"INOX: Pink Square Mall, Adarsh Nagar",26.9031,75.8364,Jaipur,JAIP
+ISTJ,"INOX: Sunny Trade Center, Jaipur",26.8794,75.7588,Jaipur,JAIP
+KOCI,Kohinoor Cinema: Sanganer,26.8127,75.7783,Jaipur,JAIP
+RMCJ,Raj Mandir Cinema: Bhagwan Das Road,26.9164,75.8099,Jaipur,JAIP
+JTTR,Ramesh Talkies: Jaisalmer,26.9178,70.9136,Jaisalmer,JSMR
+CINS,Cine Square: Jalalabad,30.6099,74.2556,Jalalabad,JLAB
+PVCJ,"PVR: Curo, Jalandhar",31.2823,75.5873,Jalandhar,JALA
+PVJL,"PVR: MBD, Jalandhar",31.3195,75.5845,Jalandhar,JALA
+BIJL,Carnival: Viva Collage,31.2875,75.6648,Jalandhar,JALA
+ARHN,Archana Palace: Jalaun,25.9978,79.4624,Jalaun,JAUN
+INKC,INOX: Khandesh Central Mall,21.0163,75.5607,Jalgaon,JALG
+MCJA,Metro Cinema: Jalgaon,21.0142,75.5633,Jalgaon,JALG
+RJAL,Regal Cinema: Jalgaon,21.0146,75.5636,Jalgaon,JALG
+RDCA,Ratnadeep Cinema: Jalna,19.8453,75.8956,Jalna,JALN
+SGCM,Shri Goroba Kumbhar Chitra Mandir Cinema: Jamkhed,18.7366,75.3128,Jamkhed,JAMK
+JTTN,TNR Picture Palace: Jammalamadugu,14.8438,78.3819,Jammalamadugu,JAMD
+HHTJ,Hari Hara Theater: Jammikunta,18.2859,79.4737,Jammikunta,JMKN
+ADJM,Carnival: Mehul,22.472,70.0433,Jamnagar,JAM
+CRJA,"INOX: Crystal Mall, Jamnagar",22.4717,70.049,Jamnagar,JAM
+AMCJ,Amber Cinema: Jamnagar,22.4746,70.068,Jamnagar,JAM
+SLCJ,Shalimar Cinema: Jamner,20.8067,75.7797,Jamner,JAMN
+CPSH,PJP Cinepolis: Jamshedpur,22.7851,86.181,Jamshedpur,JMDP
+ECJP,Eylex Cinemas: Jamshedpur,22.8441,86.2163,Jamshedpur,JMDP
+PAYA,Payal Cinema: Jamshedpur,22.8248,86.2117,Jamshedpur,JMDP
+SWRK,Swarna Kalamandir 70MM A/C Dolby Digital: Jangaon,17.7202,79.1593,Jangaon,JNGN
+MCJR,Metro Cinema: Janjgir,22.0112,82.5834,Janjgir,JANR
+CCJR,City Cinema: Janjgir,22.0117,82.5759,Janjgir,JANR
+CHJD,Chandrakant Cinema: Jasdan,22.041,71.2104,Jasdan,JASD
+VEEN,Veena Theatre: Jatni,20.1617,85.705,Jatni,JATN
+RCMN,Ram Chitra Mandir: Jaunpur,25.7513,82.6972,Jaunpur,JANP
+TILP,Tillotma Palace: Jehanabad,25.2036,84.9872,Jehanabad,JEHA
+BALA,Balaji Cineplex: Jetpur,21.7548,70.6235,Jetpur,JETP
+CPLX,Celebration Cineplex: Jeypore,18.8588,82.5902,Jeypore,JEYP
+KCJS,Khilona Cinema: Jhansi,25.4481,78.5674,Jhansi,JNSI
+NJCJ,Nataraj Cinema: Jhansi,25.4482,78.567,Jhansi,JNSI
+ECJG,Eylex Cinema: Jharsuguda,21.8505,84.0129,Jharsuguda,JRSG
+SMJG,Shiva Multiplex: Jharsuguda,21.8704,84.0251,Jharsuguda,JRSG
+MJMC,Mahabir Jain Municipalty Cultural: Jiaganj,88.2642,24.2375,Jiaganj,JAGJ
+BMCJ,Miraj Bioscope Cinemas: Jodhpur,26.2723,73.0033,Jodhpur,JODH
+GLJD,Carnival: Blue City Mall,26.2838,73.0382,Jodhpur,JODH
+SCAJ,INOX: Ansal Royal Plaza,26.2895,73.0288,Jodhpur,JODH
+NCJD,Nasrani Bioscop Cinema: Jodhpur,26.2245,73.0151,Jodhpur,JODH
+INBS,"INOX: ABS Mall, Jorhat",26.7543,94.2181,Jorhat,JORT
+SMGC,Smriti Gopal Cinema Hall: Jorhat,26.7559,94.2184,Jorhat,JORT
+SCJG,Suraj Cineplex: Junagadh,21.5081,70.458,Junagadh,JUGH
+SRCI,SR Cinemas: Kadapa,14.4731,78.8242,Kadapa,KDPA
+TTKD,Tahar Theatre: Kadapa,14.4869,78.8302,Kadapa,KDPA
+ASPK,Apsara A/C DTS: Kadapa,14.4765,78.8381,Kadapa,KDPA
+RRTK,Rahat (Raja) Theatre: Kadapa,14.4747,78.8214,Kadapa,KDPA
+CGKD,City Gold: Kadi,23.2914,72.3363,Kadi,KADI
+MADK,Mounika A/C DTS: Kadiri,14.1123,78.1625,Kadiri,KADR
+SNTK,Srinivasa Theatre: Kadthal,16.9826,78.5028,Kadthal,KADT
+PADM,Cine Square Cinemas: Kaithal,29.801,76.4151,Kaithal,KAIT
+SLKT,Sri Lakshmi Theatre: Kakarapalli,17.4828,82.4953,Kakarapalli,KAAP
+LXTK,Laxmi  A/C  Dts 2K: Kakinada,16.9553,82.2351,Kakinada,KAKI
+SPKA,Sri Priya Screen 2: Kakinada,16.9703,82.2374,Kakinada,KAKI
+PPKA,Padma Priya Screen 1: Kakinada,16.9703,82.2374,Kakinada,KAKI
+MADT,Mayuri AC DTS: Kakinada,16.9515,82.2367,Kakinada,KAKI
+VWCK,Vishwakarma Cinema: Kalanaur,28.8308,76.3622,Kalanaur,KANR
+DTCK,Dream Theatre Cineplex: Kalimpong,27.0648,88.4667,Kalimpong,KALI
+NTKW,National Talkies: Kalwakurthy,16.6659,78.4914,Kalwakurthy,KALW
+PTSK,Parthasarathi Theatre: Kalwakurthy,16.6679,78.486,Kalwakurthy,KALW
+SGCK,Sangam Cinema: Kalyani,22.967,88.467,Kalyani,KALY
+SEES,Sree Lakshmi Talkies: Kachrapara,22.9483,88.4438,Kalyani,KALY
+VMKI,Vidyasagar Manch: Kalyani,22.9717,88.4586,Kalyani,KALY
+SAAA,Saradhi Kalamandir Theatre: Kamalapur,18.1795,79.5223,Kamalaapur,KMLA
+SUKM,Sun Cinema: Kamalapur,18.2671,80.4827,Kamalapur,KMLR
+APRK,Asian Priya Cineplex: Kamareddy,18.3256,78.3327,Kamareddy,KMRD
+STKM,V Cinemas Shanthi 70MM: Kamareddy,18.3278,78.3363,Kamareddy,KMRD
+SDMA,Sri Durga Mahal: Kamavarapu kota,17.0124,81.1926,Kamavarapukota,KPKT
+TMST,TMS Theatre: Kambainallur,12.2087,78.314,Kambainallur,KAMR
+SDPK,Shree Digiplex Cinema: Kamptee,21.2152,79.1953,Kamptee,KAMP
+VDDC,Vani 7.1 Dolby Digital Cinema: Kanakapura,12.5419,77.4195,Kanakapura,KAKP
+DRPK,Dr.PV Rao Cineplex Screen 2,16.681,80.3922,Kanchikacherla,KNCH
+MTCJ,Sri Srinivasa Mahal: Kanchikacherla,16.6812,80.3919,Kanchikacherla,KNCH
+AKTN,Aruna Cinemas AC Dolby Atmos: Kanchipuram,12.8313,79.7091,Kanchipuram,KNPM
+SVTK,Sri Venkateshwara Theatre: Kandamangalam,11.916,79.6858,Kandamangalam,KNDM
+RAGM,Raghava Multiplex 7.1 DTS: Kandukur,15.2147,79.9038,Kandukur,KAND
+KTKD,Sri Koteswara Talkies: Kandukur,15.2141,79.9047,Kandukur,KAND
+PTHK,Prasanthi Theatre: Kandukur,15.2147,79.9046,Kandukur,KAND
+SENP,Senniappa Theatre: Kangayam,11.0104,77.5536,Kangayam,KGKM
+CARR,"Carnival: Alamipalli, Kanhangad",12.3057,75.096,Kanhangad,KKNN
+SVTT,GV Group Sri Vinayaka Theater: Kanipakam,13.2767,79.0418,Kanipakam,KAAM
+CWSC,Cineworld City Center: Kanker,20.2632,81.5017,Kanker,KANK
+SHTR,Sri Chandra Theatre: Kankipadu,16.4328,80.768,Kankipadu,KADU
+SIRR,Sri Ramachandra Theater: Kankipadu,16.4328,80.768,Kankipadu,KADU
+CXKP,"Cinemax: South X, Kanpur",26.4378,80.3358,Kanpur,KANP
+MCGP,"Miraj Cinemas: Gurdev Pammi, Kanpur",26.4499,80.3319,Kanpur,KANP
+ADRV,Carnival: Rave 3 Mall,26.492,80.3277,Kanpur,KANP
+INZS,"INOX: Z Square, Bada Chauraha",26.4731,80.3531,Kanpur,KANP
+ADRM,Carnival: Rave Moti Mall,26.4819,80.2998,Kanpur,KANP
+JUGA,Jugul Palace Cinema: Kanpur,26.4218,80.3734,Kanpur,KANP
+SPCK,Shyam Palace Cinema: Kanpur,26.4455,80.3283,Kanpur,KANP
+DETL,Deoki Talkies: Kakadeo,26.4768,80.2966,Kanpur,KANP
+STSG,Saraswati Talkies: Unnao,26.4759,80.3836,Kanpur,KANP
+MNCK,Manjushree Cinema: Kanpur,26.4574,80.3491,Kanpur,KANP
+SAPK,Sapna Palace Cinema: Kanpur,26.4611,80.3602,Kanpur,KANP
+DETS,Delite Talkies: Kanpur,26.4526,80.3501,Kanpur,KANP
+PRCJ,Priya Cinema: Kapadwanj,23.0197,73.0648,Kapadvanj,KAPP
+NRTA,FUN Cinemas Natraj Cinema: Karad,17.2676,74.1784,Karad,KARD
+PCBK,Prabhat Cinema: Karad,17.2878,74.1832,Karad,KARD
+LASK,LA Cinema Shamina A/C Dolby Atmos,10.9366,79.83,Karaikal,KARA
+JTUG,Murugaram Theatre: Karaikal,10.9242,79.8273,Karaikal,KARA
+MCKD,Murugan Cinemas: Karambakkudi,10.4566,79.1367,Karambakkudi,KRBK
+TOKA,TimeOut Cinemas: Kareli,22.9327,79.0581,Kareli,KARE
+AKTK,Alka Talkies: Kareli,22.9356,79.0637,Kareli,KARE
+SBYD,Sri Bagiyalakshmi Theatre: Karimangalam,12.3038,78.2013,Karimangalam,KARI
+RMTE,Rajam Theatre: Karimangalam,12.3043,78.2072,Karimangalam,KARI
+GDNJ,Gold Cinema: Karimganj,24.8672,92.3683,Karimganj,KRNJ
+ASSV,Asian Shiva Cinema: Karimnagar,18.4447,79.119,Karimnagar,KARIM
+VDTK,Venkateswara Deluxe 70MM: Karimnagar,18.4357,79.1248,Karimnagar,KARIM
+ATRK,Asian Tirumala: Karimnagar,18.427,79.1292,Karimnagar,KARIM
+MMDT,Mamatha 4K: Karimnagar,18.4298,79.124,Karimnagar,KARIM
+RADT,Raja Delux Theatre: Karimnagar,18.4412,79.1324,Karimnagar,KARIM
+SKRK,Sai Krishna 2K 7.1 Surround Sound :Karimnagar,18.432,79.1234,Karimnagar,KARIM
+TZDK,Thirandaz Deluxe: Karimnagar,18.4364,79.1353,Karimnagar,KARIM
+VAST,Venkata Sai Theatre: Karimnagar,18.4306,79.1422,Karimnagar,KARIM
+RNCK,Raj Nova Cinemaz: Karjat,18.9091,73.3269,Karjat,KART
+PLAK,Planet Cinema: A/C Digital (Karkala),13.2142,74.9999,Karkala,KARK
+MTKR,Movietime: Karnal,29.6969,77.0014,Karnal,KARN
+CMKD,"Carnival: Mehaboob, Kasaragod",12.503,74.9903,Kasaragod,KASA
+PTKK,Pakkanar Theatre: Cheruvathur,12.2152,75.1623,Kasaragod,KASA
+AACK,Shri Balaji Cinema (Airconditioned): Kasdol,21.6211,82.4242,Kasdol,KASD
+KASH,SRS Cinema: Kashipur,29.2131,78.9598,Kashipur,KASH
+SUNK,Suncity Cinema: Kashipur,29.2101,78.9632,Kashipur,KASH
+JTSH,Hari Shankar Theatre: Kasibugga,18.7654,84.419,Kasibugga,KSBG
+MOON,Moonlight Cinema: Kathua,32.3675,75.5236,Kathua,KATH
+VASN,Vasant Talkies: Katihar,25.5427,87.5683,Katihar,KATI
+KTKN,Karthikeyan Theatre: Kaveripattinam,12.4236,78.2132,Kaveripattinam,KANM
+RTKV,Ravi Theatre: Kaveripattinam,12.419,78.2133,Kaveripattinam,KANM
+SARK,Sarojini Complex: Kaveripattinam,12.4219,78.2166,Kaveripattinam,KANM
+EOSK,EOS Cinemas: Kawardha,22.0019,81.2357,Kawardha,KAWA
+MBTK,Maa Bhuvaneshwari Talkies: Kawardha,22.0025,81.234,Kawardha,KAWA
+JTBP,Bhavani Picture Palace: Kazipet,17.9785,79.5117,Kazipet,KAZI
+SWCA,Sanwariya Cine World: Kekri,26.0581,75.0243,Kekri,KEKR
+CPKJ,Cineplexx: Keonjhar,21.6312,85.6019,Keonjhar,KNJH
+PSRJ,PSR Cinema: Keonjhar,21.6431,85.6124,Keonjhar,KNJH
+NGHR,New Galaxy Theater: Kesinga,20.1926,83.2241,Kesinga,KEGA
+ATUN,Ashok Talkies: Khachrod,23.4255,75.2856,Khachrod,KHCU
+MCMK,Madhukunj Chitra Mandir: Khalilabad,26.7701,83.0642,Khalilabad,KHBD
+CTPC,City Pulse Cinema: Khambhat,22.3099,72.6232,Khambhat,KHBH
+ASSK,Asian Srinivasa: Khammam,17.25,80.1403,Khammam,KHAM
+ADKA,Aditya Theatre: Khammam,17.2452,80.1511,Khammam,KHAM
+SSTK,Asian Sri Sairam 70MM: Khammam,17.2512,80.1347,Khammam,KHAM
+FMKK,Nartaki Megaplex: Khammam,17.2424,80.14,Khammam,KHAM
+SIKM,Asian Sri Sunder Max: Khammam,17.2441,80.1388,Khammam,KHAM
+VCKM,Vinoda 2K Dolby Atmos : Khammam,17.2518,80.1403,Khammam,KHAM
+KNSN,Kinnerasani Theatre: Khammam,17.2423,80.138,Khammam,KHAM
+BIAK,Carnival: Abhishek,21.8169,76.3432,Khandwa,KHDW
+FNCK,Fun Cinemas: Khanna,30.6727,76.2761,Khanna,KHAN
+BCKR,Bombay Cineplex: Kharagpur,22.3381,87.306,Kharagpur,KGPR
+SAAJ,Saaj Talkies: Khargone,21.8313,75.6139,Khargone,KHAR
+JKMA,JK Multiplex: Kharsia,21.9869,83.1043,Kharsia,KHAS
+ANAN,City Pride: Annand,17.7125,73.4093,Khed,KHED
+WHMA,Wow Cinepulse: Khedbrahma,24.0289,73.0478,Khedbrahma,KHMA
+GDKH,Gold Cinema: Khopoli,18.7884,73.3403,Khopoli,KHOP
+SMLK,Samuel Multiplex: Khopoli,18.7942,73.3341,Khopoli,KHOP
+ACIK,Anupam Cineplex: Kichha,28.9105,79.5145,Kichha,KCHA
+UTKC,Urvashi Cineplex: Kichha,28.9099,79.5137,Kichha,KCHA
+SYIR,Sri Surya Rama Mahal: Kirlampudi,17.2038,82.1823,Kirlampudi,KIDI
+CRYP,Crystal Park Cinema: Kishangarh,26.5878,74.8647,Kishangarh,KISH
+GATK,Reliance Carnival Gagandeep Cinema: Kishangarh,26.5909,74.8527,Kishangarh,KISH
+KKRI,Krishna Priya Theatre: Kodad,16.9962,79.9726,Kodad,KODA
+SVKD,Sri Venkateswara: Kodad,16.9988,79.958,Kodad,KODA
+SRIS,Sai Krishna Theatre: Kodad,17.0009,79.9642,Kodad,KODA
+SDKD,Sri Ramachandra Talkies A/C DTS: Kodumur,15.6827,77.7669,Kodumur,KODM
+CNMU,Carnival: Mughal Mall,10.2314,76.1972,Kodungallur,KODU
+SCKG,Sreekaleeswary Cinemas: Kodungallur,10.225,76.1999,Kodungallur,KODU
+PVDY,"PVR: DYP City, Kolhapur",16.7035,74.2503,Kolhapur,KOLH
+SHUA,Shahu Cinema: Kolhapur,16.6985,74.2276,Kolhapur,KOLH
+PAMT,Parvati Multiplex: Kolhapur,16.697,74.2354,Kolhapur,KOLH
+INMK,"INOX: Reliance Mega Mall, Kolhapur",16.6987,74.2312,Kolhapur,KOLH
+PCKR,Prabhat Cinema: Kolhapur,16.6988,74.2279,Kolhapur,KOLH
+PDCK,Padma Cinema: Kolhapur,16.6951,74.2268,Kolhapur,KOLH
+RCKR,Royal Cinema: Kolhapur,16.6986,74.2279,Kolhapur,KOLH
+VTLL,Venkateswara Theater: Kollapur,16.1035,78.3198,Kollapur,KOLL
+GMHK,Gowry Movie House,10.6247,76.6948,Kollengode,KOLE
+TKTT,Thankaraj Thankam Theatre: Kollengode,10.6128,76.6953,Kollengode,KOLE
+SKRR,Sri Rajam Theatre: Komarapalayam,11.4438,77.7073,Komarapalayam,KOMA
+GORW,Gowri Theatre: Komarapalayam,11.4326,77.6928,Komarapalayam,KOMA
+EOCK,EOS Cinemas: Kondagaon,19.6001,81.667,Kondagaon,KNGN
+KITA,Kishore Talkies: Kondagaon,19.5953,81.6675,Kondagaon,KNGN
+SCSC,Sri Channaveerabadra Swamy Chitramandira: Kondlaha,14.5988,76.7147,Kondlahalli,KNAI
+JTLK,Lakshmi Theatre: Kosgi,16.9887,77.7157,Kosgi,KOSG
+FNKT,"Fun Cinemas: City Mall, Kota",25.1384,75.8554,Kota,KOTA
+INAM,"INOX: Ahluwalias Great Mall, Kota",25.1619,75.8635,Kota,KOTA
+PVRK,PVR Cinemall: Kota,25.142,75.8544,Kota,KOTA
+OKNK,OK Cinemas: Kota,25.221,75.8728,Kota,KOTA
+MAYU,Mayur Cinema: Kota,25.1916,75.8504,Kota,KOTA
+MRHT,Maheshwari Theatre: Kothagudem,17.556,80.6144,Kothagudem,KTGM
+SDTK,Sri Devi Theatre: Kothakota,16.3789,77.9422,Kothakota,KOTL
+ABTK,Abhilash Theatre: Kottayam,9.58599,76.5244,Kottayam,KTYM
+ATYY,Anand Theatre: Kottayam,9.58613,76.5241,Kottayam,KTYM
+ATKY,Anaswara Theatre: Kottayam,9.58952,76.5179,Kottayam,KTYM
+ASTK,Asha Theatre: Kottayam,9.58609,76.5245,Kottayam,KTYM
+ATKT,Anupama Theatre: Kottayam,9.58708,76.5226,Kottayam,KTYM
+MMTR,Dhanya Remya: Kottayam,9.5866,76.5213,Kottayam,KTYM
+GYTK,Gayathree: Kovvur,17.0131,81.7285,Kovvur,KOVU
+LGKR,Ananya A/C DTS: Kovvur,17.0136,81.7281,Kovvur,KOVU
+SRDO,Sri Rama Durga Theatre: Koyyalagudem,17.1257,81.4266,Koyyalagudem,KOEM
+MLTE,Maha Lakshmi Theatre: Koyyalagudem,17.1331,81.4281,Koyyalagudem,KOEM
+JTCK,Regal Cinema: Kozhikode,11.2898,75.7751,Kozhikode,KOZH
+GGVI,Ganga Movies: Kozhikode,11.2575,75.7851,Kozhikode,KOZH
+JTKZ,Surabhi Cinemas: Kozhikode,11.1781,75.8658,Kozhikode,KOZH
+CWTK,Cowmalya Theatre: Kozhinjampara,10.7368,76.8327,Kozhinjampara,KOZA
+VTKZ,Vrindavan Theatre: Kozhinjampara,10.7366,76.8335,Kozhinjampara,KOZA
+GCKZ,Geetha Cinemax: Kozhinjampara,10.7343,76.8349,Kozhinjampara,KOZA
+STKY,Shanthi Theatre: Krishnagiri,12.52,78.2237,Krishnagiri,KRHN
+KTKR,K Theatre: Krishnagiri,12.5204,78.22,Krishnagiri,KRHN
+APSA,Apsara Theatre Dts UFO: Krishnagiri,12.5237,78.2214,Krishnagiri,KRHN
+TTKI,Tara Theatre: Krishnagiri,12.5268,78.2189,Krishnagiri,KRHN
+VCKN,SVF Cinemas: Krishnanagar,23.4008,88.5008,Krishnanagar,KNWB
+SGTK,Sangeeta Talkies: Krishnanagar,23.4089,88.5003,Krishnanagar,KNWB
+SCHA,Sri Gowri Sankara Talkies: K R Nagar,12.4369,76.3837,Krishnarajanagara,KRJT
+ANKU,Anjana Theatre: Kruthivennu,16.3963,81.4383,Kruthivennu,KRTH
+STKI,Surya Talkies: Kukshi,22.2081,74.7564,Kukshi,KUKS
+VSTK,Vasantham Theatre: Kulithalai,10.746,78.5054,Kulithalai,KULI
+SMKU,Shobla Multiplex: Kullu,31.9593,77.1095,Kullu,KULU
+BKTK,Baranika Theatre: Kumbakonam,10.9639,79.3826,Kumbakonam,KUMB
+MSKU,MSM Theatre: Kumbakonam,10.9607,79.3848,Kumbakonam,KUMB
+SHTK,Shivganga Talkies: Kunkuri,22.7403,83.9464,Kunkuri,KKRI
+LTBK,Little Bavana: Kunnamkulam,10.6515,76.0673,Kunnamkulam,KUNN
+IKJM,"INOX: Jyoti Mall, Kurnool",15.8302,78.0403,Kurnool,KURN
+VTAC,Vijaya Theatre A/C DTS: Kurnool,15.8175,78.0575,Kurnool,KURN
+GLKS,Carnival: Kessal Mall,29.9711,76.8366,Kurukshetra,KURU
+GOCL,Gold Cinema: Lakhimpur,27.2362,94.1016,Lakhimpur,LAHA
+NCLA,A Nakshatra Cinemas: Lakhimpur,27.2374,94.1065,Lakhimpur,LAHA
+VCEM,Venu Gopala Picture Palace: Lakkavaram,16.4206,81.8411,Lakkavaram,LRAM
+SHKT,Shri Krishna Theatre: Lakshmeshwara,15.1279,75.4702,Lakshmeshwara,LKSH
+BILT,Carnival: Rama,18.3994,76.5707,Latur,LAT
+ESYL,E-SQUARE Yashoda: Latur,18.4088,76.5691,Latur,LAT
+PVLR,PVR: Latur,18.4089,76.5395,Latur,LAT
+EMCL,Empire Cinema: Lingasugur,16.1573,76.5275,Lingasugur,LING
+CNCL,Cinebliss Neelkamal Cinema: Lonavala,18.7468,73.4094,Lonavala,LNVL
+TMLV,Triose Multiplex: Lonavala,18.7466,73.4004,Lonavala,LNVL
+CHTL,Chitralay Cinema: Loni,19.5775,74.471,Loni,LONI
+NATT,Nathganga Theatre: Loni,19.58,74.4698,Loni,LONI
+CARL,"Carnival: Krishna, Lucknow",26.8158,80.9054,Lucknow,LUCK
+COAC,"Cinepolis: One Awadh Centre, Lucknow",26.8622,81.0104,Lucknow,LUCK
+FNLK,"Fun Cinemas: Fun Republic Mall, Lucknow",26.8582,80.9762,Lucknow,LUCK
+INLU,"INOX: Riverside Mall, Gomti Nagar",26.8538,80.9733,Lucknow,LUCK
+MSNL,Novelty: Aliganj,26.8819,80.9466,Lucknow,LUCK
+NCIL,Novelty Cinema: Lalbagh,26.8479,80.9397,Lucknow,LUCK
+PVLK,"PVR: Saharaganj Mall, Lucknow",26.855,80.9469,Lucknow,LUCK
+PVLP,"PVR: Phoenix, Lucknow",26.7991,80.8961,Lucknow,LUCK
+PVSL,"PVR: Singapore Mall, Lucknow",26.8545,81.0221,Lucknow,LUCK
+SRSL,SRS City Mall: Lucknow,26.846,80.9878,Lucknow,LUCK
+WVLK,"Wave: The Wave Mall, Lucknow",26.8701,80.9971,Lucknow,LUCK
+JTGA,Jagat Cinema: Lucknow,26.8484,80.9259,Lucknow,LUCK
+PRTB,Pratibha Cinema: Lucknow,26.8417,80.9434,Lucknow,LUCK
+SCLK,Shubham Cinema: Lucknow,26.8478,80.9337,Lucknow,LUCK
+SUDR,Sudarshan Cinema: Lucknow,26.8333,80.9211,Lucknow,LUCK
+CPNL,"Cinepolis: MBD Neopolis Mall, Ludhiana",30.8826,75.782,Ludhiana,LUDH
+CSCD,Cine Square Cinemas: Doraha,30.8025,76.0177,Ludhiana,LUDH
+PVBL,"PVR: Pavilion, Ludhiana",30.9143,75.8398,Ludhiana,LUDH
+PVLD,"PVR: Flamez, Ludhiana",30.8942,75.8239,Ludhiana,LUDH
+PVLS,"PVR: Silver Arc, Ludhiana",30.9003,75.8295,Ludhiana,LUDH
+SRLD,SRS Omaxe Mall: Ludhiana,30.9035,75.8333,Ludhiana,LUDH
+WVLD,"Wave: The Wave Mall, Ludhiana",30.8856,75.7881,Ludhiana,LUDH
+SCLU,Solitaire Cinemas: Ludhiana,30.9111,75.8513,Ludhiana,LUDH
+CWCL,Cine Worlds Cinema: Lunawada,23.1333,73.6161,Lunawada,LUNA
+JTMA,Rama Talkies: Macherla,16.4779,79.4378,Macherla,MACH
+VEMA,Venkateswara A/C: Macherla,16.4719,79.433,Macherla,MACH
+MACT,G3 Theatres: Machilipatnam,16.1836,81.1324,Machilipatnam,MAPM
+SRVK,Sri Vinayak: Machilipatnam,16.1851,81.1351,Machilipatnam,MAPM
+SVKR,Sri Venkateswara: Machilipatnam,16.1792,81.1281,Machilipatnam,MAPM
+SRRM,Sri Ramaraju Theatre: Machilipatnam,16.1805,81.1278,Machilipatnam,MAPM
+SRIT,Sri Ramshanthi: Machilipatnam,16.1791,81.1283,Machilipatnam,MAPM
+CCHT,Sri Channabasaveshwara Chithramandira: Madalu,13.4823,76.3552,Madalu,MADA
+JSCM,Suma Chitramandira: Maddur,12.4874,77.036,Maddur,MADE
+UDAY,Udaya Talkies: Madhavaram,16.8917,81.5938,Madhavaram,MDHA
+SHNT,Shanthi Theatre: Madhira,16.9287,80.3639,Madhira,MADR
+VTMD,Vasavi Theater: Madhira,16.9261,80.3647,Madhira,MADR
+AMBM,Ambiga Cinemas CHRISTIE 4K 7.1: Madurai,9.91864,78.1484,Madurai,MADU
+SMNM,Sri Meenakshi Cinemas: Madurai,9.91007,78.116,Madurai,MADU
+THRM,Thanga Regal Cinema DOLBY ATMOS: Madurai,9.91798,78.1113,Madurai,MADU
+TJCM,Tamil Jaya Cinemas SONY 4K Dolby Digital: Madurai,9.93944,78.1366,Madurai,MADU
+GCTG,Guru Cinemas SONY 4K: Madurai,9.9361,78.0979,Madurai,MADU
+INVS,INOX: Vishaal De Mall,9.93825,78.136,Madurai,MADU
+SHAC,Shanmuga Cine Complex: Madurai,9.93094,78.0956,Madurai,MADU
+SHTM,Sha Theatre: Madurai,9.92185,78.137,Madurai,MADU
+SRIM,Sri Murugan Cinema Hall: Madurai,9.90283,78.1079,Madurai,MADU
+KITV,Kallanai Theatre: Vandiyur,9.91458,78.1544,Madurai,MADU
+CCMI,Central Cinema: Madurai,9.91863,78.1159,Madurai,MADU
+JTMD,Jeyam Theatre: Madurai,9.90663,78.0975,Madurai,MADU
+KSSM,K Sera Sera Miniplex: Mahad,18.086,73.4341,Mahad,MHAD
+BLTM,Balaji Theater: Mahbubnagar,16.7453,77.9916,Mahbubnagar,MAHB
+TRTM,Tirumala Theater: Mahbubnagar,16.7453,77.9916,Mahbubnagar,MAHB
+VTMJ,Venkatadri Theater: Mahbubnagar,16.7452,77.9918,Mahbubnagar,MAHB
+ASMH,Asian Srinivasa: Mahbubnagar,16.7437,77.9912,Mahbubnagar,MAHB
+VTMB,Venkateswara Theatre: Mahbubnagar,16.744,77.9917,Mahbubnagar,MAHB
+JTME,Janata Talkies: Maheshwar,22.1788,75.5865,Maheshwar,MAHE
+GTCM,Gita Cinema: Mahishadal,22.1883,87.988,Mahishadal,MMAI
+RGMA,Raghavendra 70MM A/C: Makthal,16.5054,77.5152,Makthal,MAKT
+SQWS,Sri Jyothi Talkies: Malebennur,14.5305,75.8009,Malebennur,MEBN
+CXML,Cinemax: Malegaon,20.5563,74.5216,Malegaon,MALE
+HTBM,Hanuman Talkies: Malkapur,20.8877,76.2028,Malkapur,MAMA
+CCPM,CCP Cineplex: Malout,30.2103,74.4856,Malout,MALO
+SKYC,"Sky Cine: Sky Mall, Malout",30.2054,74.5013,Malout,MALO
+PCMA,Piccadily Multiplex: Manali,32.2351,77.1869,Manali,MANA
+UTMP,Udhayam Theatre: Manapparai,10.6011,78.4214,Manapparai,MAPI
+CHTP,Chaitanya Plaza: Manawar,22.2379,75.0863,Manawar,MANW
+SHRT,Shrikrishna Theatre: Manawar,22.2393,75.0886,Manawar,MANW
+ASSA,Asian Srinivasa: Mancherial,18.8705,79.4472,Mancherial,MANC
+DTCX,Devi Theatre: Mancherial,18.8588,79.4836,Mancherial,MANC
+VTMH,Sri Venkateswara Talkies: Mancherial,18.876,79.4445,Mancherial,MANC
+TDCP,Tirumalaa Theatre: Mancherial,18.8588,79.4836,Mancherial,MANC
+MAHS,Mahendra Picture Palace: Mandasa,18.8731,84.4597,Mandasa,MDAS
+KIGH,Kingfisher Multiplex: Mandla,22.5624,80.3518,Mandla,MADL
+CTPA,"Carnival: Tirupati Plaza, Mandsaur",24.0735,75.0747,Mandsaur,MNDS
+SUCI,Suchitra Cineplex: Mandsaur,24.0722,75.0701,Mandsaur,MNDS
+SRMM,Shreeji Chitra Mandir Theatre: Mandsaur,24.0624,75.0707,Mandsaur,MNDS
+ANTM,Annapurna Theater A/C Dts 2K: Mangalagiri,16.4263,80.5671,Mangalagiri,MGLR
+VJYM,Vijaya Deluxe: Mangalagiri,16.4263,80.5671,Mangalagiri,MGLR
+DREA,FUN Cinemas Dream Theatre: Mangaldoi,26.4401,92.0308,Mangaldoi,MANG
+IMCC,INOX: Manipal Central Cinemas,13.3496,74.7829,Manipal,MANI
+BHCS,Bharath Cinemas: Manipal,13.353,74.7903,Manipal,MANI
+ATTM,Aradhana Talkies: Mannarkkad,10.9923,76.4625,Mannarkkad,MKKA
+TKTM,"Thankam Theatre, Kozhikode: Mannur",11.155,75.8474,Mannur,MANR
+SMTP,Samrat Cinema: Mansa,29.9961,75.3875,Mansa,MNSA
+SAKT,SA Talkies: Manvi,15.9225,76.8939,Manvi,MLAK
+SMTM,Shivamatha Talkies: Manvi,16.1744,77.0257,Manvi,MLAK
+CDCM,Chandana Cinema: Marayur,10.2782,77.1662,Marayur,MAYR
+STMA,Shanti Theatre: Marripeda,17.3801,79.8721,Marripeda,MARR
+VTMA,Venkateswara Theatre: Marripeda,17.3798,79.8732,Marripeda,MARR
+ANCM,Anand Cinemas: Marthandam,8.30546,77.223,Marthandam,MRDM
+SSVL,Santhosh: Vallakali Cine Complex,9.24923,76.5408,Mavellikara,MVLR
+JTSN,Sri Narayana Chitralaya: Medarametla,15.7221,80.0159,Medarametla,MDRM
+ADMR,Carnival: Magnum Mall,28.9572,77.6799,Meerut,MERT
+INPM,"INOX: PVS Mall, Meerut",28.9528,77.7315,Meerut,MERT
+WVMT,Wave: Meerut,28.9477,77.6756,Meerut,MERT
+WAMM,FUN Cinemas Wide Angle Multiplex: Mehsana,23.588,72.3693,Mehsana,MEHS
+WCMA,Wow Cinepulse: Mehsana,23.6059,72.3897,Mehsana,MEHS
+KCCR,Kristi Cinema: Memari,23.1691,88.0982,Memari,MMRR
+RSCZ,Rajshree Starworld Cinema: Mirzapur,25.1418,82.5816,Mirzapur,MIZP
+PVMG,"PVR: North Country (Gold), Mohali",30.7363,76.6791,Mohali,MOHL
+PVMO,"PVR: North Country Mall, Mohali",30.7363,76.6791,Mohali,MOHL
+JBCD,Shree Bhagyalakshmi Chitramandira: Molakalmuru,14.7166,76.7447,Molakalmuru,MOLA
+SREM,Shree Raghavendra Chitramandira: Molakalmuru,14.8826,76.7834,Molakalmuru,MOLA
+AMOD,Amarashree Talkies: Moodbidri,13.0688,74.9982,Moodbidri,MOOD
+PPNM,"PVR: Parshvanath, Moradabad",28.8793,78.7397,Moradabad,MORA
+WVMB,Wave: Moradabad,28.8689,78.7581,Moradabad,MORA
+CHDD,Chaddha Cinema: Moradabad,28.83,78.7716,Moradabad,MORA
+HOUT,Houseful Talkies: Moranhat,27.1869,94.9144,Moranhat,MORH
+MYTK,Mayur Talkies: Morena,26.4965,77.9884,Morena,MRMP
+SSCM,Salh Surya Cinemas: Morinda,30.7909,76.5037,Morinda,MORI
+GAMO,Ganada Talkies:  Moyna,22.2455,87.7887,Moyna,MAYN
+PCMW,Priya Cinema: Moyna,22.2447,87.7882,Moyna,MAYN
+SVGK,Sri Venkatesh Talkies: Mudalagi,16.3351,74.9681,Mudalagi,MUDG
+AAMA,Amir Theatre: Muddebihal,16.4769,76.3109,Muddebihal,MUDD
+SGTM,Shri Girijashankar Talkies: Muddebihal,16.338,76.1292,Muddebihal,MUDD
+AHOL,Apsoon Theater: Mudhol,16.3332,75.2855,Mudhol,MUDL
+SITL,Subhasini Theater: Mudhol,16.3395,75.285,Mudhol,MUDL
+IPMM,IP Cinemas: IP Mughal Multiplex,25.289,83.1023,Mughalsarai,MGSI
+PECE,Pee Cee Theatre: Mukkam,11.3212,75.9943,Mukkam,MUKM
+RCIM,Rose Cine Palace: Mukkam,11.3296,75.988,Mukkam,MUKM
+SRMT,SRS Cinemas: Muktsar,30.4681,74.5188,Muktsar,MKST
+ANAP,Annapoorna Theatre: Mulkanoor,18.0897,79.37,Mulkanoor,MULK
+NACM,4G Nova Cinemaz: Mullanpur,30.8446,75.6757,Mullanpur,MULL
+JTMM,Sri Krishna Talkies: Mummidivaram,16.6452,82.1058,Mummidivaram,MUMM
+JTSV,Sri Venkateswara Talkies: Mummidivaram,16.6481,82.1088,Mummidivaram,MUMM
+RDCN,RD Cinemas: Mundakayam,9.54394,76.877,Mundakayam,MUAM
+MTMM,Mundakkayam Theatre: Mundakayam,9.53943,76.8856,Mundakayam,MUAM
+ARAN,Aradhaya Nova Cinemaz: Mundra,22.839,69.7051,Mundra,MUDA
+PADY,Padmalaya Theatre: Muniguda,19.6264,83.5003,Muniguda,MUNI
+ASMB,Ashok Cinema: Jalangi,24.1272,88.6898,Murshidabad,MURS
+UMAX,Upadhyay Cineplex: Murtizapur,20.7267,77.3645,Murtizapur,MUUR
+SRTE,Sri Ram Theatre DOLBY 7.1: Musiri,10.9526,78.446,Musiri,MUSI
+CAMA,Carnival Grand Centre Mall: Muvattupuzha,9.98182,76.5789,Muvattupuzha,MUVA
+EVMC,EVM Latha Theatre: Muvattupuzha,9.97985,76.5837,Muvattupuzha,MUVA
+VLCM,Vettukattil Cinema: Muvattupuzha,9.98966,76.5782,Muvattupuzha,MUVA
+ITMP,Issac Theater: Muvattupuzha,9.97562,76.5794,Muvattupuzha,MUVA
+MTMP,Mariya Theater: Muvattupuzha,9.97562,76.5794,Muvattupuzha,MUVA
+CTMR,Chandra Talkies: Muzaffarnagar,29.4762,77.6966,Muzaffarnagar,MUZ
+GLAS,Carnival: ASJ Grand Plaza,29.4732,77.7153,Muzaffarnagar,MUZ
+MEMR,Maya Palace: Muzaffarnagar,29.4865,77.6966,Muzaffarnagar,MUZ
+CGMM,"Cinepolis: Grand Mall, Muzaffarpur",26.1101,85.3957,Muzaffarpur,MUZA
+CCAJ,Carnival: Amar Jyoti,26.1179,85.3974,Muzaffarpur,MUZA
+BHKU,Bharat Theater: Mydukur,14.7263,78.7371,Mydukur,MYDU
+VEMY,Venkateswara Theatre: Mydukur,14.7272,78.7339,Mydukur,MYDU
+VIKY,Vijay Theater: Mydukur,14.7275,78.7369,Mydukur,MYDU
+AOCH,Alochaya Cinema: Nabadwip,23.4051,88.3661,Nabadwip,NABB
+BMND,Balaji Multiplex: Nadiad,22.6915,72.8631,Nadiad,NADI
+INAA,"INOX: Opal One Mall, Nadiad",22.6912,72.8653,Nadiad,NADI
+RCWN,Rajhans Cinemas: Nadiad,22.6671,72.8901,Nadiad,NADI
+GOBE,Globe Cinema: Nadiad,22.6914,72.8646,Nadiad,NADI
+VAIS,Vaishali Multiplex: Nadiad,22.6882,72.8597,Nadiad,NADI
+ADTC,Aditee Cinema: Nagaon,26.3551,92.6961,Nagaon,NAAM
+DCIN,Divyajyoti Cinema: Nagaon,26.3528,92.6713,Nagaon,NAAM
+KSTN,Krishna Talkies: Nagaon,26.3519,92.6896,Nagaon,NAAM
+PDTN,Pandian Theatre: Nagapattinam,10.7597,79.8456,Nagapattinam,NGPT
+RVTN,Ravi Theatre: Nagarkurnool,16.4837,78.313,Nagarkurnool,NGKL
+SRMN,Sri Ramana Theatre: Nagarkurnool,16.4836,78.3135,Nagarkurnool,NGKL
+CCNA,Carnival Cinemas: Nagda,23.4432,75.4336,Nagda,NAGD
+SKTE,Sri Karthigai Theatre: Nagercoil,8.18893,77.4308,Nagercoil,NAGE
+ADNG,Carnival: Sangam,21.1562,79.1235,Nagpur,NAGP
+CXNG,"PVR: Eternity, Nagpur",21.143,79.0803,Nagpur,NAGP
+INTM,"INOX: Jaswant Tuli Mall, Kamptee Road",21.1731,79.1001,Nagpur,NAGP
+PVNG,"PVR: Empress, Nagpur",21.1482,79.0931,Nagpur,NAGP
+PPKC,Kamal Cineplex: Nagpur,21.1672,79.1028,Nagpur,NAGP
+GTEE,Goyal Talkies: Kamptee,21.2155,79.1947,Nagpur,NAGP
+JAIT,FUN Cinemas Jaishree Talkies: Nagpur,21.1446,79.0904,Nagpur,NAGP
+JANK,Janki Cineplex: Nagpur,21.1416,79.0834,Nagpur,NAGP
+KSMN,K Sera Sera Miniplex: Nagpur,21.086,79.0911,Nagpur,NAGP
+LCNS,Liberty Cinema: Sadar,21.1576,79.0798,Nagpur,NAGP
+MAIS,Maa Minakshi Miniplex: Saoner,21.3857,78.9208,Nagpur,NAGP
+PACN,Panchsheel Cinema: Nagpur,21.1392,79.0792,Nagpur,NAGP
+SDTN,Sudama Theatre: Dharampeth,21.1413,79.0608,Nagpur,NAGP
+SMRC,FUN Cinemas Smruti Cinema: Nagpur,21.1583,79.0806,Nagpur,NAGP
+ALCN,Alankar Cinema: Nagpur,21.1379,79.0678,Nagpur,NAGP
+SRDM,Shree Dhoramnath Multiplex: Nakhatrana,23.3478,69.2653,Nakhatrana,NKHT
+KCAM,KC Anand Miniplex: Nakodar,31.1254,75.4865,Nakodar,NAKO
+VNKN,Venkateswara Theatre: Nalgonda,17.0619,79.2693,Nalgonda,NALK
+SSHM,Sri Srinivas Mahal: Nallajerla,16.9415,81.3986,Nallajerla,NALJ
+RKAL,Rojaa Cinemas: Namakkal,11.1461,78.2942,Namakkal,NMKL
+GTPR,Ganesha Theatre: Paramathivelur,11.1111,78.0101,Namakkal,NMKL
+IMCH,Imperial Talkies: Namchi,27.164,88.3619,Namchi,NAMI
+BIJN,Carnival: Jyoti,19.1631,77.3092,Nanded,NAND
+ESND,Bharat E-Square: Nanded,19.195,77.2795,Nanded,NAND
+PVNN,"PVR: Treasure Bazaar Mall, Nanded",19.1289,77.3097,Nanded,NAND
+STND,Shyam Talkies: Nanded,19.1555,77.3108,Nanded,NAND
+LBCN,Liberty Cinema: Nanded,19.1466,77.3223,Nanded,NAND
+GTMN,G3 Theatres Mayuri: Nandigama,16.7752,80.2837,Nandigama,NDGM
+KRND,Krishna Theater: Nandipet,18.8768,78.1448,Nandipet,NANZ
+MIRN,"Miraj Cinemas: NBC, Nandurbar",21.3537,74.2424,Nandurbar,NDNB
+NTTE,Nidhi Theatre: Nandyal,15.4859,78.4858,Nandyal,NADY
+PRTN,Prathap A/c DTS: Nandyal,15.4857,78.4871,Nandyal,NADY
+MPTN,Mini Pratap AC DTS: Nandyal,15.4857,78.4871,Nandyal,NADY
+TCMP,Tulsi Chitra Mandir: Nanpara,27.8599,81.5125,Nanpara,NANP
+SRKM,Sri Rajeswari Kala Mandir: Narsannapeta,18.413,84.0393,Narasannapeta,NRPT
+JTLT,Sri Lakshmi Talkies AC DTS: Narasannapeta,18.4161,84.0412,Narasannapeta,NRPT
+SVTN,Sri Venkateshwara Mahal: Narsannapeta,18.4106,84.0376,Narasannapeta,NRPT
+SDMB,Saradambha A/C DTS: Narasaraopeta,16.2311,80.0522,Narasaraopet,NSPT
+SKCA,Sri Krishna Chitralaya Deluxe Qube 2K: Narasaraope,16.2324,80.0542,Narasaraopet,NSPT
+SSTN,Shetkar Suvarna Theatre: Narayankhed,18.0392,77.7753,Narayankhed,NARY
+MNTN,Manohar Theatre: Narayanpet,16.7443,77.4963,Narayanpet,NRYN
+MTNP,Maheswari Theater: Narayanpet,16.7445,77.4962,Narayanpet,NRYN
+RTNG,Sri Renuka Chitramandira: Nargund,15.7202,75.3776,Nargund,NRGD
+SGAM,Sangam Talkies: Nargund,15.7191,75.385,Nargund,NRGD
+JTNP,Jayasri Talkies: Narsampet,17.9291,79.8887,Narsampet,NASP
+RRKN,Ram Raj Kalamandir: Narsampet,17.9258,79.8881,Narsampet,NASP
+ATNS,Annapurna Theatre: Narsapur,16.4412,81.7032,Narsapur,NARP
+SKDT,Sri Kanaka Durga Theatre: Narsapur,16.4412,81.7054,Narsapur,NARP
+SHCX,Satish Cineplex: Narsinghpur,22.9468,79.1889,Narsinghpur,NARR
+JTSK,Sree Kanya Cine Max: Narsipatnam,17.6632,82.6172,Narsipatnam,NARS
+JTVT,Sri Venkatavema Theatre: Narsipatnam,17.6102,82.6149,Narsipatnam,NARS
+JTBG,Bangaraju Picture Palace A/C DTS: Narsipatnam,17.663,82.6133,Narsipatnam,NARS
+RJDL,Raju Delux A/c Dts: Narsipatnam,17.6626,82.6134,Narsipatnam,NARS
+BNWA,Bakshi Cinema: Narwana,29.5942,76.1219,Narwana,NARA
+CXNC,"Cinemax: City Center, Nashik",19.9906,73.7614,Nashik,NASK
+CXNR,"Cinemax: Regimental Plaza, Nashik",19.953,73.837,Nashik,NASK
+CXNS,"Cinemax: The Zone, Nashik",20.0053,73.7663,Nashik,NASK
+FMNK,INOX Cinemas: Nashik,19.9786,73.808,Nashik,NASK
+VATN,Vijayanand Theatre: Nashik,20.002,73.7889,Nashik,NASK
+RJTE,Raviraj Theatre: Niphad,20.0792,74.1086,Nashik,NASK
+DAMO,Damodar Cinema: Nashik,20.0022,73.7897,Nashik,NASK
+CECN,Central Cinema: Natham,10.2276,78.2318,Natham,NATH
+GACN,Galaxy Cinema: Nawapara,20.9732,81.8549,Nawapara,NAWA
+NZBL,Nazira Bolchabi: Nazira,26.9125,94.7328,Nazira,NZRA
+CRNH,Carnival: Patel Plaza Mall,24.4571,74.8727,Neemuch,NMCH
+MCNM,Miraj Cinemas: Neemuch,24.4634,74.8994,Neemuch,NMCH
+SDCN,"Carnival: Sundram, Neemuch",24.456,74.8809,Neemuch,NMCH
+SBLJ,Sai Balaji Theatre: Nelakondapalli,17.1035,80.0506,Nelakondapalli,NELA
+SSIV,Sri Sai Subhadra Theatre: Nellimarla,18.1691,83.4492,Nellimarla,NLEM
+SIME,Siri Multiplex: Nellore,14.4562,79.9816,Nellore,NELL
+NTNN,Nartaki Theater: Nellore,14.4561,79.9844,Nellore,NELL
+RKND,Radha Krishna Theatre: Nidadavolu,16.8994,81.6715,Nidadavolu,NDVD
+GTNA,Ganapathi Theatre A/C  Dts: Nidadavolu,16.9054,81.6709,Nidadavolu,NDVD
+NOVL,Novelty Cinema: Nimbahera,24.6249,74.6925,Nimbahera,NIPA
+RTCI,Rajashree Theatre: Nipani,16.4035,74.3779,Nipani,NIPN
+ATND,Ashok Talkies: Nizamabad,18.6762,78.0996,Nizamabad,NIZA
+AUPM,Asian Usha Prasad Multiplex: Nizamabad,18.6641,78.0946,Nizamabad,NIZA
+STNB,Sridevi Theatre: Nizamabad,18.6706,78.095,Nizamabad,NIZA
+ASTN,Asian Natraj: Nizamabad,18.6744,78.0907,Nizamabad,NIZA
+VTNB,Vijay Theatre: Nizamabad,18.6786,78.109,Nizamabad,NIZA
+DEVD,Devi 70mm: Nizamabad,18.6698,78.1056,Nizamabad,NIZA
+LAMN,Lalitha Mahal: Nizamabad,18.678,78.0965,Nizamabad,NIZA
+MPNH,Mangal Palace: Nokha,27.5476,73.4559,Nokha,NKHA
+DTCN,Dwaraka Tirumala Complex: Nuzvid,16.7882,80.8501,Nuzvid,NZVD
+SSHT,Sri Shaila Theater: Nyamathi,14.1529,75.5741,Nyamathi,NYNT
+GPTO,Gopi Theatre: Ongole,15.5097,80.0479,Ongole,ONGL
+JTCC,Thulasiram Cinema Hall: Ongole,15.5111,80.0445,Ongole,ONGL
+SRIO,Sai Saroj Mayuri Theatre: Ongole,15.5112,80.0454,Ongole,ONGL
+KRTO,Krishna Theatre: Ongole,15.5097,80.0479,Ongole,ONGL
+SHIO,Shri Chitra Cinema: Osmanabad,18.1883,76.0391,Osmanabad,OSMA
+JSTO,Jass Theatre: Ottapalam,10.7713,76.373,Ottapalam,OTTP
+JETP,Jos Theatre A/C 2K 3D: Pala,9.71532,76.6894,Pala,PALL
+SMHO,Sathya Movie House: Palakkad,10.7751,76.6536,Palakkad,PLKK
+NATP,New Aroma Theatre: Palakkad,10.7774,76.6533,Palakkad,PLKK
+SRDD,Sree Devi Durga A/C Dolby Atmos: Palakkad,10.7727,76.6562,Palakkad,PLKK
+ABDE,Adabala Theatre Screen 2: Palakollu,16.5167,81.7258,Palakollu,PLKL
+GATP,Geetha Annapurna Theatre: Palakollu,16.5176,81.7184,Palakollu,PLKL
+RJNY,Ranjani Theatre: Palakollu,16.5172,81.7259,Palakollu,PLKL
+MTPK,Maruthi Theatre: Palakollu,81.731,16.514,Palakollu,PLKL
+ABTS,Adabala Theatre Screen 1: Palakollu,16.5167,81.7258,Palakollu,PLKL
+SVGP,Sun Cinemax - Venkata Gouri: Palakonda,18.5996,83.752,Palakonda,PALK
+TTPA,Thirumala Talkies: Palakurthy,17.66,79.4311,Palakurthy,PLAT
+PERL,Pearl Cinema: Palampur,32.0841,76.5133,Palampur,PALM
+YAST,Yaashitaa Multiplex: Palampur,32.1111,76.532,Palampur,PALM
+ADSP,Carnival: Surmandir,24.1924,72.4291,Palanpur,PALN
+JTAT,Annapurna Theatre: Palasa,18.768,84.4183,Palasa,PALS
+SVTA,Sri Venkateshwara Talkies: Palasa,18.7681,84.4171,Palasa,PALS
+MCPL,Manthan Cinema: Pali,25.7518,73.3289,Pali,PAAL
+TOPC,Top One Cinema: Palitana,21.5346,71.8275,Palitana,PALI
+RONA,Royal Cinemas: Pallipalayam,11.3587,77.754,Pallipalayam,PLLI
+PTKY,Pratheeksha Talkies: Palluruthy,9.91426,76.2788,Palluruthy,PALY
+SHPA,Shanthi Theatre: Palvancha,17.5959,80.703,Palvancha,PLWA
+SVPA,Sri Venkateshwara: Palvancha,17.5964,80.7034,Palvancha,PLWA
+RRTP,Red Rocks Cinema: Palwal,28.123,77.331,Palwal,PLWL
+SKBC,Srinivasa KB Cinemax 70MM A/C DTS: Pamuru,15.0962,79.4099,Pamuru,PMMR
+KTPA,Kokila Theatre: Pandavapura,12.5011,76.6735,Pandavapura,PAVA
+LBTP,Lal Bahadur Theatre: Pandavapura,12.505,76.6708,Pandavapura,PAVA
+DVPM,DVP Square: Pandharpur,17.6802,75.3231,Pandharpur,PNDH
+PVPP,"PVR: Fun City, Panipat",29.4104,76.9682,Panipat,PAN
+FNPN,"Fun Cinemas: Mittal Mega Mall, Panipat",29.3762,76.984,Panipat,PAN
+JTPN,Jayaram Theatre: Panruti,11.7767,79.5535,Panruti,PANT
+VJTP,Vijaya Theatre: Panruti,11.7725,79.5534,Panruti,PANT
+JAYA,Jaya Mahal: Paralakhemundi,18.7765,84.0879,Paralakhemundi,PRKM
+SKRS,SK Cinemax: Paralakhemundi,18.7846,84.0911,Paralakhemundi,PRKM
+SLTP,Sri Laxmi Talkies: Paralakhemundi,18.776,84.0872,Paralakhemundi,PRKM
+STPA,FUN Cinemas Shyam Talkies: Paratwada,21.3014,77.5174,Paratwada,PARA
+ESAP,E-SQUARE Anusaya: Parbhani,19.2574,76.7645,Parbhani,PARB
+NCPM,Naresh Cineplex: Parbhani,19.2576,76.7645,Parbhani,PARB
+SBDT,Sri Bhaskar Deluxe Theatre: Parchur,15.9666,80.2776,Parchur,PARC
+SHAP,Sharadha 70 MM: Parigi,17.1782,77.8764,Parigi,PARI
+SKPR,Sai Krishna: Parigi,17.1787,77.8819,Parigi,PARI
+NCMP,Nath Chitra Mandir: Parli,18.8466,76.5257,Parli,PRLI
+ACPG,Time Cinema: Patan,23.9141,72.3713,Patan,PATA
+CCCP,Carnival: City Point,23.8539,72.126,Patan,PATA
+TMMP,Trinity Movie Max: Pathanamthitta,9.26487,76.7894,Pathanamthitta,PTNM
+DNRP,Dhanya Remya: Pathanamthitta,9.26514,76.7891,Pathanamthitta,PTNM
+MCCM,"Miraj Cinemas: City Centre Mall, Pathankot",32.2728,75.6537,Pathankot,PATH
+PVNM,"PVR: Novelty Mall, Pathankot",32.2753,75.6973,Pathankot,PATH
+ADMS,Carnival: MSP,32.2778,75.6519,Pathankot,PATH
+BIJP,Carnival: Jagat,32.2736,75.6436,Pathankot,PATH
+BSCN,Balraj Cinemas: Nabha,30.3918,76.1195,Patiala,PATI
+SRPT,SRS Omaxe Mall: Patiala,30.3373,76.3943,Patiala,PATI
+PATB,"Cinepolis: P&M Mall, Patna",25.6339,85.1062,Patna,PATN
+RGNT,Fun Cinemas: Regent Theatre,25.6173,85.1492,Patna,PATN
+ESCP,Elphinstone Cinema,25.6177,85.1486,Patna,PATN
+MCMP,Mona 70mm: Dolby Atmos,25.6178,85.1488,Patna,PATN
+SPCP,Sushil Plaza Cinema Plex: Patna,25.5789,85.0782,Patna,PATN
+FRPU,Om Jee Cinemas: Patran,29.9527,76.0542,Patran,PATR
+KCPM,Krishna Cineplex: Pattambi,10.8017,76.1664,Pattambi,PTMB
+APPT,Annapoorna Theatre: Pattukkottai,10.418,79.3197,Pattukkottai,PATU
+DEVA,Deva Theatre: Pattukkottai,10.4253,79.3138,Pattukkottai,PATU
+SPRC,Srinivasa Prasanna Chitramandira: Pavagada,14.0964,77.2752,Pavagada,PAGD
+JTGT,Gautham Theatre: Payakaraopeta,17.3622,82.5493,Payakaraopeta,PATE
+CAIN,"Carnival: Shanthi, Payyanur",12.1082,75.2232,Payyanur,PAYY
+SRTU,SRT Cinemas: Pedanandipadu,16.0776,80.3305,Pedanandipadu,PEDN
+SLTT,Sri Lakshmi Touring Talkies: Pedapadu,16.6383,81.0386,Pedapadu,PEDD
+JTAB,Srinivasa 70MM AC Delux: Peddapalli,18.6107,79.381,Peddapalli,PEDA
+STHY,Sangeetha Theatre: Peddapalli,18.6089,79.3809,Peddapalli,PEDA
+JLSL,Lalitha Sri Lalitha Theatre: Peddapuram,17.0801,82.1326,Peddapuram,PEDP
+SOBP,Sobha Theatre: Peddapuram,17.0746,82.1406,Peddapuram,PEDP
+BIMP,Carnival: Moreshwar,18.7349,73.0923,Pen,PEN
+POJA,Pooja Shree Cineplex: Pendra,22.7734,81.9614,Pendra,PEND
+DTPD,Durgesh Talkies: Pendra,22.7551,81.9028,Pendra,PEND
+RBTP,Ram Balaji Theatre: Pennagaram,12.1278,77.9,Pennagaram,PENM
+SEPU,Sri Venkateswara A/C Dolby Sound: Penuganchiprolu,16.9053,80.2408,Penuganchiprolu,PENU
+PGDA,G7 Minerva Theatre: Penugonda,16.6563,81.7447,Penugonda,PDDG
+RJTP,Raja Cinemas: Perambalur,11.2439,78.8714,Perambalur,PERA
+CKCP,Carnival: KC Perinthalmanna,10.9696,76.2268,Perinthalmanna,PNTM
+STPE,Sharada Theatre: Periyapatna,12.3391,76.0957,Periyapatna,PERI
+CLTD,City Light: Petlad,22.4766,72.8087,Petlad,PETL
+CCPP,Cinea City Pride: Phaltan,17.9881,74.4302,Phaltan,PHAL
+AYOU,AYOU Cinemas: Pithampur,22.5651,75.7506,Pithampur,PITH
+VKTT,Venkateswara Theatre: Pitlam,18.224,77.8282,Pitlam,PILM
+HKTP,Hari Krishna Theatre: Podili,15.6091,79.6138,Podili,PODI
+SRRP,Sri Raghavendra Picture Palace: Podili,15.609,79.6155,Podili,PODI
+GBPP,Ganga Bhavani Picture Palace: Polavaram,17.2474,81.639,Polavaram,PLAB
+JVRM,Jeeva Rukmani Cinemas: Pondicherry,11.9374,79.8226,Pondicherry,POND
+SPIP,"SPI: The Cinema-Providence Mall, Puducherry",11.9289,79.82,Pondicherry,POND
+MUTH,Muruga Theatre A/C QUBE 2K DTS: Pondicherry,11.942,79.8077,Pondicherry,POND
+SAPT,Sakthi Theatre: Ponnani,10.7832,75.9488,Ponnani,PONN
+JTMV,VVM Cinemas 3D 2K AC Dts: Ponneri,13.3357,80.1947,Ponneri,PONE
+SDES,Sri Desai Theatre: Porumamilla,15.0025,78.9905,Porumamilla,PORU
+SVMP,Sri Venkateswara Mahal: Porumamilla,15.006,78.9889,Porumamilla,PORU
+JTPK,Sri V V Surya Rama Touring Talkies: Prathipadu,17.2607,82.2218,Prathipadu,PRTH
+SSRC,Sri Sai Rajeswari Complex Cine Hub: Proddatur,14.7407,78.5632,Proddatur,PROD
+SARE,Sudha Theatre: Proddatur,14.7514,78.5544,Proddatur,PROD
+ALTP,Alankar Theatre:  Ponnamaravathi,10.2757,78.5367,Pudukkottai,PUDH
+SATZ,S A Theatre: Pulluvila,8.34653,77.0348,Pulluvila,PULA
+PCWN,Penta Cinemas: Pulpally,11.7986,76.1633,Pulpally,PULP
+RRMP,Ramraj Movies,9.01904,76.9203,Punalur,PUNA
+TALP,Thai Lakshmi Cinema: Punalur,9.01869,76.9288,Punalur,PUNA
+MAVT,Sri Venkateswara Mahal: Punganur,13.3659,78.5705,Punganur,PGNR
+TMDH,Taj Mahal Theater: Punganur,13.364,78.5722,Punganur,PGNR
+LAXM,Laxmi Talkies: Puri,19.8043,85.8269,Puri,PURI
+JVRL,JVR Plaza: Purnea,25.7796,87.4768,Purnea,PURN
+VPUR,SVF Cinemas: Purulia,23.3432,86.3621,Purulia,PURU
+BATS,Barkha Talkies: Pusad,19.9046,77.5774,Pusad,PUSD
+JTKS,Sri Sai Krishna AC DTS: Pusapatirega,18.0867,83.551,Pusapatirega,PREG
+CTPR,Chellam Theatre: Puthoor,9.04055,76.7158,Puthoor,PUTR
+JTRD,Shyamshree Cinema: Radhamoni,22.3141,87.8715,Radhamoni,RDHM
+MANK,Manika Theatre: Raebareli,26.2194,81.2534,Raebareli,RAEB
+MILD,NY Cinemas Milan: Raebareli,26.2272,81.2359,Raebareli,RAEB
+CHNI,Chhayabani Cinema: Raghunathganj,24.4591,88.0665,Raghunathganj,RAGH
+PRRA,Prabhat Cinema: Rahimatpur,17.5884,74.1998,Rahimatpur,RAHI
+DYAN,Dnyaneshwar Cinema: Rahuri,19.3916,74.6472,Rahuri,RAHU
+STNR,SNT Talkies: Raichur,16.2078,77.3505,Raichur,RAUR
+CGMR,"Carnival: Grand Mall, Raigarh",21.895,83.3959,Raigarh,RAIG
+ELAC,Ela Cinemas: Raigarh,21.9097,83.3805,Raigarh,RAIG
+RATR,Ramniwas Talkies Airconditioned: Raigarh,21.8912,83.3952,Raigarh,RAIG
+RKME,RK Moviez: Raigarh,21.8762,83.3839,Raigarh,RAIG
+GLCM,Carnival: Colors Mall,21.2172,81.6564,Raipur,RAIPUR
+CXRP,"Cinemax: City Center Mall, Raipur",21.2551,81.6463,Raipur,RAIPUR
+INCR,"INOX: Ambuja City Centre, Raipur",21.2761,81.6873,Raipur,RAIPUR
+PVRP,"PVR: Magneto Mall, Raipur",21.2398,81.684,Raipur,RAIPUR
+INRP,"INOX: City Mall 36, G E Road",21.2369,81.6861,Raipur,RAIPUR
+RATI,FUN Cinemas Raj Talkies: Raipur,21.2439,81.6374,Raipur,RAIPUR
+STRC,Shyam Talkies: Raipur,21.2356,81.6327,Raipur,RAIPUR
+PTRP,Prabhat Talkies: Raipur,21.2501,81.6306,Raipur,RAIPUR
+CCPC,Cosmo Palace Cinema: Raisinghnagar,29.5374,73.4503,Raisinghnagar,RSNG
+SYTR,Swamy Theatre: Rajahmundry,17.0052,81.7785,Rajahmundry,RJMU
+VSMH,VS Mahal A/c Dts (Namavaram): Rajahmundry,16.9768,81.8361,Rajahmundry,RJMU
+GATR,Geetha Apsara Theatre: Rajahmundry,17.003,81.775,Rajahmundry,RJMU
+RUCM,Rayudu Cinemax (Rajanagaram): Rajahmundry,17.074,81.901,Rajahmundry,RJMU
+SVSM,Sri Venkata Surya Picture Palace: Kadiam,16.917,81.8054,Rajahmundry,RJMU
+MKSM,Murali Krishna Cinema A/C: Dowlaiswaram,16.9465,81.782,Rajahmundry,RJMU
+SRYR,Surya Palace: Rajahmundry,17.0078,81.773,Rajahmundry,RJMU
+SRYA,Surya Mini: Rajahmundry,17.0078,81.773,Rajahmundry,RJMU
+KUMM,Kumari Theatre: Rajahmundry,16.9961,81.7713,Rajahmundry,RJMU
+MTRP,Meenakshi Theatre: Rajapalayam,9.44864,77.5604,Rajapalayam,RAYM
+JATR,Jeya Anand Theatre: Rajapalayam,9.44204,77.5585,Rajapalayam,RAYM
+SNRP,Sri Balaji Theatre: Rajapalayam,9.4352,77.5697,Rajapalayam,RAYM
+MTAR,Milan Talkies: Rajgangpur,22.1913,84.5893,Rajgangpur,RJGR
+COSM,Cosmoplex Multiplex: Rajkot,22.271,70.7418,Rajkot,RAJK
+GACI,Galaxy Cinema: Rajkot,22.2996,70.792,Rajkot,RAJK
+GCGR,Girnar Cinema: Rajkot,22.2977,70.7928,Rajkot,RAJK
+INRR,INOX: Rajkot R World,22.3027,70.7963,Rajkot,RAJK
+IRMR,"INOX: Reliance Mega Mall, Rajkot",22.2794,70.7769,Rajkot,RAJK
+RJRT,Rajshri Cinema: Rajkot,22.2945,70.8053,Rajkot,RAJK
+BICR,Carnival: Crystal Mall,22.2799,70.7632,Rajkot,RAJK
+TRIT,Trimurti Talkies: Rajpur,21.9374,75.1332,Rajpur,RAJP
+PMCA,Prime Cinema: Rajpura,30.5055,76.6332,Rajpura,RARA
+CPTR,Cine Point Cinema: Rajula,21.0386,71.4445,Rajula,RJLA
+ASJA,"Sri Srinivasa Theatre, Velangi: Ramachandrapuram",16.8742,82.1132,Ramachandrapuram,RCPR
+SSRR,Sri Sai Ram Theatre: Ramayampet,18.1111,78.4328,Ramayampet,RAMP
+SCRM,Santhosh Cinema: Ramayampet,18.1189,78.4309,Ramayampet,RAMP
+KTRW,Kamala Talkies: Rameswarpur,23.0259,88.1913,Rameswarpur,RMPR
+LJWT,Arjun Cineplex: Ramgarhwa,26.8775,84.7875,Ramgarhwa,RGHA
+RTRB,Ranaghat Talkies: Nadia,23.1741,88.5676,Ranaghat,RANA
+SURA,Surendra Cinema: Ranaghat,23.1788,88.5721,Ranaghat,RANA
+EYLH,Eylex Cinemas: Hinoo,23.3328,85.3171,Ranchi,RANC
+FLMB,"Fun Cinemas: Springcity, Ranchi",23.3346,85.3183,Ranchi,RANC
+GLRC,Carnival: JD High Street Mall,23.3581,85.3246,Ranchi,RANC
+PKCM,"Popkorn Cinemas: Galaxia Mall, Ranchi",23.3809,85.3,Ranchi,RANC
+PVMN,"PVR: Nucleus Mall, Ranchi",23.377,85.3316,Ranchi,RANC
+SPPR,Sujata Picture Palace: Ranchi,23.3532,85.3235,Ranchi,RANC
+SRSR,SRS Cinemas: Ranchi,23.368,85.3396,Ranchi,RANC
+PACI,Plaza Cinema: Ranchi,23.3718,85.3323,Ranchi,RANC
+SSTR,Shri Shankar Talkies: Ranebennur,14.6195,75.6286,Ranebennur,RANE
+STRE,Sangam Theatre: Ranebennur,14.6242,75.6335,Ranebennur,RANE
+AACM,Anjana Chitra Mandir: Raniganj,23.6272,87.1138,Raniganj,RNGJ
+SMRM,Samundi Theatre: Rasipuram,11.466,78.1949,Rasipuram,RSPM
+VJTR,Vijayalakshmi Theater: Rasipuram,11.4608,78.1929,Rasipuram,RSPM
+GCRT,Gayatri Cinemas: Ratlam,23.3301,75.0371,Ratlam,RATL
+LTRM,Shree Lokendra Cinema (New Chairs): Ratlam,23.329,75.038,Ratlam,RATL
+SKTM,Shrikrishna Talkies: Ratlam,23.3303,75.03,Ratlam,RATL
+CPRR,City Pride Radhakrishna: Ratnagiri,16.997,73.2917,Ratnagiri,RATN
+PPPR,Padmasri Picture Palace: Ravulapalem,16.7615,81.8414,Ravulapalem,RVPL
+HILC,HIL Cinema: Renukoot,24.2144,83.0364,Renukoot,RENU
+JTER,Everest Multiplex: Rewari,28.196,76.6115,Rewari,REWA
+RAPR,Rama Palace: Rishikesh,30.1141,78.292,Rishikesh,RKES
+JYCW,Jayanti Cinema: Rishra,22.7228,88.3539,Rishra,RSRA
+RNAS,RN Cinemas: Rohtak,28.8871,76.6121,Rohtak,ROH
+BNRT,Bangar Multiplex: Rohtak,28.8967,76.5636,Rohtak,ROH
+CCLR,"Carnival: Liberty, Rohtak",28.8906,76.6041,Rohtak,ROH
+CIMA,Citi Max Cinemas: Rohtak,28.8954,76.5825,Rohtak,ROH
+SCMS,INOX: Skytech Mall,28.8979,76.6294,Rohtak,ROH
+SCRH,Shiela Cineplex: Rohtak,28.8961,76.6076,Rohtak,ROH
+RRTR,R R Cinemas: Roorkee,29.9398,78.1564,Roorkee,ROOR
+CRRR,Cineplexx: Rourkela,22.226,84.8585,Rourkela,RKOR
+PSRR,PSR Cinema: Rourkela,22.2277,84.8205,Rourkela,RKOR
+FCAX,Fun Cinemas Rave Multiplex: Rudrapur,28.9827,79.3582,Rudrapur,RUDP
+MVRP,Movietime: Rudrapur,28.9757,79.3866,Rudrapur,RUDP
+WVRP,Wave: Rudrapur,29.0019,79.3994,Rudrapur,RUDP
+KATS,Kalyan Talkies: Ropar,30.9683,76.5225,Rupnagar,RUPN
+SCRP,Smart Cinema: Rupnagar,30.9661,76.5236,Rupnagar,RUPN
+ASPT,Asian Maheshwari: Sadasivpet,17.6154,77.9481,Sadasivpet,SADA
+JYOT,Jyothi 70MM: Sadasivpet,17.6159,77.9576,Sadasivpet,SADA
+RERE,Red Rocks: Safidon,29.3995,76.6455,Safidon,SAFI
+CNCY,Cine City: Sagar,23.8526,78.7808,Sagar,SAMP
+RICH,OK Ridhima Cinema: Sagwara,23.6672,74.0265,Sagwara,SAGA
+SUSA,OK Surbhi Cinema: Sagwara,23.6672,74.0265,Sagwara,SAGA
+SRGM,"SRS: GNG Mall, Saharanpur",29.9247,77.5241,Saharanpur,SAHA
+SJMI,Sri Jai Maruthi Chitramandira: Sakleshpur,12.943,75.7917,Sakleshpur,SASA
+TTSS,Tejaswi Theatre: Sakleshpur,12.9455,75.7988,Sakleshpur,SASA
+KRMT,Krishna Metro Cinema: Sakti,22.0182,82.9593,Sakti,SAKT
+ARRS,ARRS Multiplex: Salem,11.6683,78.1343,Salem,SALM
+SALM,Kailash Prakash: Salem,11.6432,78.1615,Salem,SALM
+SGCS,Sangeeth Complex: Salem,11.6483,78.1584,Salem,SALM
+TTOR,Thangam Theatre: Omalur,11.7444,78.0482,Salem,SALM
+MNKV,M.N.K Vel Theatre: Mallasamudhram,11.4948,78.0311,Salem,SALM
+SALK,Keerthana Ramana: Salem,11.6701,78.1174,Salem,SALM
+SPTS,Sri Padmamba Talkies: Saligram,12.5635,76.2626,Saligrama,SGMA
+VIGK,Vigneswara Theatre: Samalkota,17.0512,82.1675,Samalkota,SAMA
+JTSY,Satya Krishna Theatre: Samalkot,17.0517,82.1764,Samalkota,SAMA
+ECCM,Eylex Cinemas: City Center Mall,21.4749,83.9659,Sambalpur,SAMB
+RJCP,RJ Cineplex: Sanawad,22.1782,76.0743,Sanawad,SNWD
+JTBC,Natraj Theatre: Sangareddy,17.6145,78.0818,Sangareddy,SARE
+JTTS,Rukmini Theatre: Sangareddy,17.6148,78.0788,Sangareddy,SARE
+STSR,Sitara Theatre 70MM A/C DTS: Sangareddy,17.6199,78.084,Sangareddy,SARE
+BSCA,BS Cineplex: Sangaria,29.7897,74.4594,Sangaria,SAGR
+MAFC,"Mukta A2 Cinemas: SFC Mega Mall, Sangli",16.8603,74.5698,Sangli,SANG
+SWCS,Swaroop Cinema: Sangli,16.8598,74.5801,Sangli,SANG
+SMCS,Samarth Cinema: Sangli,16.8598,74.5801,Sangli,SANG
+ADNP,"Carnival: New Pride, Sangli",16.8682,74.5742,Sangli,SANG
+PSAN,Pratap Talkies: Sangli,16.8608,74.5716,Sangli,SANG
+SVJC,Sri Venkateshwara Chitramandera: Santhebennur,14.1718,76.0047,Santhebennur,STHB
+OASX,Opera Suryansh Cineplex: Sanwer,22.991,75.8337,Sanwer,SAWR
+SPSJ,Sanjana Cinema: Saraipali,21.3174,83.0047,Saraipali,SPAL
+CCSH,City Cinema: Sarangarh,21.5882,83.0801,Sarangarh,SARH
+GKCS,Gopal Krishna Cineplex Screen 1: Sarangpur,23.5761,76.4842,Sarangpur,SARA
+GKCI,Gopal Krishna Cineplex Screen 2: Sarangpur,23.5761,76.4842,Sarangpur,SARA
+IESA,Imusica Entertainments: Satna,24.5749,80.8303,Satna,SATN
+TCSA,Opera Twin Cinema: Satna,24.5696,80.8732,Satna,SATN
+JTSE,Sai Krishna Theatre: Sattenapalle,16.4009,80.1456,Sattenapalle,SATL
+JTSL,Srinivasa Theatre: Sattenapalle,16.3939,80.1492,Sattenapalle,SATL
+EASH,Eashwar Sai Theater A/C: Sattenapalle,16.3948,80.1466,Sattenapalle,SATL
+LKST,Lakshmi Theatre A/C: Sattenapalle,16.3973,80.1496,Sattenapalle,SATL
+GCAD,Geetha Cinemas 2K A/C Dts: Seethanagaram,17.1767,81.6925,Seethanagaram,SEET
+OMPT,Omprakash Talkies: Sendhwa,21.6822,75.095,Sendhwa,SEND
+GCSE,Goodwin Cineplex: Serampore,22.7538,88.3401,Serampore,SERA
+JTPS,Parameswara 70MM: Shadnagar,17.0714,78.2094,Shadnagar,SHAD
+SHDN,Sri Sai Baba: Shadnagar,17.0686,78.2089,Shadnagar,SHAD
+MRNR,Manoranjan Cinema: Shahada,21.5461,74.4703,Shahada,SHHA
+EOSE,K-Square Cinemas: Shahdol,23.2961,81.3732,Shahdol,SHAH
+AMCB,Amba Cineplex: Shahjahanpur,27.8716,79.9081,Shahjahanpur,SHJH
+LTSA,Laxmi Talkies: Shankarampet,18.052,77.9131,Shankarampet,SHAN
+SRLX,Sri Lakshmi Talkies: Shankarpally,17.4542,78.1318,Shankarpally,SKRP
+GAME,Galleria Anjalee Cinema: Shillong,25.5738,91.877,Shillong,SHLG
+GDSL,Gold Cinema: Shillong,25.5779,91.8804,Shillong,SHLG
+BIJO,Bijou Cinema: Shillong,25.5764,91.8816,Shillong,SHLG
+RCPL,Ritz Cinema: Shimla,31.1039,77.1766,Shimla,SMLA
+SRSM,"SRS Cinemas: New ISBT, Shimla",31.0982,77.151,Shimla,SMLA
+SHAI,Shahi Theatre: Shimla,31.1043,77.17,Shimla,SMLA
+VNKS,Venkateshwara Theatre: Shirali,14.0309,74.5279,Shirali,SHIR
+CITD,Bharath Cinemas: Shivamogga,13.9304,75.5733,Shivamogga,SHIA
+VERD,Veerabhadreshwara Talkies: Shivamogga,13.9314,75.5781,Shivamogga,SHIA
+MKSK,Mallikarjuna Theatre: Shivamogga,13.9345,75.5729,Shivamogga,SHIA
+VATS,Sri Vinayaka Talkies 2K Digital: Shivamogga,13.9302,75.5703,Shivamogga,SHIA
+SHRC,Shriram Cinema: Shivpuri,25.4151,77.647,Shivpuri,SHIV
+ANTS,Anurag Cinema: Shoranur,10.7604,76.2759,Shoranur,SHNR
+KCSR,Kishor Cineplex: Shrirampur,19.6165,74.6566,Shrirampur,SHUR
+GDCS,Gold Cinema: Silchar,24.8286,92.7999,Silchar,SIL
+CCSI,Carnival Cinemas: Siliguri,26.7394,88.4027,Siliguri,SILI
+INSO,"INOX: Vega Circle Mall, Siliguri",26.7523,88.4388,Siliguri,SILI
+INSR,"INOX: City Centre, Siliguri",26.725,88.3954,Siliguri,SILI
+VSHL,Vishal Cinema: Siliguri,26.7325,88.4316,Siliguri,SILI
+BISW,Biswadeep Talkies: Siliguri,26.7286,88.4139,Siliguri,SILI
+NEWC,New Cinema: Siliguri,26.7053,88.4282,Siliguri,SILI
+JSMT,Shri Manjunatha Talkies: Sindhanur,15.7703,76.7535,Sindhanur,SIND
+SANE,Sangameshwara Theatre: Sindhanur,15.7728,76.7599,Sindhanur,SIND
+MCMC,MCM Cineplex: Waidhan,24.0651,82.6302,Singrauli,SNGR
+GACA,Gangadhar Chitra Mandir: Sinnar,19.845,73.9961,Sinnar,SINA
+SLTS,Sri Lakshmi Talkies: Sircilla,18.3863,78.8092,Sircilla,SIRC
+VIMS,Vimala Theatre: Sircilla,18.3895,78.8109,Sircilla,SIRC
+NRJS,Natraj Deluxe Theatre A/c: Sircilla,18.3863,78.8129,Sircilla,SIRC
+SLTA,Sai Laxmi Theatre: Sirohi,24.8762,72.8772,Sirohi,SIRO
+OHMC,OHM Cine Garden: Sirsa,29.5307,75.1326,Sirsa,SISA
+NUPA,Nutan Picture Palace: Sitamarhi,26.5927,85.4907,Sitamarhi,SIMA
+SCMI,SCM Cinemas: Sitapur,27.55,80.7188,Sitapur,SITA
+RJTR,Raja Theatre: Singampunari,10.1845,78.4197,Sivaganga,SHVG
+VTTK,Venkateshwara Theatre: Kalayar Kovil,9.85011,78.6371,Sivaganga,SHVG
+RVBT,Ravibala Theatre: Sivagangai,9.85445,78.4861,Sivaganga,SHVG
+KRCS,KR Cinema: Sivakasi,9.45271,77.8007,Sivakasi,SIV
+RTSV,Rasi Theatre: Sivakasi,9.46615,77.7712,Sivakasi,SIV
+BASK,Bhaskarjyoti Cinema: Sivasagar,26.953,94.5718,Sivasagar,SVSG
+BIBS,Carnival: Bhagwat,17.6773,75.8986,Solapur,SOLA
+ESOS,E-SQUARE Oasis: Solapur,17.6766,75.8985,Solapur,SOLA
+PRAR,Prabhat Talkies: Solapur,17.6754,75.8995,Solapur,SOLA
+SIPS,SKS Siva Max A/C: Sompeta,18.9418,84.5878,Sompeta,SOMA
+MXCA,Maxx Cinema: Sonipat,29.0041,77.0335,Sonipat,RAIH
+SMCD,SunMax - Chandra Mahal A/c Dts: Srikakulam,18.2953,83.9016,Srikakulam,SRKL
+AMMT,AdityaMax - Maruthi Theatre: Srikakulam,18.2907,83.897,Srikakulam,SRKL
+SUYA,Surya Mahal A/c Dts: Srikakulam,18.2949,83.9012,Srikakulam,SRKL
+SRKS,Sri RamaKrishna A/c Dts: Srikakulam,18.2969,83.8959,Srikakulam,SRKL
+SAHS,Sairam Theater: Srikalahasti,13.7513,79.7027,Srikalahasti,SRTI
+SHEA,Srinivasa Theater: Srikalahasti,13.7513,79.7027,Srikalahasti,SRTI
+BHTS,Bharathi Theater: Srirangapatna,12.4174,76.6838,Srirangapatna,SRIR
+RTWP,Ramakrishna Theatre: Watrap,9.63639,77.6343,Srivilliputhur,SRIV
+STTV,Santhosh Theatre: Srivilliputhur,9.51619,77.6311,Srivilliputhur,SRIV
+DTSR,Deivam Theatre: Srivilliputhur,9.51637,77.6264,Srivilliputhur,SRIV
+REQS,Revathi Theatre DTS QUBE: Srivilliputhur,9.52547,77.6261,Srivilliputhur,SRIV
+CNSP,Carnival Cinemas: Sultanpur,26.2667,82.0746,Sultanpur,SLUT
+SHUD,Shubham DD Plex: Sultanpur,26.2552,82.0691,Sultanpur,SLUT
+EOCS,EOS Cinema: Sundargarh,22.1043,84.0378,Sundargarh,SUND
+PCSM,PSR Cinemas: Sundargarh,22.1213,84.0263,Sundargarh,SUND
+BJCS,Black Jack Dolby Atmos: Surat,21.1755,72.8058,Surat,SURT
+CNIS,"Cinepolis: Imperial Square Mall, Surat",21.1867,72.7934,Surat,SURT
+CPUS,City Plus Multiplex: Surat,21.1361,72.7521,Surat,SURT
+CXSU,"Cinemax: Iris, Surat",21.1541,72.7643,Surat,SURT
+HARM,Harmony Cinema Dolby Atmos: Surat,21.162,72.8121,Surat,SURT
+INDR,"INOX: DR World, Surat",21.1958,72.8599,Surat,SURT
+INVR,"INOX: VR Mall, Surat",21.1453,72.7572,Surat,SURT
+INXR,"Raj Imperial, INOX: Varachha Road, Surat",21.2293,72.8967,Surat,SURT
+MPOL,"Maadhuram Multiplex: Dindoli, Surat",21.1394,72.8825,Surat,SURT
+PGBD,"Popcorn: The Grand Bhagwati, Dumas Road",21.136,72.7511,Surat,SURT
+PVSU,"PVR: Rahul Raj, Surat",21.1555,72.7667,Surat,SURT
+RJHM,"Rajhans Multiplex: Adajan, Surat",21.1838,72.7863,Surat,SURT
+RJPC,Rajhans Prime Cinemas: Piplod,21.1607,72.7743,Surat,SURT
+RUSP,Rupali Cinema: Surat,21.2134,72.7918,Surat,SURT
+RUST,Rupam Cinema: Surat,21.1865,72.8352,Surat,SURT
+TCSJ,"Time Cinema: Galaxy Circle Pal, Surat",21.1914,72.779,Surat,SURT
+VALT,Valentine Multiplex (Dolby Atmos): Surat,21.1556,72.7641,Surat,SURT
+WOPS,"Wonder Prime Cinema: Dindoli, Surat",21.1478,72.8756,Surat,SURT
+SMSN,FUN Cinemas Shiv Miniplex: Surendranagar,22.7211,71.6492,Surendranagar,SRDN
+BHUM,Birbhum Talkies: Suri,23.9144,87.5253,Suri,BSRI
+VRSU,Thirumala Theatre: Suryapet,17.1388,79.6257,Suryapet,SURY
+TEJA,Eshwara Movie Mahal: Suryapet,17.1366,79.6249,Suryapet,SURY
+AKKS,Alankar Theatre: Suryapet,17.1396,79.6211,Suryapet,SURY
+KTST,Kishore Talkies: Suryapet,17.1535,79.621,Suryapet,SURY
+NTMS,Navya Theatre: Suryapet,17.1391,79.6183,Suryapet,SURY
+JTML,Sri Ranga Mahal AC Theatre: Tadepalligudem,16.8128,81.5299,Tadepalligudem,TADP
+SVRT,Sri Venkata Rama Theatre: Tadepalligudem,16.804,81.5302,Tadepalligudem,TADP
+STAT,Sri Sai Teja Theatre: Tallapudi,17.1265,81.6663,Tallapudi,TTPP
+RUPT,Rupashree Cinema: Tamluk,22.2866,87.9243,Tamluk,TMLU
+CNLT,"Carnival: Lakhi Cinema, Tanda",31.6758,75.6348,Tanda,TNDA
+CNDR,Chandra Cinema: Tandur,17.2631,77.5885,Tandur,TAND
+ASLM,Asian Sri Laxmi Mahal: Tandur,17.2553,77.5902,Tandur,TAND
+SATT,Srinivasa A/C Theatre: Tangutur,15.3408,80.0357,Tangutur,TANG
+VMAT,V Max 2K (Sri  Veeranarayana): Tanuku,16.7479,81.6816,Tanuku,TANK
+PRTY,Pratyusha Complex: Tanuku,16.7523,81.687,Tanuku,TANK
+LKCT,Lakshmi Complex: Tanuku,16.7493,81.6831,Tanuku,TANK
+JTVK,Sri Venkateswara Complex: Tanuku,16.7597,81.691,Tanuku,TANK
+SAKY,Sri Vinayaka Talkies: Tarikere,13.7089,75.8165,Tarikere,TERE
+ANNT,Annapurna Theatre AC DTS 2K: Tatipaka,16.4952,81.8747,Tatipaka,TATI
+SLTI,Sri Lakshmi Theatre DTS: Tatipaka,16.4972,81.8809,Tatipaka,TATI
+BAVN,Bhavani Theatre: Tekkali,18.6083,84.2302,Tekkali,TKLI
+SUDT,Sudarshan Theatre: Tekkali,18.6082,84.2318,Tekkali,TKLI
+RGTT,Ramgopal Theatre: Telaprolu,16.5765,80.8933,Telaprolu,TELP
+VENS,Venus Theater: Tenali,16.2362,80.6496,Tenali,TENA
+SWRJ,Swaraj Theatre: Tenali,16.2396,80.6493,Tenali,TENA
+JTPT,"BIG Cinemas: Priya, Tenali",16.2406,80.6425,Tenali,TENA
+PSMT,PSS Multiplex: Tenkasi,8.96195,77.3072,Tenkasi,TENK
+PDTT,Padma Theatre: Tenkasi,8.96314,77.3067,Tenkasi,TENK
+ATSK,Anand Theatre: Sengottai,8.97224,77.2494,Tenkasi,TENK
+SBCJ,Shri Bhoomata Chitramandira: Terdal,16.4948,75.0485,Terdal,TERD
+ACTZ,Anwar VRS Cinema: Tezpur,26.6223,92.7964,Tezpur,TEZP
+CDTH,Carnival Downtown: Thalassery,11.7452,75.4955,Thalassery,THAY
+CCTP,Carnival: Thalayolaparambu,9.78571,76.453,Thalayolaparambu,THAL
+CNNT,"Carnival: Nice, Thalayolaparambu",9.78708,76.4405,Thalayolaparambu,THAL
+BHPD,Bharat Theatre: Thanipadi,12.1127,78.8365,Thanipadi,THPD
+JUTN,Jupiter Theatre: Thanjavur,10.7883,79.1401,Thanjavur,TANJ
+RPTR,Ranee Paradise: Thanjavur,10.7806,79.133,Thanjavur,TANJ
+VCTD,Vijay Cinema: Tharad,24.3889,71.6281,Tharad,THRD
+TRFT,Theatre Fathuma: Theni,10.0266,77.4805,Theni,THEN
+PNSC,Ponnusamy Theatre Dolby: Chinnamannur,9.83771,77.3802,Theni,THEN
+MCTH,Malleswari Theatre: Thirumalagiri,16.7223,79.3363,Thirumalagiri,THRM
+VTTI,Venkateswara A/C Theatre: Thirumalagiri,16.7222,79.3363,Thirumalagiri,THRM
+AMDT,AM Deluxe Theatre: Thiruthuraipoondi,10.5366,79.6368,Thiruthuraipoondi,THND
+VITT,Vijila Theatre Dts: Thiruthuraipoondi,10.5405,79.6387,Thiruthuraipoondi,THND
+SNST,SNS Theatre: Thiruthuraipoondi,10.5315,79.6406,Thiruthuraipoondi,THND
+NAER,Natesh Theatre: Thiruvarur,10.771,79.638,Thiruvarur,THVR
+ASCT,Aashirvad Cineplexx: Thodupuzha,9.89105,76.7075,Thodupuzha,THOD
+AWCT,Silver Hills Cinemas: Thodupuzha,9.90285,76.7153,Thodupuzha,THOD
+ASST,Ashwini Theatre: Thorrur,17.578,79.6654,Thorrur,THOR
+SNTT,Senthil Theatre: Thottiyam,10.9934,78.2149,Thottiyam,THYM
+SLCY,Sri Lakshmi Cinemas 2K: Thuraiyur,11.1525,78.6096,Thuraiyur,THYR
+GCTI,Galleria Cinemas: Tinsukia,27.492,95.3617,Tinsukia,TINS
+RCTS,Rangghar Cinema: Tinsukia,27.4882,95.355,Tinsukia,TINS
+GKTT,Ganesh Theatre: Tiptur,13.2589,76.4848,Tiptur,TIPT
+TTHR,Thrimurthi Theatre: Tiptur,13.2601,76.4685,Tiptur,TIPT
+SHTT,Shri Krishna Theatre:Tiruchendur,8.48867,78.1213,Tiruchendur,TRCD
+TTTN,Thangam Talkies: Tiruchendur,8.57091,78.0955,Tiruchendur,TRCD
+PVTI,A.Perinba Vilas Theatre: Tirunelveli,8.72602,77.7096,Tirunelveli,TIRV
+ANTR,Arunagiri Theatre A/C DTS: Tirunelveli,8.72378,77.6918,Tirunelveli,TIRV
+RTTV,Rathna Theatre: Thirunelveli,8.72884,77.6942,Tirunelveli,TIRV
+SGTT,Shri Ganesh Theatre: Tirunelveli,8.72323,77.6853,Tirunelveli,TIRV
+MPTT,Mini Pratap Theater A/c DTS: Tirupati,13.6302,79.4239,Tirupati,TIRU
+PTDT,Pratap Theater A/c DTS: Tirupati,13.6302,79.4239,Tirupati,TIRU
+STDA,Sandhya Theater 4K Dolby Atmos: Tirupati,13.631,79.4253,Tirupati,TIRU
+PTTI,Palani Theater 2K: Tirupati,13.6255,79.4174,Tirupati,TIRU
+CVTT,CVS Movie Land A/c DTS: Tirupati,13.6301,79.424,Tirupati,TIRU
+PGRC,PGR Cinemas A/C Dolby Atmos: Tirupati,13.6296,79.4245,Tirupati,TIRU
+VELR,Velrams A/c 4K Dolby Surround: Tirupati,13.6309,79.4247,Tirupati,TIRU
+CSCT,CS Cinemas A/C 4K Dolby Atmos: Tirupati,13.6385,79.4235,Tirupati,TIRU
+KRTT,Krishna Teja A/C DTS: Tirupati,13.6303,79.4239,Tirupati,TIRU
+JGTH,Jagath A/C DTS: Tirupati,13.6301,79.4227,Tirupati,TIRU
+JAYD,Jayasyam A/C 4K Dolby: Tirupati,13.6309,79.4244,Tirupati,TIRU
+STDT,Srinivas Teja A/C DTS: Tirupati,13.6301,79.4239,Tirupati,TIRU
+VKTH,Vikhyath A/C DTS: Tirupati,13.6299,79.4226,Tirupati,TIRU
+TTAT,Teja Theater A/c DTS: Tirupati,13.6302,79.4239,Tirupati,TIRU
+DRAC,"Carnival: DR Mahal, Tirupati",13.6266,79.4243,Tirupati,TIRU
+TGTT,Thirumagal Theatre: Tirupattur,12.4904,78.5626,Tirupattur,TRPR
+DAMD,Diamond Cinema: Tirupur,11.0988,77.3443,Tirupur,TIRP
+SACT,Shanti Cinemas: Tirupur,11.1246,77.3411,Tirupur,TIRP
+SNCT,Sivan Cinemas 3D: Tirupur,11.1293,77.3378,Tirupur,TIRP
+GAJL,Sri Gajalakshmi Cinemas 2K A/C: Tirupur,11.1037,77.348,Tirupur,TIRP
+SSCT,Sri Sakthi Cinemas: Tirupur,11.1055,77.3509,Tirupur,TIRP
+JTTT,Jothi theatre: Tirupur,11.1056,77.3489,Tirupur,TIRP
+KRNT,Krishna Cinema: Tirupur,11.1618,77.3474,Tirupur,TIRP
+RALR,Ramlakshman Theatre: Tirupur,11.1054,77.3503,Tirupur,TIRP
+VSMT,Varanashi Multiplex: Tirupur,11.1548,77.3095,Tirupur,TIRP
+DVTT,Deivam Theatre: Tirupur,11.3827,77.9074,Tirupur,TIRP
+MTTT,Meera Theatre: Tiruvallur,13.1445,79.8983,Tiruvallur,TRVL
+SRJT,Sri Sri Krishna Picture Palace: Tiruvuru,17.1122,80.6096,Tiruvuru,TRVR
+LCTB,Laxmi Cinema: Titagarh,22.7369,88.3733,Titagarh,TTGH
+LATG,LA Cinema: Trichy,10.8274,78.6894,Trichy,TRIC
+SMTL,"LA Cinemas, Sona Mina: Tiruchirappalli",10.8012,78.6839,Trichy,TRIC
+STCT,Star Theatre: Trichy,10.8132,78.6944,Trichy,TRIC
+TGMS,Megastar Cinemas: Trichy,10.8273,78.6862,Trichy,TRIC
+VIJA,Manghalam Cinema: Trichy,10.8072,78.6814,Trichy,TRIC
+PLTT,Palace Theatre: Tiruchirappalli,10.8151,78.6933,Trichy,TRIC
+RAMB,Ramba A/C Dolby Atmos: Trichy,10.8344,78.6935,Trichy,TRIC
+RTTU,Ramakrishna Talkies: Tiruchirappalli,10.8183,78.6922,Trichy,TRIC
+ATTI,Aruna Theatre: Trichy,10.8198,78.6767,Trichy,TRIC
+MHTT,Maharani Theatre: Tiruchirappalli,10.8264,78.7018,Trichy,TRIC
+MTTC,Murugan Theatre: Tiruchirappalli,10.8246,78.7013,Trichy,TRIC
+SRNT,Sri Rengaraj Talkies: Tiruchirappalli,10.8554,78.6901,Trichy,TRIC
+CNGE,"Carnival: Greenfield, Trivandrum",8.57154,76.8843,Trivandrum,TRIV
+DRTM,Dhanya Remya: Trivandrum,8.49067,76.9457,Trivandrum,TRIV
+HKCP,HK Cinemas Dolby Atmos: Pothencode,8.61966,76.899,Trivandrum,TRIV
+HSTK,Harisree Theatre: Kazhakuttom,8.58223,76.8612,Trivandrum,TRIV
+TGNT,New Theatre Dolby Atmos: Thampanoor,8.48772,76.9552,Trivandrum,TRIV
+SWLC,Swaram Layam Cinemas: Kattakada,8.50461,77.0886,Trivandrum,TRIV
+TGSR,Sree Kumar Theatre: Thampanoor,8.48823,76.9501,Trivandrum,TRIV
+ASLC,Ariesplex SL Cinemas,8.48853,76.9461,Trivandrum,TRIV
+MCTD,MT Cineplex 4K Dolby ATMOS: Pothencode,8.61849,76.8985,Trivandrum,TRIV
+SSHN,Sree Saraswathi Movie House: Nedumangad,8.61577,76.9923,Trivandrum,TRIV
+VSTG,GTracks Screen 1- 4K: Kadinamkulam,8.6045,76.8193,Trivandrum,TRIV
+JYTK,JV Cinemas: Kattakkada,8.50064,77.0771,Trivandrum,TRIV
+SCVT,Sindhu Cinemas: Venjarammoodu,8.67362,76.9116,Trivandrum,TRIV
+SPCT,SP Cinemas AURO 11.1: Peyad,8.51452,77.0191,Trivandrum,TRIV
+SYPN,Surya Paradise: Nedumangad,8.60791,77.0021,Trivandrum,TRIV
+TGSV,Sree Visakh 2K Theatre: Thampanoor,8.48823,76.9501,Trivandrum,TRIV
+CMRC,Carnival: Mall Of Travancore (Red Carpet),8.48769,76.926,Trivandrum,TRIV
+CNOT,"Carnival: Mall Of Travancore, Trivandrum",8.48769,76.926,Trivandrum,TRIV
+GTCK,GTracks Screen 2: Kadinamkulam,8.60425,76.8156,Trivandrum,TRIV
+PMAS,Poornima Janatha Chitramandira: Turuvekere,13.1614,76.6703,Turuvekere,TUKE
+NETT,New Cleopatra Theatre: Tuticorin,8.80075,78.1538,Tuticorin,TTCN
+SBTT,Sri Balakrishna Talkies: Tuticorin,8.80524,78.1517,Tuticorin,TTCN
+SMTU,Shree Murugan Theatre: Tuticorin,8.81987,78.156,Tuticorin,TTCN
+PVUD,"PVR: Celebration Mall, Udaipur",24.6123,73.7026,Udaipur,UDAI
+INAP,INOX: Lake City Mall,24.5863,73.7104,Udaipur,UDAI
+ASUD,FUN Cinemas Ashoka Cinema: Udaipur,24.5805,73.6968,Udaipur,UDAI
+RDHM,Raj Theatre: Udhampur,32.9309,75.1429,Udhampur,UDHM
+DNTU,Diana Theatre: Udupi,13.3292,74.7615,Udupi,UDUP
+PVUJ,"PVR: Treasure Bazaar Mall, Ujjain",23.1566,75.7945,Ujjain,UJJN
+MCUJ,Metro Cineplex: Ujjain,23.1896,75.7797,Ujjain,UJJN
+NATU,Narendra Talkies: Ujjain,23.1882,75.7778,Ujjain,UJJN
+JSRT,Jai Sairam Theatre,11.6869,79.2878,Ulundurpet,ULPT
+SNTU,Sri Narayana Theatre: Ulundurpet,11.6919,79.2928,Ulundurpet,ULPT
+SILC,Silver Pearl Cinemas(Cine Light): Umbergaon,20.1563,72.7858,Umbergaon,UMER
+SUCU,Sundar Cinema: Unnao,26.5427,80.4839,Unnao,UNNA
+AMTU,Amaravathi Theatre: Uthamapalayam,9.73885,77.2863,Uthamapalayam,UTHM
+TTUM,Thiyagaraja Theatre: Uthamapalayam,9.86727,77.2851,Uthamapalayam,UTHM
+MEXP,Man Mandir DD Plex: Utraula,27.3138,82.4094,Utraula,UTRA
+MTVA,Muruga Theatre: Vadalur,11.5567,79.5568,Vadalur,VADA
+ACCV,Alpana Cinema: Vadodara,22.2859,73.2092,Vadodara,VAD
+BLMX,Bansal Multiplex: Vadodara,22.3035,73.1383,Vadodara,VAD
+CEIM,Cinemarc: New VIP Road,22.3181,73.228,Vadodara,VAD
+CMAR,"Cinemarc: Akota, Vadodara",22.3008,73.169,Vadodara,VAD
+CMVA,Cinemera Multiplex: Vadodara,22.2935,73.2409,Vadodara,VAD
+CNBR,"Carnival: Chandan Multiplex, Vadodara",22.3254,73.0869,Vadodara,VAD
+CPIV,Cinepolis: Inorbit Vadodara Mall,22.3227,73.1662,Vadodara,VAD
+CXVD,"Cinemax: Cinemall, Vadodara",22.3109,73.159,Vadodara,VAD
+FVPN,Cinemarc Vihar: Pratapnagar,22.2892,73.2096,Vadodara,VAD
+INVD,INOX: Race Course Circle,22.3131,73.1579,Vadodara,VAD
+IRMM,"INOX: Reliance Mega Mall, Vadodara",22.2851,73.1641,Vadodara,VAD
+MAVD,"Mukta A2 Cinemas:  Centre Square Mall, Vadodara",22.3184,73.1693,Vadodara,VAD
+MRSW,Miraj Cinemas: SWC Mall,22.2803,73.1497,Vadodara,VAD
+PEMV,"PVR: EVA Mall, Vadodara",22.2731,73.1882,Vadodara,VAD
+PRTC,Pratap Cinema: Vadodara,22.3017,73.2052,Vadodara,VAD
+PVTV,"PVR: TransCube, Vadodara",22.3133,73.1813,Vadodara,VAD
+PVVD,"PVR: Deep, Vadodara",22.3405,73.1738,Vadodara,VAD
+RCVA,Rajhans Cinemas: Vadodara,22.3037,73.2012,Vadodara,VAD
+FSSM,"INOX: Seven Seas Mall, Fatehgunj",22.3229,73.1866,Vadodara,VAD
+PVTK,Prince Talkies: Vadodara,22.3019,73.2047,Vadodara,VAD
+VKTV,Vijaya Krishna Theater: Valluru,16.5606,81.8302,Valluru,VALL
+CPVS,Cine Park: Valsad,20.5836,72.9358,Valsad,VLSD
+RCWV,Rajhans Cinemas: Valsad,20.5785,72.938,Valsad,VLSD
+BIGV,Carnival: Gunjan Geet,20.3758,72.9212,Vapi,VAPI
+CPKC,"Cine Park: Chala,Vapi",20.3954,72.8928,Vapi,VAPI
+ECVP,Empress Cinemas: Vapi,20.412,72.9153,Vapi,VAPI
+TGSM,Somnath Multiplex: Daman,20.7661,72.9726,Vapi,VAPI
+IPCM,"IP Cinemas: IP Vijaya Mall, Varanasi",25.2975,83.0012,Varanasi,VAR
+IPSG,"IP Cinemas: IP Sigra Mall, Varanasi",25.3167,82.9901,Varanasi,VAR
+JHVN,JHV Cinemas: Varanasi,25.3356,82.9772,Varanasi,VAR
+PDRC,"Carnival: PDR Mall, Varanasi",25.3098,83.0029,Varanasi,VAR
+KCRV,Kamakshi Cinema Ramnagar: Varanasi,25.282,83.0323,Varanasi,VAR
+VTVK,Vimala Theatre: Varkala,8.73333,76.7289,Varkala,VKAL
+SVTZ,Sri Venkateswara Talkies A/c: Vatsavai,16.9837,80.2382,Vatsavai,VAST
+MNVL,Manivel Theatre: Vellakoil,10.9425,77.7168,Vellakoil,VELI
+ALKR,Alankar Cinemas: Vellore,12.9125,79.1305,Vellore,VELL
+APVE,Apsara Theatre: Vellore,12.9109,79.1317,Vellore,VELL
+PVRY,"PVR: Velocity, Silk Mill, Gandhi Nagar",12.9499,79.138,Vellore,VELL
+SVTL,Sri Vishnu Cinemas: Vellore,12.9431,79.135,Vellore,VELL
+VNTR,Venus Theatre: Vellore,12.9024,79.1306,Vellore,VELL
+LKMS,Lakshmi Theatre: Arcot,12.9038,79.3241,Vellore,VELL
+VPPV,Sri Venkateswara Picture Palace: Vempalli,14.3637,78.4567,Vempalli,VAIM
+SRVE,Sri Raja Rajeshwara Theatre: Vemulawada,18.4672,78.8745,Vemulawada,VERU
+SRKT,Shiva Rama Krishna Theatre: Vemulawada,18.4662,78.8756,Vemulawada,VERU
+JTJG,Sri Jagadamba Theatre: Venkatapuram,18.3063,80.5505,Venkatapuram,VNKT
+MEGH,Megh Talkies: Vidisha,23.5194,77.7964,Vidisha,VIDI
+CPCV,City Point Cine Vision: Vijapur,23.554,72.7454,Vijapur,VIUR
+VNPR,Vandana Chitra Mandir: Vijapur,23.5638,72.7488,Vijapur,VIUR
+ANPR,Annapurna Theatre: Vijayarai,16.8119,81.0347,Vijayarai,VRAI
+CCTL,"Capital Cinemas: Trendset Mall, Vijayawada",16.4985,80.6535,Vijayawada,VIJA
+CPVJ,"Cinepolis: PVP Square Mall, Vijayawada",16.5021,80.6424,Vijayawada,VIJA
+INVJ,"INOX: Urvasi Complex, Gandhi Nagar",16.5336,80.6308,Vijayawada,VIJA
+INVP,"INOX: LEPL Icon, Patamata",16.5027,80.66,Vijayawada,VIJA
+MCVJ,Miraj Cinemas: Vijayawada,16.5176,80.6286,Vijayawada,VIJA
+PVVJ,"PVR: Ripples, Vijaywada",16.501,80.6435,Vijayawada,VIJA
+BLJI,Balaji Cine Villa: Vijayawada,16.4726,80.7163,Vijayawada,VIJA
+GRYJ,G3 Raj Yuvraj (4K Dolby Atmos): Vijayawada,16.5172,80.6288,Vijayawada,VIJA
+KTVJ,Kapardhi Theatre A/C DTS: Vijayawada,16.5163,80.6284,Vijayawada,VIJA
+RCVJ,"Ravindra Cinemas: Payakapuram, Vijayawada",16.5458,80.6458,Vijayawada,VIJA
+STRV,Sakuntala Theatre: Vijayawada,16.512,80.6249,Vijayawada,VIJA
+SWTH,"Swathi Theater, Bhavanipuram: Vijayawada",16.5261,80.5945,Vijayawada,VIJA
+SLTV,Sailaja Theatre: Vijayawada,16.5162,80.6267,Vijayawada,VIJA
+RATV,Ramakrishna Talkies: Vijayawada,16.4904,80.6701,Vijayawada,VIJA
+JTSC,Swarna Multiplex: Vijayawada,16.5132,80.6263,Vijayawada,VIJA
+ATCV,Annapurna Theatre: Vijayawada,16.512,80.6249,Vijayawada,VIJA
+JTBT,"BalaKrishna Theatre, Kondapalli: Vijayawada",16.6229,80.541,Vijayawada,VIJA
+NLME,"Neelima Theater, Bhavanipuram: Vijayawada",16.5206,80.6,Vijayawada,VIJA
+ACHV,Apsara Cinema House: Vijayawada,16.5133,80.6259,Vijayawada,VIJA
+ASSL,Asian Sailaja: Vikarabad,17.3394,77.909,Vikarabad,VKBD
+JCVM,Janas Cinemas: Maghalakshmi Plaazaa Villupuram,11.9412,79.4939,Villupuram,VILL
+KTVK,Keerthi Theatre A/C DTS: Vinukonda,16.0492,79.7431,Vinukonda,VNKD
+ATVT,Amirtharaj A/C DTS Virudhunagar,9.59046,77.9527,Virudhunagar,VIRU
+INCM,"INOX: CMR Central, Maddilapalem",17.7341,83.3182,Vizag,VIZA
+INVB,"INOX: Varun Beach, Beach Road",17.7111,83.3167,Vizag,VIZA
+INVC,INOX: Vizag Chitralaya Mall,17.7125,83.3013,Vizag,VIZA
+JTKC,Sree Kanya Cinemas: Gajuwaka,17.6864,83.208,Vizag,VIZA
+KICM,Kinnera Cinema: Maddilapalem,17.7354,83.3175,Vizag,VIZA
+SLKP,Sri Lakshmi Narasimha Picture Palace: Vizag,17.7382,83.26,Vizag,VIZA
+SRDA,Sharada 4K: Vizag,17.7119,83.3024,Vizag,VIZA
+SRVV,Sri Venkateshwara Screen 1: Vizag,17.7131,83.3008,Vizag,VIZA
+JGDM,Jagadamba 4k: Vizag,17.7119,83.3024,Vizag,VIZA
+MAVC,"Mukta A2 Cinemas: Vizag Central, Vizag",17.7088,83.3002,Vizag,VIZA
+MSMV,Mohini Cinemas (Screen 1) Dolby Atmos: Gajuwaka,17.6854,83.2088,Vizag,VIZA
+STTR,Sarat Theater - 4K Dolby Atmos: Vizag,17.7255,83.3024,Vizag,VIZA
+GSTV,Ganesh A/C Dts: Tagarapuvalasa,17.9308,83.429,Vizag,VIZA
+JTBL,STBL Cine World: Vizag,17.7217,83.2032,Vizag,VIZA
+JTSX,Sukanya Complex: Vizag,17.7492,83.2197,Vizag,VIZA
+RATG,"Sri Ramulamma Theatre, Thagarapuvalasa: Vizag",17.9343,83.4256,Vizag,VIZA
+SKTV,Sree Kanya Theatre: Visakhapatnam,17.7279,83.2951,Vizag,VIZA
+SRPP,Sri Rama Picture Palace: Vizag,17.728,83.3112,Vizag,VIZA
+VMAX,V Max: Vizag,17.7118,83.3006,Vizag,VIZA
+KCMD,Kameswari Cinema: Maddilapalem,17.7354,83.3175,Vizag,VIZA
+MTMV,Mohini Cinemas (Screen 3) Dolby Atmos: Gajuwaka,17.6852,83.2087,Vizag,VIZA
+RCNM,Raja Cine Max 2K  A/c Dts: Kothavalasa,17.8819,83.189,Vizag,VIZA
+JTYS,Sangam Theatre: Visakhapatnam,17.7255,83.3025,Vizag,VIZA
+MELD,Melody 4K Dolby Atmos: Vizag,17.7113,83.3005,Vizag,VIZA
+SATY,Satyam A/C Dts: Gopalapatnam,17.7504,83.2188,Vizag,VIZA
+TTPP,Tata Picture Palace A/c Dts: Tagarapuvalasa,17.9298,83.4247,Vizag,VIZA
+SSLL,Sree Leela Mahal: Vizag,17.7138,83.2987,Vizag,VIZA
+RMDV,Ramadevi 4K: Vizag,17.7119,83.3024,Vizag,VIZA
+SVMV,Venkateshwara Screen 2: Vizag,17.7131,83.3008,Vizag,VIZA
+GDVI,Gokul A/C DTS: Vizag,17.7169,83.294,Vizag,VIZA
+INVZ,"INOX: NCS Mall, Vizianagaram",18.1071,83.399,Vizianagaram,VIZI
+SADV,Saptagiri A/C DTS: Vizianagaram,18.1061,83.3969,Vizianagaram,VIZI
+ACVZ,Aditya Theatre A/c Dts: Vizianagaram,18.118,83.4116,Vizianagaram,VIZI
+NCTH,NCS AC 4K Dolby Atmos: Vizianagaram,18.1174,83.4003,Vizianagaram,VIZI
+SVAD,Sri Venkateswara AC DTS (S.kota): Vizianagaram,18.1082,83.139,Vizianagaram,VIZI
+NPVI,New Poorna 4K A/C Dolby DTS: Vizianagaram,18.1163,83.4106,Vizianagaram,VIZI
+SMSA,Sri Srinivasa Mahal A/c Dts: S.Kota,18.1137,83.1393,Vizianagaram,VIZI
+SKVZ,Sri Krishna A/C 4K Dolby: Vizianagaram,18.1175,83.4114,Vizianagaram,VIZI
+SVML,Sri Leela Mahal A/C Dts: Viziangaram,18.1095,83.3973,Vizianagaram,VIZI
+GTSV,G3 Theatres Srinivasa Theatre: Vuyyuru,16.3698,80.8439,Vuyyuru,VYUR
+SRTW,Sri Rama 70mm A/C DTS: Wanaparthy,16.3644,78.0669,Wanaparthy,WANA
+SRIW,Srinivasa 70 MM: Wanaparthy,16.3577,78.0642,Wanaparthy,WANA
+SRRA,Sri Ranga 70MM A/C: Wanaparthy,16.3652,78.061,Wanaparthy,WANA
+VPPW,Venkateswara Picture Palace: Wanaparthy,16.3651,78.0617,Wanaparthy,WANA
+DESC,Deepti Sky Cinex: Wani,20.0441,78.9582,Wani,WANI
+RAMW,Ram Cinema: Warangal,17.9751,79.5997,Warangal,WAR
+ASMW,Asian Sridevi Multiplex: Hanumakonda,18.0045,79.563,Warangal,WAR
+SPCW,"SPI: S2 Warangal - Maddox Mall, Girmajipet",17.9765,79.6009,Warangal,WAR
+VKTR,Venkatrama Cinema: Warangal,17.978,79.6091,Warangal,WAR
+GEMC,Gemini Cinemas: Warangal,17.9878,79.5925,Warangal,WAR
+DTWG,Devi Theatre: Warangal,17.9762,79.603,Warangal,WAR
+ASVT,Asian Vijaya Theatre: Hanumakonda,18.0041,79.5696,Warangal,WAR
+LMCW,Laxman Cinema: Warangal,17.9754,79.5996,Warangal,WAR
+ACWH,Amrutha Cinema: Hanumakonda,18.0063,79.5732,Warangal,WAR
+RTWA,Radhika Theatre: Warangal,17.979,79.6001,Warangal,WAR
+BIRW,Carnival: Rajkala,20.7401,78.597,Wardha,WARD
+SCMW,Satyam Cinemax: Warora,20.2312,79.0092,Warora,WRRA
+VTWA,Vasavi Theatre: Wyra,17.1934,80.357,Wyra,WWAR
+LTYD,Laxmi Talkies: Yadagirigutta,17.5846,78.9457,Yadagirigutta,YADG
+GLUP,Carnival: Upal Universal Mall,30.1585,77.3118,Yamunanagar,YAMU
+ESYM,E-SQUARE Elements: Yavatmal,20.3575,78.1019,Yavatmal,YAVA
+STYV,FUN Cinemas Saroj Talkies: Yavatmal,20.3948,78.1354,Yavatmal,YAVA
+AACL,Apsara Cinema: Yavatmal,20.3961,78.1341,Yavatmal,YAVA
+PTYE,Praveen Talkies: Yelburga,15.6145,76.0127,Yelburga,YELB
+JTYL,Parameswari A/C DTS: Yelamanchili,17.5498,82.8519,Yellamanchili,YLMN
+JTYE,Siva Priya Talkies: Yemmiganur,15.762,77.4794,Yemmiganur,YEMM
+JTBB,Mini Siva Talkies: Yemmiganur,15.762,77.4792,Yemmiganur,YEMM
+HENN,Hema Picture Palace: Yerraguntla,14.6403,78.5369,Yerraguntla,YERR
+MTZH,Asian Maheshwari 70MM A/C DTS: Zaheerabad,17.6818,77.6163,Zaheerabad,ZAGE
+ANRG,Anurag Theatre: Zaheerabad,17.6818,77.6184,Zaheerabad,ZAGE
+ASMA,Asha Square Multiplex: Ahmednagar,19.0927,74.7362,Ahmednagar,AHMED
+ESAH,My Cinema E-SQUARE: Ahmednagar,19.1301,74.731,Ahmednagar,AHMED
+PRCC,Paradise Cinema: Cherthala,9.6853,76.3357,Alappuzha,ALPZ
+PVAL,"PVR: Vinayak, Allahabad",25.4547,81.8347,Allahabad,ALLH
+SWBL,"Starworld Cinemas: Mutthiganj, Allahabad",25.4288,81.8411,Allahabad,ALLH
+BIPJ,Carnival: Payal and Jhankar,25.4426,81.8299,Allahabad,ALLH
+SCAB,The Palace Civil Lines: Allahabad,25.4503,81.8322,Allahabad,ALLH
+RKCA,Raj Karan Cinema: Allahabad,25.4506,81.8351,Allahabad,ALLH
+CDCA,Chandralok Cinema: Allahabad,25.4378,81.8444,Allahabad,ALLH
+MNSR,Mansarovar Cinema: Allahabad,25.4384,81.8405,Allahabad,ALLH
+AJAN,Ajanta Talkies: Allahabad,25.4377,81.8435,Allahabad,ALLH
+GDAW,Gold Cinema: Alwar,27.5806,76.6156,Alwar,ALWR
+RGAR,Ragini Multiplex: Ankleshwar,21.6037,73.0139,Ankleshwar,ANKL
+SLAK,Sri Lakshmi Theatre: Aruppukottai,9.52395,78.1036,Aruppukottai,ARUP
+PPUA,Illayarani Theatre: Aruppukkottai,9.5067,78.0966,Aruppukottai,ARUP
+ASHA,"Carnival: Asha Cineplex, Beed",18.9844,75.7427,Beed,BEED
+ESBD,E-SQUARE Santoshimata: Beed,18.9945,75.7532,Beed,BEED
+SCBC,"INOX: City Centre Mall, Bhilwara",25.3435,74.6383,Bhilwara ,BHIL
+MCBB,Miraj Cinemas: Bhilwara,25.3681,74.6268,Bhilwara ,BHIL
+INGM,INOX: Bhiwadi Genesis Mall,28.1915,76.8137,Bhiwadi,BHWD
+SRBR,SRS Cinemas: Bhiwadi,28.1944,76.8123,Bhiwadi,BHWD
+EUMB,OK Cinemas: Bhiwadi,28.2128,76.8465,Bhiwadi,BHWD
+KTMB,Carnival KT Multivision: Boisar,19.7962,72.7523,Boisar,BOIS
+CCSN,C Cinemas: Chengannur,9.31838,76.6111,Chengannur,CHEG
+BICD,Carnival: Alka,22.0603,78.9455,Chhindwara,CHIN
+PANJ,Pankaj Talkies: Chhindwara,22.0586,78.9343,Chhindwara,CHIN
+SHRR,Shreyansh Talkies: Chhindwara,22.057,78.9474,Chhindwara,CHIN
+SCDD,Srinivasa Cinema: Dubbaka,18.1748,78.6646,Dubbaka,DBBK
+URVS,Asian Urvasi 70MM: Godavarikhani,18.7464,79.5096,Godavarikhani,GDVK
+SRNI,Srinivasa Theatre: Godavarikhani,18.7448,79.5101,Godavarikhani,GDVK
+FNGW,"Fun Cinemas: DD City Mall, Gwalior",26.2094,78.1663,Gwalior,GWAL
+SHST,Shree Saraswathi Theatre: Haveri,14.7879,75.3942,Haveri,HRE
+IFRM,"INOX: Forum Rangoli Mall, Belur",22.6236,88.3536,Howrah,HWRH
+INLH,"INOX: Liluah, Howrah",22.6219,88.349,Howrah,HWRH
+MRJH,Miraj Cinemas: Howrah,22.6017,88.3452,Howrah,HWRH
+PCKH,Puspashree Cinema: Kadamtala,22.5934,88.323,Howrah,HWRH
+NCUL,Narendra Cinema: Uluberia,22.4758,88.0901,Howrah,HWRH
+SJJT,"Sujata Cinema, Dasnagar: Howrah",22.5987,88.3075,Howrah,HWRH
+ERSD,Samdareeya Era Cinema: Jabalpur,23.1689,79.9336,Jabalpur,JABL
+MMSM,Movie Magic: South Avenue Mall,23.124,79.9271,Jabalpur,JABL
+CBZZ,Cinebazz: Jalpaiguri,26.5285,88.7193,Jalpaiguri,JPG
+SDCJ,Sri Dayal Cinema Hall: Jalpaiguri,26.5156,88.7186,Jalpaiguri,JPG
+RRCC,Rupmaya Cinema Hall: Jalpaiguri,26.5245,88.7198,Jalpaiguri,JPG
+JMJU,Apsara Multiplex: Jammu,32.6993,74.8583,Jammu,JAMM
+MTJA,Movietime: Jammu,32.7296,74.8463,Jammu,JAMM
+PMSJ,Platinum Movietime SPA: Jammu,32.7291,74.8474,Jammu,JAMM
+WVJM,"Wave: The Wave Mall, Jammu",32.7098,74.8929,Jammu,JAMM
+LETK,Lena theatre: Kallakurichi,11.7347,78.9634,Kallakurichi,KALL
+CCKY,Carnival: H & J Complex,9.04943,76.5355,Karunagapally,KARG
+AUTE,Arjun Theatre: Karwar,14.8266,74.132,Karwar,KWAR
+SATK,Sagara Theatre: Kattappana,9.75893,77.1167,Kattappana,AWCK
+SSCS,Santhosh Cinema: Kattappana,9.7535,77.1163,Kattappana,AWCK
+CARP,Carnival: RP Mall,8.88953,76.5858,Kollam,KOLM
+GXCK,Gmax Cinemas 2K Dolby 7.1 JBL,8.88759,76.5887,Kollam,KOLM
+AATL,Archana Aradhana Theatres: Kollam,8.88948,76.5867,Kollam,KOLM
+CAPT,"Carnival: Capithans, Kollam",8.92895,76.5505,Kollam,KOLM
+NVPK,NVP Cinema A/C: Oyoor 4K 3D,8.87473,76.7745,Kollam,KOLM
+USKO,Usha A/C Cinema: Kollam,8.88459,76.5905,Kollam,KOLM
+PRMC,Pranavam Cinemas A/C DTS 4K: Kollam,8.88456,76.5948,Kollam,KOLM
+PPAK,Partha Movie Houses 4K ATMOS,8.90595,76.6233,Kollam,KOLM
+FPKA,Fun Plaza: Kotkapura,30.592,74.8582,Kotkapura,KOTK
+OMLR,Orbit Multiplex: Kotkapura,30.5859,74.8213,Kotkapura,KOTK
+MTMY,Mahaveer Theatre: Mandya,12.5275,76.8955,Mandya,MND
+SEET,Sri SeetaRama Chitra Mandir: Manuguru,17.9425,80.8157,Manuguru,MNGU
+BIPM,Carnival: Pacific Mall,27.3834,77.691,Mathura,MATH
+GDMT,Gold Cinema: Mathura,27.4943,77.6551,Mathura,MATH
+ROOP,Roopam Starworld: Mathura,27.5094,77.6725,Mathura,MATH
+CMMK,Cinemax Theatre: Medak,18.0507,78.2631,Medak,MDAK
+GTME,Asian Sai Datta Picture Palace: Medak,18.0376,78.2616,Medak,MDAK
+SSTV,Sree Shakthi Theatre 2K A/C Dolby 7.1,11.2993,76.9394,Mettuppalayam,MTPM
+ABTM,Abirami Theatre: Mettupalayam,11.2951,76.9395,Mettuppalayam,MTPM
+MRYA,Venkateshwara Theatre: Miryalaguda,16.8755,79.5658,Miryalaguda,MRGD
+RRPP,Raghava Theatre: Miryalaguda,16.868,79.5606,Miryalaguda,MRGD
+NNCZ,Neelam Nova Cinemaz: Moga,30.8191,75.2143,Moga,MOGA
+OEMO,Orbit Multiplex: Moga,30.8337,75.1574,Moga,MOGA
+RITM,"Carnival: Ritz, Mussoorie",30.4602,78.0673,Mussoorie,MSS
+NWCC,New Capitol Cinema: Nainital,29.3899,79.4548,Nainital,NAIN
+RCNV,Rajhans Cinemas: Navsari,20.9175,72.9538,Navsari,NVSR
+CEMC,Central Cine: Navsari,20.9367,72.9401,Navsari,NVSR
+LXCM,Laxmi Cine Magic Multiplex: Navsari,20.9543,72.9229,Navsari,NVSR
+GDPG,Gold Cinema: Palghar,19.6934,72.7739,Palghar,PALG
+ATPI,Abirami Theatre: Pollachi,10.5644,76.9216,Pollachi,POLL
+STPL,Shanti Theatre: Pollachi,10.6627,77.0087,Pollachi,POLL
+VCHI,"Valliammal Thiraiarangam, Kottur: Pollachi",10.5337,76.9876,Pollachi,POLL
+MRYP,Murugalaya Theatre A/C Dolby 7.1: Pollachi,10.6561,77.0054,Pollachi,POLL
+ASTP,ATSC Theatre: Pollachi,10.6622,77.0022,Pollachi,POLL
+ESSM,EOS Silver Screen Multiplex: Rajnandgaon,21.0836,81.0286,Rajnandgaon,RAJA
+SKMT,Shree Kamal Talkies: Rajnandgaon,21.0936,81.0376,Rajnandgaon,RAJA
+KRIH,Krishna Talkies: Rajnandgaon,21.0942,81.034,Rajnandgaon,RAJA
+ACRA,Aakriti Cinema: Rewa,24.5414,81.2924,Rewa,RWAA
+CARW,Carnival Jhankar: Rewa,24.527,81.3031,Rewa,RWAA
+SCRW,Samdareeya Cinema: Rewa,24.5441,81.3201,Rewa,RWAA
+SPCS,Shiv Parvati Cinema : Sangola,17.4202,75.1534,Sangola,SNGO
+JTSA,Srinivasa Picture Palace: Sathupally,17.2097,80.8348,Sathupally,SATH
+JTSB,Sri Balaji Theater: Sathupally,17.2114,80.8334,Sathupally,SATH
+ASVS,Asian Venkateshwara: Siddipet,18.1047,78.8598,Siddipet,SDDP
+ASBL,Asian Balaji 70MM A/C: Siddipet,18.1039,78.8569,Siddipet,SDDP
+MCBS,Miraj Bioscope Cinemas: Sikar,27.6009,75.1458,Sikar,SIKR
+NMXS,New Max Cinema: Silvassa,20.2751,73.0098,Silvassa,SILV
+SUAY,Sunder Ayaan: Solan,30.9089,77.0939,Solan,SCO
+INSC,INOX: Sobha City Mall,10.5499,76.183,Thrissur,THSR
+GCDT,Ganam Cinema Dolby 7.1 Qube: Thrissur,10.5091,76.2374,Thrissur,THSR
+GTTK,Girija Theatre: Thrissur,10.5413,76.2125,Thrissur,THSR
+SCPM,Shadow Cinemas: Pazhayannur,10.6845,76.4252,Thrissur,THSR
+SRLC,Sreelakshmi Cinema Amballur 4K/2K Laser projection,10.4299,76.2668,Thrissur,THSR
+KCMR,Kalpana Chitra Mandir: Udgir,18.3814,77.1251,Udgir,UDGR
+MUCU,Miraj Usha Cinemas: Udgir,18.3935,77.1091,Udgir,UDGR
+TSTM,"Thiru Senthil Theatre, Madathukulam: Udumalppettai",10.5609,77.3597,Udumalpet,UDMP
+JBTV,Jayabharath Theatre: Vadakkencherry,10.5977,76.4814,Vadakkanchery,ACVC
+KLJL,Kalanjali Theater: Yellandu,17.5843,80.329,Yellandu,YRLL
+LKMY,Lalitha Kala Mandir: Yellandu,17.5845,80.3226,Yellandu,YRLL
