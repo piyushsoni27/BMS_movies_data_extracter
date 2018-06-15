@@ -33,7 +33,7 @@ MOVIE table : movie_ID, movie_name, city_ID
   - Extracts details about shows like show_timings and dates, theatre and city.
   
 * <b>sql.py</b> :  
- This script push the collected data to an remote MySQL server.
+ This script push the collected data to a remote MySQL server.
  
 ## How to run:
 To fetch information about certain region, just run: <b>bms_scrapper.py</b>  
